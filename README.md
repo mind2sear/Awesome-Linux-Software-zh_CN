@@ -179,14 +179,14 @@
 
 ### 数据备份与恢复
 - [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - 一款不错的的备份工具。
-- [![Open-Source Software][OSS Icon]](https://github.com/bup/bup) [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
+- [![Open-Source Software][OSS Icon]](https://github.com/bup/bup) [bup](https://bup.github.io/) - 非常高效的备份系统，基于 git packfile 格式，提供快速增量副本以及重复数据删除技术（在各种文件中，包括虚拟机镜像文件）。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/deja-dup) [Deja Dup](https://launchpad.net/deja-dup) - 一款内置加密的简单备份工具。
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) [Duplicity](http://duplicity.nongnu.org/) - Duplicity 通过生成加密的 tar 格式卷备份目录，并且可以上传备份到远端或本地文件服务器。
-- [![Open-Source Software][OSS Icon]](https://www.freefilesync.org/download.php) [FreeFileSync](https://www.freefilesync.org) - FreeFileSync is a folder comparison and synchronization software that creates and manages backup copies of all your important files. Instead of copying every file every time, FreeFileSync determines the differences between a source and a target folder and transfers only the minimum amount of data needed.
+- [![Open-Source Software][OSS Icon]](https://www.freefilesync.org/download.php) [FreeFileSync](https://www.freefilesync.org) - FreeFileSync 是一款文件夹比较和同步软件，可以创建和管理你所有重要文件的备份。它会判断源文件夹和目标文件夹之间的差异，传输必要的最小数据，而不是每次都复制所有文件。
 - [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Photorec](https://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec 一款数据恢复应用，为恢复硬盘，CD-ROM 上包括视频，文档以及归档等文件而设计，以及数码相机存储中丢失的相片（Photorec 的由来）。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/qt-fsarchiver/) [Qt-fsarchiver](https://sourceforge.net/projects/qt-fsarchiver/) - qt4-fsarchiver 是 fsarchiver 的图形化界面，能够保存/恢复分区，文件夹和 MBR/GPT 分区。这个程序是基于 Debian 的系统，OpenSuse 以及 Fedora 适用的。
 - [![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone) [rclone](https://rclone.org/) - Rclone 是一款命令行工具，用于同步文件和目录到不同的云存储方案。它还允许备份加密。
-- [![Open-Source Software][OSS Icon]](https://github.com/rsnapshot/rsnapshot) [rsnapshot](https://rsnapshot.org/) - rsnapshot is a command line utility based on rsync to make periodic snapshots of local/remote machines. The code makes extensive use of hard links whenever possible to greatly reduce the disk space required.
+- [![Open-Source Software][OSS Icon]](https://github.com/rsnapshot/rsnapshot) [rsnapshot](https://rsnapshot.org/) - rsnapshot 是一款基于 rsync 的命令行工具，为本地/远程机器创建周期性的快照。代码尽可能广泛地使用硬链接，大大减少了磁盘空间要求。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/systemrescuecd/) [System Rescue CD](http://www.system-rescue-cd.org/) - SystemRescueCd 是一款 Linux 系统急救盘，提供可启动的 CD-ROM 或 U 盘，用于管理系统在崩溃后修复系统和数据。  
 - [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Test Disk](https://www.cgsecurity.org/wiki/TestDisk) - TestDisk 是一款强大的免费数据恢复软件！它主要设计用于帮助回去丢失的分区和/或修复由软件错误导致的硬盘无法启动引导。
 - [![Open-Source Software][OSS Icon]](https://github.com/teejee2008/timeshift) [Timeshift](https://launchpad.net/timeshift) - TimeShift 是一款系统还原工具，它用 rsync 和硬链接创建系统的增量快照。快照可以在一段时间后用于恢复，撤销快照生成以来所做的所有更改。快照可以手动生成或用定时任务自动生成。
@@ -196,11 +196,11 @@
 #### 桌面主题
 
 - [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/adapta-project/adapta-gtk-theme) - 一款自适应的 Gtk+ 主题，遵循 Material 设计指南。
-- [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](https://github.com/EliverLara/Ant) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
+- [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](https://github.com/EliverLara/Ant) - Ant 是一款用于 Ubuntu 及其他基于 GNOME Linux 桌面环境的扁平化 GTK 主题，有三种风格：vanilla，Bloody 以及 Dracula。
 - [![Open-Source Software][OSS Icon]](https://github.com/NicoHood/arc-theme) [Arc Theme](https://github.com/NicoHood/arc-theme) - 带有透明元素的扁平化主题。
-- [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth.
+- [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop 是一款为 Solus 项目构建的现代桌面主题套件。它主要是扁平化的，同时为了深度效果使用了最少量的阴影。
 - [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - 一款适用于 Ubuntu 和其他基于 Gnome 的 Linux 系统的扁平化主题。
-- [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - A flat and blue GTK theme that also comes in darker versions.
+- [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - 扁平，蓝色的 GTK 主题，还有暗色版本。
 - [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) [Numix Theme](https://github.com/numixproject/numix-gtk-theme) - 一款扁平多彩的 GTK 主题。
 
 #### 桌面部件与主题工具
@@ -209,16 +209,16 @@
 - [Gnome Extensions](https://extensions.gnome.org/) - Gnome 桌面环境扩展插件。
 - [Gnome Look](https://www.gnome-look.org/) - 大量社区创建的图标，shell 主题，字体，以及其他更多的可用来个性化你的 Gnome 桌面环境的资源，都在这一个站点。
 - [![Open-Source Software][OSS Icon]](https://github.com/bilelmoussaoui/Hardcode-Tray) [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - 这个脚本通过在 Linux 中自动探测你默认主题，正确的图标尺寸，硬编码内嵌图标应用，以及正确的状态图标来修正硬编码的托盘图标。
-- [Macbuntu](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - A transformation pack for making your desktop look like a macOS.
-- [![Open-Source Software][OSS Icon]](https://git.opendesktop.org/akiraohgaki/ocs-store) [OCS store](https://www.opendesktop.org/p/1175480/) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.
-- [![Open-Source Software][OSS Icon]](https://github.com/themix-project/oomox) [Oomox theme generator](https://github.com/themix-project/oomox) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), Gnome-Colors and Archdroid icons.
-- [![Open-Source Software][OSS Icon]](https://github.com/jaagr/polybar) [Polybar](https://github.com/jaagr/polybar) - Fast and easy-to-use status bar.
-- [![Open-Source Software][OSS Icon]](https://github.com/deviantfero/wpgtk) [Wpgtk](https://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
+- [Macbuntu](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - 让你的桌面看起来变得像 macOS。
+- [![Open-Source Software][OSS Icon]](https://git.opendesktop.org/akiraohgaki/ocs-store) [OCS store](https://www.opendesktop.org/p/1175480/) - openDesktop.org 的桌面应用。openDesktop.org 是开发者和艺术家分享应用、主题和其他内容最大的社区之一。
+- [![Open-Source Software][OSS Icon]](https://github.com/themix-project/oomox) [Oomox theme generator](https://github.com/themix-project/oomox) - 一款图形化应用，用于生成基于 Numix 的和 Flat-Plat 主题（GTK2，GTK3），Gnome-Colors 和 Archdroid 图标的不同颜色风格的主题。
+- [![Open-Source Software][OSS Icon]](https://github.com/jaagr/polybar) [Polybar](https://github.com/jaagr/polybar) - 快速易用的状态栏。
+- [![Open-Source Software][OSS Icon]](https://github.com/deviantfero/wpgtk) [Wpgtk](https://deviantfero.github.io/wpgtk) - 一款使用 pywal 作为配色方案生成核心的通用主题软件，支持文本定义的主题，兼容所有终端，带有 GTK2、GTK+、openbox 以及 Tint2 的默认主题。
 
-#### Desktop Icon Packs
+#### 桌面图标包
 
-- [![Open-Source Software][OSS Icon]](https://github.com/keeferrourke/la-capitaine-icon-theme) [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
-- [![Open-Source Software][OSS Icon]](https://github.com/snwh/moka-icon-theme) [Moka Icon Theme](https://snwh.org/moka) - Moka was created with simplicity in mind. With the use simple geometry & bright colours.
+- [![Open-Source Software][OSS Icon]](https://github.com/keeferrourke/la-capitaine-icon-theme) [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - 一款 macOS 和 Material 设计启发的图标主题，设计适用于大多数桌面环境。
+- [![Open-Source Software][OSS Icon]](https://github.com/snwh/moka-icon-theme) [Moka Icon Theme](https://snwh.org/moka) - Moka 创作时牢记简洁。使用简单的几何图形和明亮的颜色。
 - [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) [Numix Icon Theme](https://github.com/numixproject/numix-icon-theme) - 扁平图标主题，带两种样式：Numix Main 和 Numix circle。
 - [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux 系统 SVG 图标主题，基于 Paper 主题并有一些额外的特性（如硬编码托盘支持，kde 颜色方案支持，libreoffice 图标主题，filezilla 主题，smplayer 主题...）以及其它的修改。这个主题适用于 GTK 以及 KDE。
 
@@ -226,7 +226,7 @@
 ### 开发
 
 #### Android
-- [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system.
+- [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) [Anbox](https://anbox.io) - 在任意 GNU/Linux 操作系统上运行安卓应用。
 - [Android studio](https://developer.android.com/studio/) - Android 的官方 IDE：Android Studio 提供在各种类型的安卓设备上构建应用最快的工具。
 
 #### C\+\+
@@ -259,15 +259,15 @@
 
 #### Golang
 - [GoLand](https://www.jetbrains.com/go/) - GoLand is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
-- [![Open-Source Software][OSS Icon]](https://github.com/visualfc/liteide) [LiteIDE X](http://liteide.org/en/) - LiteIDE is a simple, open source, cross-platform Go IDE.
+- [![Open-Source Software][OSS Icon]](https://github.com/visualfc/liteide) [LiteIDE X](http://liteide.org/en/) - LiteIDE 是一款简单、开源、跨平台的 Go IDE。
 
 #### Java
 - [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html) [BlueJ](https://bluej.org/) - 一款为新手设计的免费 Java 开发环境，世界范围内数百万人使用。
 - [Eclipse](https://eclipse.org/ide/) - Eclipse 以 Java 集成开发环境而闻名，但可以通过下载包支持 C/C++ 和 PHP。
-- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 强大的 Java IDE。 The Community version is open sourced.
+- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 强大的 Java IDE。社区版本是开源的。
 
 #### Javascript
-- [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
+- [Webstorm](https://www.jetbrains.com/webstorm/) - 强大的 IDE，用于现代 JavaScript 开发，来自 JetBrains。
 
 
 #### 微电脑和嵌入式设备
@@ -282,7 +282,7 @@
 - [![Open-Source Software][OSS Icon]](https://netbeans.apache.org/participate/index.html) [Netbeans](https://netbeans.apache.org/download/index.html) - NetBeans IDE 让你快速而且容易地开发 Java 桌面，移动以及 web 应用，还有基于 HTML，JavaScript 以及 CSS 的 HTML5 应用。
 
 #### PHP
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrain.
+- [PHPStorm](https://www.jetbrains.com/phpstorm/) - 聪明又强大的 PHP IDE，来自 Jetbrain。
 
 #### Python
 - [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community/tree/master/python) [PyCharm](https://www.jetbrains.com/pycharm/) - 强大的 Python IDE。
@@ -329,7 +329,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal 是一款面向软件开发者的离线文档阅读器。
 
 ### 电子书工具
-- [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader.
+- [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) [Bookworm](https://babluboy.github.io/bookworm/) - 简单，专注的电子书阅读器。
 - [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) [Buka](https://github.com/oguzhaninan/Buka/) - 电子书管理程序。
 - [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) [Calibre](https://calibre-ebook.com/) - 难以置信的丑但很强大的电子书管理和转换软件。
 - [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web) [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
@@ -341,7 +341,7 @@
 - [![Open-Source Software][OSS Icon]](http://repo.or.cz/w/llpp.git) [llpp](https://wiki.archlinux.org/index.php/Llpp) - A lightweight, fast, customizable and featureful PDF, EPUB, XPS and CBZ viewer with vi-like keybindings based on MuPDF.
 - [Lucidor](https://www.lucidor.org/lucidor/) - Lucidor 是一个阅读和处理电子书的电脑软件。Lucidor 支持 EPUB 格式的电子书和 OPDS 格式的目录。
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor 一款方便而智能的 Linux PDF 编辑器。
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ 漫画书查看器。
 - [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) [MuPDF](https://mupdf.com/) - 一款轻量级的 PDF 和 XPS 查看器。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular) [Okular](https://okular.kde.org/) - Okular 由 KDE 原始开发的通用文档查看器。Okular 可以在多个平台上工作，包括但不限于 Linux，Windows，Mac OS X，BSD 等等。
 - [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files.
@@ -651,7 +651,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encyrption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
 
 #### Web 服务客户端
-- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/akregator.git/) [Akregator](https://userbase.kde.org/Akregator) - A KDE Feed Reader.
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/akregator.git/) [Akregator](https://userbase.kde.org/Akregator) - 一款 KDE Feed 阅读器。
 - [![Open-Source Software][OSS Icon]](https://choqok.kde.org/) [Choqok](https://choqok.kde.org/) - Choqok is a Qt5 client for Twitter, GNU Social, Friendica and Pump.IO.
 - [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](https://corebird.baedert.org/) - corebird 是一款原生 gtk+ twitter 桌面客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader) [FeedReader](https://github.com/jangernert/FeedReader) - 一款现代的桌面应用，被设计用于补充已有的基于 web 的 RSS 账户，将所有的 web 服务优势集中到一个现代桌面应用中。
@@ -1004,14 +1004,14 @@
 ## 桌面环境
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) [Budgie](https://github.com/solus-project/budgie-desktop) - Budgie 是一个面向现代用户思想设计的桌面环境，专注于简洁与优雅。
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) [Cinnamon](https://developer.linuxmint.com/) - Cinnamon 努力提供一种传统的用户体验。Cinnamon 是一个 GNOME 3 的 fork。
-- [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/dde-file-manager/tree/develop2.0) [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
-- [![Open-Source Software][OSS Icon]](https://git.enlightenment.org/core/efl.git) [Enlightenment](https://www.enlightenment.org/about) - A lightweight and pretty desktop environment that is designed to run fast and look good, while retaining a large degree of customization.
+- [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/dde-file-manager/tree/develop2.0) [Deepin DE](https://www.deepin.org/en/dde/) - DDE（Deepin Desktop Environment）是最初为 Liuux Deepin 发行版创建的默认桌面环境。
+- [![Open-Source Software][OSS Icon]](https://git.enlightenment.org/core/efl.git) [Enlightenment](https://www.enlightenment.org/about) - 轻量美观的桌面环境，设计目标是高效美观，同时保留有很大的个性化自由度。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) [Gnome](https://www.gnome.org/gnome-3/) - GNOME 桌面环境是一个有吸引力且直观的的桌面，同时有现代（GNOME）和经典（GNOME Classic）会话模式。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback 是 GNOME 3 的一个 shell，最初叫 GNOME fallback 模式。桌面的布局和底层技术都与 GNOME 2 相似。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) [KDE Plasma](https://www.kde.org/plasma-desktop) - KDE Plasma 桌面环境是一个熟悉的工作环境。Plasma Desktop 提供现代桌面环境体验所需的所有工具，所以你可以从开始就充满生产力。
 - [![Open-Source Software][OSS Icon]](https://github.com/lxde) [LXDE](https://lxde.org/) - Lightweight X11 Desktop Environment （轻量化 X11 桌面环境）是一个快速且节能的桌面环境。
 - [![Open-Source Software][OSS Icon]](https://github.com/lxqt/lxqt) [LXQt](https://lxqt.org/) - LXQt 是 LXDE 的 Qt 移植和即将到来的版本，轻量化的桌面环境。
-- [![Open-Source Software][OSS Icon]](https://github.com/BlankOn/manokwari) [Manokwari](http://manokwari.blankonlinux.or.id/) - Desktop shell for GNOME 3 with Gtk+ and HTML5 frontend.
+- [![Open-Source Software][OSS Icon]](https://github.com/BlankOn/manokwari) [Manokwari](http://manokwari.blankonlinux.or.id/) - 带有 Gtk+ 和 HTML5 前端的 GNOME 3 桌面 shell。
 - [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) [Mate](https://mate-desktop.com/) - Mate 用传统隐喻给 Linux 用户提供一个直观又有吸引力的桌面。MATE 是 GNOME 2 的一个 fork。
 - [![Open-Source Software][OSS Icon]](https://elementary.io/) [Pantheon](https://elementary.io/) - Pantheon 是最初为发行版 elementary OS 创建的桌面环境，同时也是它的默认桌面环境。
 - [![Open-Source Software][OSS Icon]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) - Unity 是 GNOME 的一个 shell，由 Canonical 为 Ubuntu 设计。 在 Ubuntu 16.04 上安装 Unity 8 的 [教程](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video)。
@@ -1022,7 +1022,7 @@
 ### 控制台
 - [![Open-Source Software][OSS Icon]](https://github.com/evertiro/cdm) [CDM](https://github.com/evertiro/cdm) - 超简化，又功能丰富，用 bash 写就的登陆管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) [Console TDM](https://github.com/dopsi/console-tdm) - 纯 bash 写就的 xinit 扩展。
-- [![Open-Source Software][OSS Icon]](https://github.com/cylgom/ly) [Ly](https://github.com/cylgom/ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/cylgom/ly) [Ly](https://github.com/cylgom/ly) - Ly 是一款 Linux 下轻量的 TUI（类 ncurses）显示管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) [nodm](https://github.com/spanezz/nodm) - 简约的自动登陆显示管理器。
 
 ### 图形界面
@@ -1039,7 +1039,7 @@
 
 ### 合成器
 - [![Open-Source Software][OSS Icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton 是一款独立的合成管理器，适合同没有原生提供合成功能的窗口管理器一同使用。
-- [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](https://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
+- [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](https://swaywm.org) - Sway 是平铺 Wayland 合成器和 X11 下 i3 窗口管理器的新替代。
 - [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr 是一个简单的合成管理器，能够渲染下拉阴影，使用 transset 工具的话，还可以实现简单的窗口透明。
 
 ### 叠加式窗口管理器
@@ -1052,21 +1052,21 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm 是一个平铺式窗口管理器，将窗口以二叉树的叶结点的方式展现。
 - [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) [Herbstluftwm](https://herbstluftwm.org) - 使用 Xlib 和 Glib 的手工平铺式窗口管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) - 更好的平铺及动态窗口管理器。完全重写。目标平台是 GNU/Linux 和 BSD 操作系统。
-- [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python.
+- [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) [Qtile](http://www.qtile.org/) - qtile 是一款全功能，可 hack 的平铺窗口管理器，使用 Python 编写和配置。
 
 ### 动态窗口管理器
 - [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) [awesome](https://awesomewm.org) - 高度可配置，下一代 X 框架窗口管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) [dwm](https://dwm.suckless.org) - X 动态窗口管理器。它以平铺，单片镜以及浮动布局的方式管理窗口。
-- [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11, largely inspired by xmonad and dwm.
-- [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](https://xmonad.org) - A dynamically tiling X11 window manager that is written and configured in Haskell.
+- [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) [spectrwm](https://github.com/conformal/spectrwm) - 小型动态平铺 X11 窗口管理器。主要受 xmonad 和 dwm 启发。
+- [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](https://xmonad.org) - 动态平铺 X11 窗口管理器，用 Haskell 编写和配置。
 
 ## 设置
 
 - [什么是 Linux](https://www.linux.com/what-is-linux)
 - [Linux 基础术语](https://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
 - [选择最适合你的发行版](https://i.imgur.com/TV21DgN.jpg)
-- [38 Things To Do After Installing Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
-- [What do the commands on the command line mean?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
+- [安装 Ubuntu 后 38 件要做的事](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
+- [命令和命令行是什么意思？](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
 
 ### Arch Linux
 
@@ -1077,9 +1077,9 @@
 
 ### Bodhi
 
-- [What is Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
-- [Where to download Bodhi](https://www.bodhilinux.com/download/)
-- [How do I install Bodhi](https://www.bodhilinux.com/w/installation-instructions/)
+- [什么是 Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
+- [哪里去下载 Bodhi](https://www.bodhilinux.com/download/)
+- [我要怎么安装 Bodhi](https://www.bodhilinux.com/w/installation-instructions/)
 
 ### CentOS
 
@@ -1092,9 +1092,9 @@
 
 ### Fedora
 
-- [What is Fedora?](https://docs.fedoraproject.org/en-US/project/)
-- [Where to download Fedora](https://getfedora.org)
-- [How do I install Fedora?](https://docs.fedoraproject.org/en-US/fedora/f26/install-guide/install/Preparing_for_Installation/index.html)
+- [什么是 Fedora？](https://docs.fedoraproject.org/en-US/project/)
+- [哪里去下载 Fedora](https://getfedora.org)
+- [我该怎么安装 Fedora？](https://docs.fedoraproject.org/en-US/fedora/f26/install-guide/install/Preparing_for_Installation/index.html)
 - [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
 
 ### openSUSE
