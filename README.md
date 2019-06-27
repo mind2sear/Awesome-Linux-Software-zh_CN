@@ -236,11 +236,11 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/) - 全功能跨平台集成开发环境，轻松创建互联设备，用户界面以及应用程序。
 
 #### 数据库
-- [![Open-Source Software][OSS Icon]](https://github.com/apache/cassandra) [Cassandra](https://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
-- [![Open-Source Software][OSS Icon]](https://github.com/apache/couchdb) [CouchDB](https://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
-- [DataGrip](https://www.jetbrains.com/datagrip/) - DataGrip is a cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers that support DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
+- [![Open-Source Software][OSS Icon]](https://github.com/apache/cassandra) [Cassandra](https://cassandra.apache.org/) - Apache Cassandra 数据库是你需要伸缩能力和高可用时的正确选择，无需在性能上妥协。在商用硬件或云基础设施上的线性扩展和经验证的容错，让它成为关键业务数据的完美平台。
+- [![Open-Source Software][OSS Icon]](https://github.com/apache/couchdb) [CouchDB](https://couchdb.apache.org/) - 无缝多主机同步，从大数据到移动设备的伸缩能力，还拥有直观的 HTTP/JSON API，以及面向可靠性的设计。
+- [DataGrip](https://www.jetbrains.com/datagrip/) - DataGrip 是一款跨平台 IDE，面向和 SQL 数据库打交道的 DBA 和开发者。它内建的驱动支持 DB2、Derby、H2、HSQLDB、MySQL、Oracle、PostgreSQL、SQL Server、Sqlite 以及 Sybase。
 - [![Open-Source Software][OSS Icon]](https://github.com/dbeaver/dbeaver) [DBeaver](https://dbeaver.io/) - 一款通用数据库客户端，支持多个平台及多种数据库。
-- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kexi.git/about/) [Kexi](http://kexi-project.org/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kexi.git/about/) [Kexi](http://kexi-project.org/) - Kexi 是一款开源的可视化数据库创建应用，是 MS Access 或 Filemaker 久等的竞争者。
 - [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/) [MariaDB](https://mariadb.org/) - 最流行的数据库服务器之一。由原 MySQL 开发者打造。
 - [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo) [MongoDB](https://www.mongodb.com/) - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas.
 - [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) [MyCLI](https://www.mycli.net/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
@@ -252,13 +252,13 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/pmm-server) [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) is a free and open-source platform for managing and monitoring MySQL, MariaDB and MongoDB performance. You can run PMM in your own environment for maximum security and reliability. It provides thorough time-based analysis for MySQL, MariaDB and MongoDB servers to ensure that your data works as efficiently as possible.
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server) [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - Percona Server for MySQL is a free, fully compatible, enhanced, open source drop-in replacement for MySQL that provides superior performance, scalability and instrumentation.
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-xtradb-cluster) [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Cluster is an active/active high availability and high scalability open source solution for MySQL clustering. It integrates Percona Server and Percona XtraBackup with the Codership Galera library of MySQL high availability solutions in a single package that enables you to create a cost-effective MySQL high availability cluster.
-- [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) [pgcli](https://www.pgcli.com/) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting.
-- [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres) [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL 是一款开发超过 15 年的强大，开源的对象-关系型数据库系统。 PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge.
+- [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) [pgcli](https://www.pgcli.com/) - Pgcli 是 Postgres 的命令行界面，带有自动补全和语法高亮。
+- [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres) [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL 是一款开发超过 15 年的强大，开源的对象-关系型数据库系统。PostgreSQL 不由任何公司或其它私有实体控制，源代码免费提供。
 - [![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md) [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) [Sqlite Browser](https://sqlitebrowser.org/) - 可视化创建，管理，以及查看 sqlite 数据库文件。
 
 #### Golang
-- [GoLand](https://www.jetbrains.com/go/) - GoLand is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
+- [GoLand](https://www.jetbrains.com/go/) - GoLand 是来自 JetBrains 的新商业 IDE 的代号，目标是提供一个舒适的 Go 开发环境。
 - [![Open-Source Software][OSS Icon]](https://github.com/visualfc/liteide) [LiteIDE X](http://liteide.org/en/) - LiteIDE 是一款简单、开源、跨平台的 Go IDE。
 
 #### Java
@@ -332,23 +332,23 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) [Bookworm](https://babluboy.github.io/bookworm/) - 简单，专注的电子书阅读器。
 - [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) [Buka](https://github.com/oguzhaninan/Buka/) - 电子书管理程序。
 - [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) [Calibre](https://calibre-ebook.com/) - 难以置信的丑但很强大的电子书管理和转换软件。
-- [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web) [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
+- [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web) [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web 是一款提供干净的界面的 web 应用，可以使用一个已有的 Calibre 数据库浏览、阅读和下载电子书。
 - [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer) [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - 现代 GTK Python 电子书阅读应用，轻松阅读 epub 文件。
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) [Evince](https://wiki.gnome.org/Apps/Evince) - Evince 是一款支持多种格式的文档查看器。Evince 的目标是用一个简单的应用取代已经存在于 GNOME 桌面的多种文档查看器。
 - [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader) [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - 最流行的电子阅读应用之一。
 - [Foxit](https://www.foxitsoftware.com/pdf-reader/) - Foxit Reader 8.0——获得殊荣的 PDF 阅读器。
-- [![Open-Source Software][OSS Icon]](https://github.com/martahilmar/gnome-books) [Gnome Books](https://github.com/martahilmar/gnome-books) - GNOME Books is application for listing, searching and reading eBooks.
-- [![Open-Source Software][OSS Icon]](http://repo.or.cz/w/llpp.git) [llpp](https://wiki.archlinux.org/index.php/Llpp) - A lightweight, fast, customizable and featureful PDF, EPUB, XPS and CBZ viewer with vi-like keybindings based on MuPDF.
+- [![Open-Source Software][OSS Icon]](https://github.com/martahilmar/gnome-books) [Gnome Books](https://github.com/martahilmar/gnome-books) - GNOME Books 用于查看、搜索和阅读电子书。
+- [![Open-Source Software][OSS Icon]](http://repo.or.cz/w/llpp.git) [llpp](https://wiki.archlinux.org/index.php/Llpp) - 轻量快速，支持个性化以及功能丰富的 PDF、EPUB、XPS 和 CBZ 查看器，类 vi 快捷键绑定，基于 MuPDF。
 - [Lucidor](https://www.lucidor.org/lucidor/) - Lucidor 是一个阅读和处理电子书的电脑软件。Lucidor 支持 EPUB 格式的电子书和 OPDS 格式的目录。
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor 一款方便而智能的 Linux PDF 编辑器。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ 漫画书查看器。
 - [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) [MuPDF](https://mupdf.com/) - 一款轻量级的 PDF 和 XPS 查看器。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular) [Okular](https://okular.kde.org/) - Okular 由 KDE 原始开发的通用文档查看器。Okular 可以在多个平台上工作，包括但不限于 Linux，Windows，Mac OS X，BSD 等等。
-- [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files.
-- [![Open-Source Software][OSS Icon]](https://github.com/burtonator/polar-bookshelf) [Polar](https://getpolarized.io/) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
+- [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - 桌面应用，用于对 PDF 文件进行拆分，提取页面，旋转，混合以及合并。
+- [![Open-Source Software][OSS Icon]](https://github.com/burtonator/polar-bookshelf) [Polar](https://getpolarized.io/) - Polar 是一款用于 PDF 和 web 内容的个人知识库，支持增量阅读和文档注释。
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) [qpdf](https://launchpad.net/qpdfview) - qpdfview 是一款标签页式文档查看器。
 - [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil 是一款多平台 EPUB 电子书编辑器。
-- [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer.
+- [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) - Zathura 是一款高度可定制和实用的文档查看器。
 
 ### 编辑器
 - [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - 21 世纪可 hack 的文本编辑器。
@@ -357,18 +357,18 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - 可扩展，可个性化，免费/自由的文本编辑器——还有更多。
 - [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany 是一款使用了 GTK+ 工具集的文本编辑器，带有基本的集成开发环境功能。它的开发是为了成为一个小型又快速的 IDE，对其它包仅有不多的依赖。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gedit) [Gedit](https://wiki.gnome.org/Apps/Gedit) - gedit 是 GNOME 文本编辑器。尽管以简单易用为目标，gedit 仍然是个强大的多功能编辑器。
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Powerful IDE for modern C / C++ / Bash / JavaScript development, made by Gnome Team. One of the best IDE for C/C++ developement (Cmake integrated).
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - 强大的 IDE，用于现代 C / C++ / Bash / JavaScript 开发，来自 Gnome 团队。C/C++ 开发最好的 IDE 之一（内置 Cmake）。
 - [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](https://kakoune.org/) - Kakoune 代码编辑器 - 受 Vim 启发。更少的击键次数带来更快的速度。多重选中。正交设计。专注于交互。
 - [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate 是一个多文档编辑器，从 KDE 2.2 开始就是 KDE 的一部分了。
-- [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Free and open source multilanguage development environment.
+- [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - 免费开源的多语言开发环境。
 - [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持实时编码。
-- [![Open-Source Software][OSS Icon]](https://github.com/zyedidia/micro) [Micro](https://micro-editor.github.io) - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.
-- [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing.
-- [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs.
+- [![Open-Source Software][OSS Icon]](https://github.com/zyedidia/micro) [Micro](https://micro-editor.github.io) - Micro 是基于终端的文本编辑器，目标是易用且直观，同时还能利用现代终端的强大能力。
+- [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano 是一款文本编辑器，主要目的是向控制台文本编辑引入简单的界面和直观的命令选项。
+- [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim 是 Vim 的一个 fork，关注用户体验改进、插件以及 GUI。
 - [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - 社区驱动的 Emacs 版本。
 - [![Open-Source Software][OSS Icon]](https://github.com/SpaceVim/SpaceVim) [SpaceVim](https://spacevim.org/) - 社区驱动的模块化 Vim 版本。
-- [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
-- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
+- [Sublime](https://www.sublimetext.com/) - 非常强大的文本编辑器，有高级搜索能力以及强大的插件来增强功能。
+- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - 程序员的极简文本编辑器。Textadept 可用 Lua 语言扩展。
 - [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](https://www.vim.org/download.php) -Vim 是一个高级文本编辑器，寻求以更完整的功能集提供事实上的 Unix 编辑器“Vi”的强大功能。无论你已经在使用 vi 或其它编辑器，它都十分有用。
 - [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code 是一款轻量但强大的代码编辑器，提供 Windows，OS X 以及 Linux 版本。它内置了 JavaScript，TypeScript 以及 Node.js 支持，并且对其它语言（C++，C#，Python，PHP，Golang）还有丰富的插件系统和运行环境。
 
@@ -382,7 +382,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap) [GAP](https://www.gap-system.org/) - 计算离散代数领域内的一个优秀系统,主要专注于计算群论的计算。
 - [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner) [Gcompris](https://gcompris.net/index-en.html) - GCompris 是一款高质量教育软件，由无数适合 2 到 10 岁儿童的活动组成。
 - [![Open-Source Software][OSS Icon]](https://github.com/geogebra/geogebra) [Geogebra](https://www.geogebra.org/download) - 图形计算器，支持函数，几何，代数，微积分，统计以及 3D 数学。
-- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary) [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - A powerful dictionary for GNOME.
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary) [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - GNOME 的强大词典。
 - [![Open-Source Software][OSS Icon]](https://hg.savannah.gnu.org/hgweb/octave) [GNU Octave](https://www.gnu.org/software/octave/) - GNU Octave is a scientific programming language, primarily intended for numerical computations, that is mostly compatible with MATLAB.
 - [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gtypist.git) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - 基于 ncurses 的免费打字教学软件。
 - [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata) [GNUKhata](https://www.gnukhata.in/) - 开源会计软件。
@@ -713,15 +713,15 @@
 
 #### 本地搜索
 - [![Open-Source Software][OSS Icon]](https://github.com/albertlauncher/albert) [Albert](https://github.com/albertlauncher/albert) - An awesome keyboard launcher for the Linux desktop.
-- [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type.
-- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/catfish-search) [Catfish](https://launchpad.net/catfish-search) - Catfish is a versatile file searching tool.
+- [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux 文件搜索，结果键入即得。
+- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/catfish-search) [Catfish](https://launchpad.net/catfish-search) - Catfish 是多功能的文件搜索工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - 开源生产力提升工具/MacOS Spotlight 替代工具。
-- [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
+- [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) [fsearch](https://github.com/cboxdoerfer/fsearch) - 基于 GTK+3 类 Unix 系统的快速文件搜索工具。支持通配符、正则表达式和过滤器。
 - [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application.
 
 #### 杂项
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/anoise) [Ambient Noise](https://anoise.tuxfamily.org/) - Linux 下的环境噪声生成器。
-- [![Open-Source Software][OSS Icon]](https://github.com/jarun/bcal) [bcal](https://github.com/jarun/bcal) - Perform storage conversions and calculations.
+- [![Open-Source Software][OSS Icon]](https://github.com/jarun/bcal) [bcal](https://github.com/jarun/bcal) - 进行存储单位转换和计算。
 - [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) [CopyQ](https://hluk.github.io/CopyQ/) - CopyQ 是一款高级剪贴板管理器，带有编辑和脚本功能。
 - [f.lux](https://justgetflux.com/linux.html) - 自动调节你的电脑屏幕色温显示，帮助你更好地睡眠。
 - [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick) [Gpick](http://www.gpick.org/) - Gpick 让你可以从桌面任何地方取色，并且它还提供一些其它的高级特性！
