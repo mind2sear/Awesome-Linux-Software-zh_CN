@@ -242,19 +242,19 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/dbeaver/dbeaver) [DBeaver](https://dbeaver.io/) - 一款通用数据库客户端，支持多个平台及多种数据库。
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kexi.git/about/) [Kexi](http://kexi-project.org/) - Kexi 是一款开源的可视化数据库创建应用，是 MS Access 或 Filemaker 久等的竞争者。
 - [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/) [MariaDB](https://mariadb.org/) - 最流行的数据库服务器之一。由原 MySQL 开发者打造。
-- [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo) [MongoDB](https://www.mongodb.com/) - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas.
-- [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) [MyCLI](https://www.mycli.net/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
-- [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server) [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world's leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more.
-- [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-workbench) [MySQL Workbench](https://www.mysql.com/products/workbench/) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.
-- [![Open-Source Software][OSS Icon]](https://github.com/OmniDB/OmniDB) [OmniDB](https://omnidb.org/en/) - Browser-based tool that visually create, manage, and view databases.
-- ![Non Free][Money Icon] [OracleDB](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Object-relational database management system produced and marketed by Oracle Corporation, one of the most trusted and widely-used relational database engines.
-- [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server-mongodb) [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB provides all features and benefits of MongoDB Community Server.
-- [![Open-Source Software][OSS Icon]](https://github.com/percona/pmm-server) [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) is a free and open-source platform for managing and monitoring MySQL, MariaDB and MongoDB performance. You can run PMM in your own environment for maximum security and reliability. It provides thorough time-based analysis for MySQL, MariaDB and MongoDB servers to ensure that your data works as efficiently as possible.
-- [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server) [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - Percona Server for MySQL is a free, fully compatible, enhanced, open source drop-in replacement for MySQL that provides superior performance, scalability and instrumentation.
-- [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-xtradb-cluster) [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Cluster is an active/active high availability and high scalability open source solution for MySQL clustering. It integrates Percona Server and Percona XtraBackup with the Codership Galera library of MySQL high availability solutions in a single package that enables you to create a cost-effective MySQL high availability cluster.
+- [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo) [MongoDB](https://www.mongodb.com/) - MongoDB 是一款免费开源跨平台的面向文档型数据库，使用带模板的类 JSON 文档。
+- [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) [MyCLI](https://www.mycli.net/) - MyCLI 是一款 MySQL、MariaDB、Percona 的命令行界面，带有自动补全和语法高亮。
+- [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server) [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL 是世界领先的开源数据库，有着经过证明的性能，可靠性和易用性。使用它的有 Facebook、Twitter、YouTube、Yahoo! 等知名互联网企业。
+- [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-workbench) [MySQL Workbench](https://www.mysql.com/products/workbench/) - MySQL Workbench 是给数据库架构师、开发者和 DBA 使用的一体化可视工具。MySQL Workbench 为服务器配置、用户管理、备份等提供了数据模型、SQL 开发、综合管理工具。
+- [![Open-Source Software][OSS Icon]](https://github.com/OmniDB/OmniDB) [OmniDB](https://omnidb.org/en/) - 基于浏览器的工具，可视化创建，管理和查看数据库。
+- ![Non Free][Money Icon] [OracleDB](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Oracle 公司出品和销售的对象关系型数据库管理系统，最受信赖和广泛使用的关系型数据库引擎之一。
+- [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server-mongodb) [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB 提供了 MongoDB Community Server 的所有特性和优点。
+- [![Open-Source Software][OSS Icon]](https://github.com/percona/pmm-server) [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management（PMM）是一款免费开源的平台，用于管理和监控 MySQL，MariaDB 和 MongoDB 的性能。你可以在你自己的环境中运行 PMM 以保证最大化的安全和可靠性。它为 MySQL，MariaDB 和 MongoDB 提供完全基于时间的分析，确保你的数据尽可能高效流转。
+- [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server) [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - Percona Server for MySQL 是一款免费、完全兼容、加强、开源的 MySQL 替代品，提供优秀的性能，可伸缩性和仪表盘。
+- [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-xtradb-cluster) [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Cluster 是一款双活高可用，高弹性的 MySQL 集群开源解决方案。它在一个包里集成了 Percona Server 和 Percona XtraBackup，带 Codership Galera library of MySQL 高可用解决方案，让你可以创建高性价比的 MySQL 高可用集群。
 - [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) [pgcli](https://www.pgcli.com/) - Pgcli 是 Postgres 的命令行界面，带有自动补全和语法高亮。
 - [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres) [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL 是一款开发超过 15 年的强大，开源的对象-关系型数据库系统。PostgreSQL 不由任何公司或其它私有实体控制，源代码免费提供。
-- [![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md) [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.
+- [![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md) [Sqlite](https://sqlite.org/download.html) - SQLite 是一个进程内的库，实现了自给自足的、无服务器的、零配置的、事务性的 SQL 数据库引擎。
 - [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) [Sqlite Browser](https://sqlitebrowser.org/) - 可视化创建，管理，以及查看 sqlite 数据库文件。
 
 #### Golang
@@ -296,35 +296,35 @@
 - [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - 一款强大的命令行 shell。
 
 #### 支持工具
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/) [Cscope](http://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor. It allows searching code for symbols, definitions, functions (called/calling), regex, files.
-- [![Open-Source Software][OSS Icon]](https://github.com/cytopia/devilbox) [Devilbox](https://github.com/cytopia/devilbox) - The devilbox is a modern and highly customisable dockerized PHP stack supporting full LAMP and MEAN and running on all major platforms. The main goal is to easily switch and combine any version required for local development.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) [Diffuse](http://diffuse.sourceforge.net/) - Diffuse is a graphical tool for comparing and merging text files. It can retrieve files for comparison from Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, and SVK repositories.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/) [Cscope](http://cscope.sourceforge.net/) - Cscope 是一款浏览源码的开发者工具。尽管是命令行程序，它可以原生集成到 Vim 编辑器中。它可以在代码中搜索符号、定义、函数（已调用/正在调用）、正则、文件。
+- [![Open-Source Software][OSS Icon]](https://github.com/cytopia/devilbox) [Devilbox](https://github.com/cytopia/devilbox) - Devilbox 是一款现代的、高度可配置的 docker 化 PHP 栈，支持 LAMP 和 MEAN，可以在所有主要平台上运行。它的主要目标是在本地开发时轻松切换和结合任何需要的软件版本。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) [Diffuse](http://diffuse.sourceforge.net/) - Diffuse 是一款比较和合并文本文件的图形化工具。它可以从 Bazaar、CVS、Darcs、Git、Mercurial、Monotone、RCS、Subversion 以及 SVK 仓库获取文件来比较。
 - [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip) [Fossil](https://www.fossil-scm.org) - 自包含，分布式软件配置管理系统，带有集成 bug 追踪，wiki，技术说明和 web 界面。
 - ![Nonfree][Money Icon] [Genymotion](https://www.genymotion.com/desktop/) - Genymotion 是一款可以用来替代默认安卓模拟器的第三方模拟器。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/giggle/) [Giggle](https://wiki.gnome.org/action/show/Apps/giggle) - Giggle 是一款 git 内容追踪的图形化前端。
-- [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto) [Gisto](https://www.gistoapp.com/) - Gisto is a code snippet manager that runs on GitHub Gists and adds additional features such as searching, tagging and sharing gists while including a rich code editor.
+- [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto) [Gisto](https://www.gistoapp.com/) - Gisto 是一款代码段管理器，基于 Github Gist 运行，添加了额外的功能，如搜索、标签、分享 gist，含代码编辑器。
 - [![Open-Source Software][OSS Icon]](https://github.com/git/git) [Git](https://git-scm.com/) - Git 是一款免费和开源的分布式版本管理系统，被设计用来快速和高效地处理从小项目到大项目的一切内容。
 - [![Open-Source Software][OSS Icon]](https://github.com/git-cola/git-cola) [GitCola](https://git-cola.github.io/) - Git Cola 是一款整洁且强大的图形化 Git 客户端。用 Python 写就并签署于 GPL 协议。
-- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gitg) [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg is the GNOME GUI client to view git repositories.
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gitg) [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg 是查看 git 仓库的 GNOME 图形界面客户端。
 - [GitKraken](https://www.gitkraken.com/) - 强大酷炫的 Git 图形化客户端，支持 Windows，Mac 以及 Linux。
-- [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab is a web-based Git repository manager with wiki and issue tracking features.
-- [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features.
-- [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/source/heaptrack/repository/master/) [Heaptrack](https://phabricator.kde.org/source/heaptrack/repository/master/) - a heap memory profiler for Linux
+- [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab 是一个基于 web 的 Git 仓库管理工具，带有 wiki 和 issue 追踪等功能。
+- [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite 允许你在中心化服务器上搭建 git 托管，拥有细粒度的权限管理和很多其他强大功能。
+- [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/source/heaptrack/repository/master/) [Heaptrack](https://phabricator.kde.org/source/heaptrack/repository/master/) - Linux 堆内存分析工具。
 - [Insomnia](https://insomnia.rest/) - 一款简单，漂亮且免费的 REST API 客户端。
 - [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - 开源，交互式数据科学和科学计算，支持超过 40 种编程语言。
-- [![Open-Source Software][OSS Icon]](https://meldmerge.org/development.html) [Meld](https://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
-- [Mockingbot](https://mockingbot.com) - Mockingbot is an easy-to-use prototyping tool.
+- [![Open-Source Software][OSS Icon]](https://meldmerge.org/development.html) [Meld](https://meldmerge.org/) - Meld 是一款可视化 diff 和 merge 工具，帮助你比较文件，目录以及有版本控制的项目。
+- [Mockingbot](https://mockingbot.com) - Mockingbot 是一款易用的原型工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) [Nemiver](https://github.com/GNOME/nemiver) - Nemiver 项目编写集成到 GNOME 桌面环境的独立图形调试器。
-- [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) [Pencil](https://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.
+- [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) [Pencil](https://pencil.evolus.vn/) - 开源图形界面原型工具，在各平台可用。
 - [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](https://kryogenix.org/code/pick/) - 简单的拾色器。
-- [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
+- [Postman](https://www.getpostman.com) - Postman 允许用户快速开发和测试 API。
 - [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS 是一个图形工具的集合，提供一个与你使用的版本控制系统简单而直接的访问方式。
 - ![Nonfree][Money Icon] [SmartGit](https://www.syntevo.com/smartgit/) - SmartGit 是一款 Git 客户端，支持 Github 的 Pull Requests 和评论以及 SVN。
 - ![Non Free][Money Icon] [StarUML](http://staruml.io/) - 一款精致的软件塑造者。
-- [![Open-Source Software][OSS Icon]](https://github.com/uncrustify/uncrustify) [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C/C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter.
-- [![Open-Source Software][OSS Icon]](https://sourceware.org/git/?p=valgrind.git) [Valgrind](http://valgrind.org/) - Valgrind is a GPL'd system for debugging and profiling Linux programs.
-- [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - The GNU wdiff program is a front end to diff for comparing files on a word per word basis. It collects the diff output and uses it to produce a nicer display of word differences between the original files.
+- [![Open-Source Software][OSS Icon]](https://github.com/uncrustify/uncrustify) [Uncrustify](http://uncrustify.sourceforge.net/) - C/C++、C#、ObjectiveC、D、Java、Pawn、VALA 源代码美化工具。参见下方的 UniversalIndentGUI。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI 提供几乎任何格式化设置的即时预览。
+- [![Open-Source Software][OSS Icon]](https://sourceware.org/git/?p=valgrind.git) [Valgrind](http://valgrind.org/) - Valgrind 是一款遵守 GPL 的 Linux 程序调试和性能分析工具。
+- [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - GNU wdiff 程序是一个 diff 前端，逐词比较文件。它收集 diff 的输出并用它产生更美观的源文件比对结果。
 - [![Open-Source Software][OSS Icon]](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) [Wireshark](https://www.wireshark.org/) - Wireshark 是世界领先的网络协议分析器。它让你可以在微观层级观察你的网络上发生了什么。它是许多工业和教育行业事实上的（经常也是法律上的）标准。
 - [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal 是一款面向软件开发者的离线文档阅读器。
 
@@ -430,7 +430,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/caja) [Caja](https://mate-desktop.org/) - MATE 桌面环境的默认文件管理器，非常快速易用。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin) [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin 是 KDE 桌面环境的默认文件管理器，易用且功能强大。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/doublecmd/) [Double Commander](https://doublecmd.sourceforge.io/) - Double Commander 是一款跨平台的开源双栏文件管理器。它受 Total Commander 启发并有自己的新想法。
-- [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html) [Krusader](https://krusader.org) - Krusader is an advanced twin panel (commander style) file manager for KDE and other desktops in the \*nix world, similar to Midnight or Total Commander.
+- [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html) [Krusader](https://krusader.org) - Krusader 是一款高级的双栏（commander 风格）文件管理器，用于 KDE 以及其他 \*nix 世界的桌面环境，与 Midnight 或 Total Commander 相似。
 - [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander/mc) [Midnight Commander](https://www.midnight-commander.org/) - 一个功能丰富的全屏文件管理器，你可以复制，移动和删除文件以及整个文件夹树。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus) [Nautilus](https://wiki.gnome.org/Apps/Files) - Nautilus（Files）鹦鹉螺是为适配 Gnome 桌面设计和行为所设计的文件管理器，给用户一个简单的方式导航和管理文件。
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) [Nemo](https://github.com/linuxmint/nemo) - Nemo 是一款 Cinnamon 桌面环境下的文件管理器。
@@ -438,8 +438,8 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/teejee2008/polo) [Polo](https://teejee2008.github.io/polo) - Polo 是一款现代，轻量的 Linux 文件管理器，支持多面板和多标签、归档以及更多功能。
 - [![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - 基于 Qt 的文件夹统计——不用 KDE 的 KDirStat，来自原 KDirStat 开发者的作品。
 - [![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) [Ranger](https://ranger.github.io/) - Ranger 是一款使用 VI 快捷键的终端文件管理器。
-- [![Open-Source Software][OSS Icon]](https://github.com/IgnorantGuru/spacefm) [SpaceFM](https://ignorantguru.github.io/spacefm/) - Multi-panel tabbed file and desktop manager with built-in VFS, udev- or HAL-based device manager, customisable menu system and bash-GTK integration.
-- [![Open-Source Software][OSS Icon]](https://github.com/vifm/vifm) [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with VI like keybindings, which also borrows some useful ideas from mutt.
+- [![Open-Source Software][OSS Icon]](https://github.com/IgnorantGuru/spacefm) [SpaceFM](https://ignorantguru.github.io/spacefm/) - 多栏标签式文件及桌面管理器，内置 VFS、udev- 或基于 HAL 的设备管理器，菜单可配置，支持 bash-GTK 集成。
+- [![Open-Source Software][OSS Icon]](https://github.com/vifm/vifm) [Vifm](https://vifm.info/) - Vifm 是基于 ncurses 的文件管理器，带有类 VI 按键绑定，还从 mutt 借鉴了一些有用的点子。
 
 ### 游戏
 
@@ -963,7 +963,7 @@
 - [![Open-Source Software][OSS Icon]](https://git.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer 是一个让你可以配置 GRUB2/BURG 设置和启动项的图形化界面。
 - [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) [Mycroft](https://github.com/MycroftAI/mycroft-core) - Mycroft 是一款可 hack 的开源语音助手。
 - [![Open-Source Software][OSS Icon]](https://github.com/polychromatic/polychromatic) [Polychromatic](https://polychromatic.app/) - 在 GNU/Linux 下配置雷蛇外设的图形化前端和托盘插件。
-- [![Open-Source Software][OSS Icon]](https://github.com/z411/trackma) [trackma](https://z411.github.io/trackma/) - Open multi-site list manager for Unix-like systems.
+- [![Open-Source Software][OSS Icon]](https://github.com/z411/trackma) [trackma](https://z411.github.io/trackma/) - 类 Unix 系统开放多站点列表管理工具。
 
 ## 命令行工具
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku) [Buku](https://github.com/jarun/Buku) - 命令行书签管理器。
@@ -996,10 +996,10 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck) [TheFuck](https://github.com/nvbn/thefuck) - 杰出的应用，它能纠正你的输入的错误命令。
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://github.com/tmux/tmux) - 它让你在一个终端中在多个程序间方便地切换，分离他们（保持在后台运行）并另一个终端中重新连接上去。以及还有好多事情可以做。
 - [十佳命令行工具](https://lifehacker.com/top-10-command-line-tools-399468)
-- [![Open-Source Software][OSS Icon]](https://github.com/soimort/translate-shell) [translate-shell](https://www.soimort.org/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
-- [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
+- [![Open-Source Software][OSS Icon]](https://github.com/soimort/translate-shell) [translate-shell](https://www.soimort.org/translate-shell) - 命令行翻译，可以使用 Google、Bing、Yandex 等翻译。
+- [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - 一款可以在长时间运行的命令结束后播放声音或发出通知的命令行程序。
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行 WiFi 连接管理器。
-- [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific.
+- [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://rg3.github.io/youtube-dl/) - youtube-dl 是一款命令行工具，可以从 YouTube.com 以及一些其他站点下载内容。需要 Python 解释器（2.6，2.7，或 3.2+），不局限于特定平台。
 
 ## 桌面环境
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) [Budgie](https://github.com/solus-project/budgie-desktop) - Budgie 是一个面向现代用户思想设计的桌面环境，专注于简洁与优雅。
