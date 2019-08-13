@@ -491,29 +491,29 @@
 - [![Open-Source Software][OSS Icon]](https://itsfoss.com/play-tron-game-linux-terminal/) [Tron](https://itsfoss.com/play-tron-game-linux-terminal/) - 在命令行玩最佳动作游戏，Tron。
 
 #### 杂项
-- [![Open-Source Software][OSS Icon]](https://github.com/viewizard/astromenace) [AstroMenace](https://viewizard.com/) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities.
+- [![Open-Source Software][OSS Icon]](https://github.com/viewizard/astromenace) [AstroMenace](https://viewizard.com/) - 硬核 3D 空间卷轴射击游戏，飞船可以升级。
 - [![Open-Source Software][OSS Icon]](https://github.com/Cockatrice/Cockatrice) [Cockatrice](https://cockatrice.github.io/) - Cockatrice 是一个开源的多平台网络桌面卡牌游戏支持程序。
-- [![Open-Source Software][OSS Icon]](https://github.com/cxong/cdogs-sdl) [C-Dogs SDL](https://cxong.github.io/cdogs-sdl/) - Classic overhead run-and-gun game in beautiful pixel-art.
-- [![Open-Source Software][OSS Icon]](http://wiki.flightgear.org/Portal:Developer) [FlightGear](https://home.flightgear.org/) - Professional quality 3D flight simulator.
-- [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](https://www.nongnu.org/galois/) - Galois is a Falling Blocks type game that isn't limited to the standard tetrominoes that most games in it's genre are limited to.
+- [![Open-Source Software][OSS Icon]](https://github.com/cxong/cdogs-sdl) [C-Dogs SDL](https://cxong.github.io/cdogs-sdl/) - 经典的向上跑轰游戏，漂亮的像素艺术。
+- [![Open-Source Software][OSS Icon]](http://wiki.flightgear.org/Portal:Developer) [FlightGear](https://home.flightgear.org/) - 专业品质的 3D 飞行模拟。
+- [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](https://www.nongnu.org/galois/) - Galois 是方块下落类游戏，它不像大多数同类型游戏那样局限于标准的四方连块。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gbrainy/) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy) - Gbrainy 是一个脑筋急转弯游戏，获得乐趣并且锻炼你的大脑。
 - ![Nonfree][Money icon] [Minecraft](https://minecraft.net) - Minecraft 是一个关于放置方块和冒险的游戏。探索随机生成的世界，建造惊奇的事物，从最简单的家到最伟大的城堡。
 - [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - 开源的 Minecraft 实现，由 C++ 写就（占用更少的资源），还包含模组扩展 API。
-- [![Open-Source Software][OSS Icon]](https://github.com/Mudlet/Mudlet) [Mudlet](https://www.mudlet.org/) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
-- [![Open-Source Software][OSS Icon]](https://github.com/Neverball/neverball) [Neverball](https://neverball.org/) - Addictive ball-rolling game with many levels, avatars and an ability to record replays.
+- [![Open-Source Software][OSS Icon]](https://github.com/Mudlet/Mudlet) [Mudlet](https://www.mudlet.org/) - 跨平台开源，超快的 MUD（纯文本 MMORPG）客户端，支持 Lua 脚本。
+- [![Open-Source Software][OSS Icon]](https://github.com/Neverball/neverball) [Neverball](https://neverball.org/) - 令人上瘾的滚球游戏，有许多关卡，角色，还可以录制回放。
 - [OhMyGiraffe](http://ohmygiraffe.com) - 令人愉快的生存游戏。一款关于吃水果和被狮子吃的长颈鹿的游戏。
-- [![Open-Source Software][OSS Icon]](https://gitlab.com/pingus/pingus) [Pingus](https://pingus.seul.org/) - 2D puzzle game that clones the popular Lemmings. Your goal is to guide a group of penguins safely across the game map.
-- [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake) [Snake Game](https://alpcoskun.github.io/snake/) - Cross-platform Classic Snake Game based on Node.js.
-- [![Open-Source Software][OSS Icon]](https://github.com/SuperTux/supertux/) [SuperTux](http://www.supertux.org/) - Clone of the popular sidescrolling Super Mario games.
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/pingus/pingus) [Pingus](https://pingus.seul.org/) - 克隆流行的 Lemmings 的 2D 谜题游戏。你的目标是引导一群企鹅安全穿过地图。
+- [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake) [Snake Game](https://alpcoskun.github.io/snake/) - 基于 Node.js 的跨平台经典贪吃蛇游戏。
+- [![Open-Source Software][OSS Icon]](https://github.com/SuperTux/supertux/) [SuperTux](http://www.supertux.org/) - 流行的横向卷轴超级马里奥游戏的克隆。
 - [![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart 是一款 3D 开源的赛车竞技游戏，有不同的人物，赛道以及模式。
-- [![Open-Source Software][OSS Icon]](https://xmoto.tuxfamily.org/index.php) [XMoto](https://xmoto.tuxfamily.org/) - 2D motocross physics-based game requiring a lot of skill to master, with a built-in replay-recording and sharing system.
+- [![Open-Source Software][OSS Icon]](https://xmoto.tuxfamily.org/index.php) [XMoto](https://xmoto.tuxfamily.org/) - 基于物理的 2D 越野摩托游戏，达到大师级需要很多的技能，带有内置的回放和分享系统。
 
 #### 引擎重制（需要实际游戏）
-- [![Open-Source Software][OSS Icon]](http://nxengine.sourceforge.net/) [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, source needs to be built.
-- [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](https://openage.sft.mx/) - Free (as in freedom) open source clone of the Age of Empires II engine, source needs to be built.
-- [![Open-Source Software][OSS Icon]](https://github.com/OpenMW/openmw) [OpenMW](https://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
-- [![Open-Source Software][OSS Icon]](https://github.com/OpenRA/OpenRA) [OpenRA](https://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source.
-- [![Open-Source Software][OSS Icon]](https://github.com/OpenRCT2/OpenRCT2) [OpenRCT2](https://openrct2.io/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests.
+- [![Open-Source Software][OSS Icon]](http://nxengine.sourceforge.net/) [NXEngine](http://nxengine.sourceforge.net/) - 原生运行在 Linux 上的 Cave Story 开源移植，需要源码构建。
+- [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](https://openage.sft.mx/) - 帝国时代 II 引擎的自由开源实现，需要源码构建。
+- [![Open-Source Software][OSS Icon]](https://github.com/OpenMW/openmw) [OpenMW](https://openmw.org) - Morrowind 引擎重制，在原版上做了扩展。可以用来游玩原版游戏的合法副本。
+- [![Open-Source Software][OSS Icon]](https://github.com/OpenRA/OpenRA) [OpenRA](https://www.openra.net/) - 现代化重建的经典策略游戏。开源。
+- [![Open-Source Software][OSS Icon]](https://github.com/OpenRCT2/OpenRCT2) [OpenRCT2](https://openrct2.io/) - Rollercoaster Tycoon 2 引擎的重制。需要原游戏的资源文件。
 
 #### 游戏软件
 - [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - itch.io 的应用。你的所有下载都在一个地方，并且能自动升级。有很多免费游戏。
@@ -524,17 +524,17 @@
 - [![Open-Source Software][OSS Icon]](https://dl.winehq.org/wine/source/) [Wine](https://www.winehq.org/) - Wine（“Wine Is Not an Emulator”的首字母缩写）是一个兼容层，可以在若干 POSIX 兼容的系统上运行 Windows 程序，比如 Linux，Mac OS X，以及 BSD。在 Linux 上的软件运行质量各个游戏有所不同。
 
 #### 模拟器
-- [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/fuse-emulator/) [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse (the Free Unix Spectrum Emulator) is a ZX Spectrum emulator for Unix.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
-- [![Open-Source Software][OSS Icon]](https://gitlab.com/higan/higan) [Higan](https://byuu.org/emulation/higan/) - Higan is a multi-system emulator that supports emulating a huge number of different systems including: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System, and more. Here is a guide to install it on Linux [Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/).
-- [![Open-Source Software][OSS Icon]](https://github.com/mamedev/mame) [MAME](https://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.
+- [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin 是一款 GameCube / Wii 模拟器，允许你在 PC 平台上玩优化过的这些平台上的游戏。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/fuse-emulator/) [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse（Free Unix Spectrum Emulator）是 Unix 下的 ZX Spectrum 模拟器。
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade 是一款简单的 Mame 前端，用于任何 freedesktop.org 兼容的桌面环境。
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/higan/higan) [Higan](https://byuu.org/emulation/higan/) - Higan 是一款多系统模拟器，支持模拟很多不同系统，包括：NES、SNES、GameBoy、GameBoy Color、Gameboy Advance、NEC PC Engine、Sega Master System 以及更多系统。这里是一份在 Linux 上安装它的指南：[Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/)。
+- [![Open-Source Software][OSS Icon]](https://github.com/mamedev/mame) [MAME](https://mamedev.org/) - MAME 是一款力争精确的 Arcade Cabinet 模拟器，可以玩很多不同的街机游戏。
 - [![Open-Source Software][OSS Icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia 是一个 NES/Famicon 模拟器。
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/qmc2/) [qmc2](https://qmc2.batcom-it.net/) - QMC2 is the successor to QMamecat, it is a gui for MAME and a ROM manager.
-- [![Open-Source Software][OSS Icon]](https://github.com/snes9xgit/snes9x) [Snes9x](http://www.snes9x.com/) - Is a multiplatform Super Nintendo Entertainment System emulator that has gone through many incarnations, but is still being actively developed.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/qmc2/) [qmc2](https://qmc2.batcom-it.net/) - QMC2 是 QMamecat 的继任者，是 MAME 的图形界面以及 ROM 管理器。
+- [![Open-Source Software][OSS Icon]](https://github.com/snes9xgit/snes9x) [Snes9x](http://www.snes9x.com/) - 多平台 Super Nintendo Entertainment System 模拟器，已经经历过多次复活，仍处于活跃开发状态。
 - [![Open-Source Software][OSS Icon]](https://github.com/stella-emu/stella) [Stella](https://stella-emu.github.io/) - 多平台 Atari 2600 模拟器。
-- [![Open-Source Software][OSS Icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) [Visual Boy Advance-M](https://vba-m.com/) - A Gameboy and Gameboy Advance Emulator that is still undergoing active development and can even emulate a system link between two gameboys.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsnes/) [ZSNES](https://www.zsnes.com/) - A capable and commonly used Super Nintendo Entertainment System/Super Famicom emulator, many consider it the gold standard in SNES/Super Famicom emulation.
+- [![Open-Source Software][OSS Icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) [Visual Boy Advance-M](https://vba-m.com/) - 一款 Gameboy 和 Gameboy Advance 模拟器，仍在活跃开发，甚至可以模拟两台 gameboys 之间的链接。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsnes/) [ZSNES](https://www.zsnes.com/) - 强大又常用的 Super Nintendo Entertainment System/Super Famicom 模拟器，许多意见认为它是 SNES/Super Famicom 模拟的黄金标准。
 
 ### 图像
 
