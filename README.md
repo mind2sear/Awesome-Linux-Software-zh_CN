@@ -178,6 +178,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) - 安全沟通。完整隐私。
 
 ### 数据备份与恢复
+- [![Open-Source Software][OSS Icon]](https://backintime-dev.readthedocs.io/en/latest/) [Back In Time](https://github.com/bit-team/backintime/) - Linux 下一款简单的备份工具，受“flyback project”启发。
 - [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - 一款不错的的备份工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/bup/bup) [bup](https://bup.github.io/) - 非常高效的备份系统，基于 git packfile 格式，提供快速增量副本以及重复数据删除技术（在各种文件中，包括虚拟机镜像文件）。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/deja-dup) [Deja Dup](https://launchpad.net/deja-dup) - 一款内置加密的简单备份工具。
@@ -186,6 +187,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Photorec](https://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec 一款数据恢复应用，为恢复硬盘，CD-ROM 上包括视频，文档以及归档等文件而设计，以及数码相机存储中丢失的相片（Photorec 的由来）。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/qt-fsarchiver/) [Qt-fsarchiver](https://sourceforge.net/projects/qt-fsarchiver/) - qt4-fsarchiver 是 fsarchiver 的图形化界面，能够保存/恢复分区，文件夹和 MBR/GPT 分区。这个程序是基于 Debian 的系统，OpenSuse 以及 Fedora 适用的。
 - [![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone) [rclone](https://rclone.org/) - Rclone 是一款命令行工具，用于同步文件和目录到不同的云存储方案。它还允许备份加密。
+- [![Open-Source Software][OSS Icon]](https://github.com/restic/restic) [restic](https://restic.net/) - restic 是一套快速、高效、安全的备份系统。它支持三大主要操作系统（Linux，macOS，Windows）和一些小众一点的系统（FreeBSD，OpenBSD）。
 - [![Open-Source Software][OSS Icon]](https://github.com/rsnapshot/rsnapshot) [rsnapshot](https://rsnapshot.org/) - rsnapshot 是一款基于 rsync 的命令行工具，为本地/远程机器创建周期性的快照。代码尽可能广泛地使用硬链接，大大减少了磁盘空间要求。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/systemrescuecd/) [System Rescue CD](http://www.system-rescue-cd.org/) - SystemRescueCd 是一款 Linux 系统急救盘，提供可启动的 CD-ROM 或 U 盘，用于管理系统在崩溃后修复系统和数据。  
 - [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Test Disk](https://www.cgsecurity.org/wiki/TestDisk) - TestDisk 是一款强大的免费数据恢复软件！它主要设计用于帮助回去丢失的分区和/或修复由软件错误导致的硬盘无法启动引导。
@@ -213,6 +215,7 @@
 - [![Open-Source Software][OSS Icon]](https://git.opendesktop.org/akiraohgaki/ocs-store) [OCS store](https://www.opendesktop.org/p/1175480/) - openDesktop.org 的桌面应用。openDesktop.org 是开发者和艺术家分享应用、主题和其他内容最大的社区之一。
 - [![Open-Source Software][OSS Icon]](https://github.com/themix-project/oomox) [Oomox theme generator](https://github.com/themix-project/oomox) - 一款图形化应用，用于生成基于 Numix 的和 Flat-Plat 主题（GTK2，GTK3），Gnome-Colors 和 Archdroid 图标的不同颜色风格的主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/jaagr/polybar) [Polybar](https://github.com/jaagr/polybar) - 快速易用的状态栏。
+- [![Open-Source Software][OSS Icon]](https://github.com/LemonBoy/bar)[Lemonbar](https://github.com/LemonBoy/bar) - 超快，轻量，极简的 Linux 状态栏。
 - [![Open-Source Software][OSS Icon]](https://github.com/deviantfero/wpgtk) [Wpgtk](https://deviantfero.github.io/wpgtk) - 一款使用 pywal 作为配色方案生成核心的通用主题软件，支持文本定义的主题，兼容所有终端，带有 GTK2、GTK+、openbox 以及 Tint2 的默认主题。
 
 #### 桌面图标包
@@ -412,6 +415,7 @@
 
 ### 电子邮件
 - [![Open-Source Software][OSS Icon]](https://git.claws-mail.org/) [Claws](https://www.claws-mail.org/) - Claws 是一款电子邮件客户端以及新闻阅读器，有着完善的界面，简单的配置，直观的操作，丰富的功能和插件，健壮且稳定。
+- [![Open-Source Software][OSS Icon]](https://github.com/vladimiry/ElectronMail) [ElectronMail](https://github.com/vladimiry/ElectronMail) - ElectronMail 基于 Electron，是 ProtonMail 和 Tutanotais 端对端加密邮件服务的非官方桌面客户端。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/evolution/) [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution 是一款个人信息管理应用，集成了邮件，日历以及地址簿功能。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/geary/) [Geary](https://wiki.gnome.org/Apps/Geary) - Geary 是一款为 GNOME 3 构建的电子邮件应用。它让你可以在一个简单，现代的界面上阅读和发送邮件。
 - ![Nonfree][Money Icon] [Hiri](https://www.hiri.com/) - Hiri 是专注商务的桌面邮件客户端，可以发送和接收邮件，管理日历、联系人、任务。
@@ -498,6 +502,7 @@
 - [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](https://www.nongnu.org/galois/) - Galois 是方块下落类游戏，它不像大多数同类型游戏那样局限于标准的四方连块。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gbrainy/) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy) - Gbrainy 是一个脑筋急转弯游戏，获得乐趣并且锻炼你的大脑。
 - ![Nonfree][Money icon] [Minecraft](https://minecraft.net) - Minecraft 是一个关于放置方块和冒险的游戏。探索随机生成的世界，建造惊奇的事物，从最简单的家到最伟大的城堡。
+- ![Open-Source Software][OSS Icon] ![Nonfree][Money icon] [Mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft: Bedrock 版的非官方开源启动器。
 - [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - 开源的 Minecraft 实现，由 C++ 写就（占用更少的资源），还包含模组扩展 API。
 - [![Open-Source Software][OSS Icon]](https://github.com/Mudlet/Mudlet) [Mudlet](https://www.mudlet.org/) - 跨平台开源，超快的 MUD（纯文本 MMORPG）客户端，支持 Lua 脚本。
 - [![Open-Source Software][OSS Icon]](https://github.com/Neverball/neverball) [Neverball](https://neverball.org/) - 令人上瘾的滚球游戏，有许多关卡，角色，还可以录制回放。
@@ -509,6 +514,7 @@
 - [![Open-Source Software][OSS Icon]](https://xmoto.tuxfamily.org/index.php) [XMoto](https://xmoto.tuxfamily.org/) - 基于物理的 2D 越野摩托游戏，达到大师级需要很多的技能，带有内置的回放和分享系统。
 
 #### 引擎重制（需要实际游戏）
+- [![Open-Source Software][OSS Icon]](https://github.com/wheybags/freeablo) [Freeablo](https://freeablo.org/) - 在 Linux 上原生运行的原 Diablo 游戏引擎的自由重制版本。需要原游戏的资源文件。
 - [![Open-Source Software][OSS Icon]](http://nxengine.sourceforge.net/) [NXEngine](http://nxengine.sourceforge.net/) - 原生运行在 Linux 上的 Cave Story 开源移植，需要源码构建。
 - [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](https://openage.sft.mx/) - 帝国时代 II 引擎的自由开源实现，需要源码构建。
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenMW/openmw) [OpenMW](https://openmw.org) - Morrowind 引擎重制，在原版上做了扩展。可以用来游玩原版游戏的合法副本。
@@ -622,6 +628,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade) [Flowblade](https://github.com/jliljebl/flowblade) - 多声道非线性 Linux 视频编辑器。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive) [Kdenlive](https://kdenlive.org/) - Kdenlive 是一款非线性视频编辑器，比入门级的（线性）编辑器强大得多。
 - ![Nonfree][Money Icon] [Lightworks](https://www.lwks.com/) - 专业的非线性视频编辑程序，有免费版本可用。
+- [![Open-Source Software][OSS Icon]](https://github.com/olive-editor/olive) [Olive](https://www.olivevideoeditor.org/) - Olive 是一款免费的非线性视频编辑器，目标是提供一个全功能的高端专业视频编辑软件的替代品。
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenShot/openshot-qt) [OpenShot](https://www.openshot.org/) - OpenShot 是一款免费，易用，功能丰富的 Linxu 视频编辑器。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](http://www.pitivi.org/) - 一款带有漂亮直观的用户界面的免费视频编辑器，有干净的代码库和出色的社区。
 - [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) [Shotcut](https://www.shotcut.org/) - Shotcut 是一款免费、开源、跨平台的视频编辑器，支持数百种音视频格式以及编解码，界面漂亮直观。
@@ -784,6 +791,7 @@
 #### 区域隔离
 - [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail 是一款 SUID 程序，通过使用 [Linux namespaces](https://lwn.net/Articles/531114/) 和 [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/) 限制不可信应用的运行环境，来减少安全缺口的风险。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM （表示 Kernel-based Virtual Machine，基于内核的虚拟机）是一个支持虚拟化扩展（Intel VT 或 AMD-V）Linux 的完全虚拟化方案。
+- [![Open-Source Software][OSS Icon]](https://github.com/nanovms/ops/) [ops](https://github.com/nanovms/ops) - OPS 是将一般 Linux 应用作为 unikernel 构建，运行和部署的工具。
 - [![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox 是一款 x86 硬件的通用完全虚拟环境，用于服务器，桌面和嵌入式环境使用。
 
 #### 防火墙
@@ -792,6 +800,7 @@
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw) [GuFW](https://gufw.org/) - Linux 世界中最简单的防火墙之一。
 
 #### 密码管理
+- [![Open-Source Software][OSS Icon]](https://bitwarden.com/) [Bitwarden](https://bitwarden.com/) - 跨平台密码管理服务，也支持自托管。
 - [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) [Encryptr](https://spideroak.com/encryptr/) - Encryptr 是一款零知识性，基于云端的数字钱包/密码管理器，由 Crypton 提供。
 - [Enpass](https://www.enpass.io/) - Enpass 安全地管理你的密码和重要信息，让你的生活更轻松。
 - [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/) [Pass](https://www.passwordstore.org/) - 标准 Unix 密码管理工具。
@@ -811,6 +820,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/CISOfy/lynis) [Lynis](https://cisofy.com/lynis/) - Linux，macOS 以及基于 UNIX 的系统的安全审计工具。帮助进行符合性测试（HIPAA/ISO27001/PCI DSS）以及系统加固。无客户端，安装可选。
 - [![Open-Source Software][OSS Icon]](https://www.openbsd.org/anoncvs.html) [OpenSSH](https://www.openssh.com/) - OpenSSH 安全 Shell 服务器以及客户端。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/seahorse) [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - GnuPG 的 Gnome 前端。
+- [![Open-Source Software][OSS Icon]](https://github.com/mhogomchungu/sirikali) [Sirikali](https://mhogomchungu.github.io/sirikali/) - Cryfs，gocryptfs，securefs，ecryptfs 以及 encfs 的一个 Qt/C++ 图形化界面前端。
 - [![Open-Source Software][OSS Icon]](https://www.tcpdump.org/#source) [Tcpdump](https://www.tcpdump.org/) - TCP 调试/抓包工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - 保持你的系统内核最新。支持清理旧内核。
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/blocklist-ipsets) [Update-IPsets](https://iplists.firehol.org) - 一个所有网络犯罪 IP 订阅的管理器，可以下载，转换和安装 netfilter `ipsets`。
@@ -850,6 +860,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) [Alacritty](https://github.com/jwilm/alacritty) - 跨平台，支持 GPU 加速的终端模拟器。
 - [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term) [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - 模拟老式 CRT 显示器的好看终端。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/dban/) [DBAN](https://dban.org/) - 删除 PC 笔记本，桌面或服务器硬盘（HDD）上存储的信息。
+- [![Open-Source Software][OSS Icon]](https://github.com/GitSquared/edex-ui) [eDEX-UI](https://github.com/GitSquared/edex-ui) - eDEX-UI 是一款全屏的跨平台终端模拟器和系统监视器，看起来感觉像科幻电脑界面。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME) [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - Linux 世界广泛预装的终端模拟器。
 - [![Open-Source Software][OSS Icon]](https://github.com/Guake/guake) [Guake](http://guake.org/) - Guake 是 Gnome 下的一款顶部下拉式的终端。
 - [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - 基于 web 技术打造的终端。
@@ -877,7 +888,9 @@
 #### 磁盘工具
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - 强大的 CD/DVD 烧录软件。
 - [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/) [Clonezilla](https://clonezilla.org/) - Clonezilla 是一款分区以及磁盘镜像/克隆程序，类似 True Image® 或 Norton Ghost®。
+- [![Open-Source Software][ISS Icon]](https://github.com/zevv/duc) [Duc](https://duc.zevv.nl/) - Duc，索引和可视化磁盘用量的库和工具套件。
 - [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) [Etcher](https://www.balena.io/etcher/) - 安全简单地向 SD 卡或 U 盘写入系统镜像。
+- [![Open-Source Software][OSS Icon]](https://github.com/mbusb/multibootusb) [MultiBootUSB](http://multibootusb.org/) - MultiBootUSB 允许你在 U 盘上安卓多个 Linux live 系统。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gparted) [GParted](https://gparted.org/) - Ubuntu/Linux 磁盘分区工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/unetbootin/unetbootin) [Unetbootin](https://unetbootin.github.io) - UNetbootin 允许你创建 Ubuntu 及其他 Linux 发行版的可启动的 Live USB 存储盘。你可以让 UNetbootin 下载自带支持的许多发行版之一，或者使用你自己的 Linux .iso 文件。
 
