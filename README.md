@@ -712,7 +712,7 @@
 
 #### 自动化
 - [![Open-Source Software][OSS Icon]](https://github.com/Jmgr/actiona) [Actiona](https://wiki.actiona.tools/doku.php?id=:en:start) -  Ubuntu/Linux 下的任务自动化工具（原名 Actionaz）。
-- [![Open-Source Software][OSS Icon]](https://github.com/Lexikos/AutoHotkey_L) [Autokey](https://www.autohotkey.com/) - 一款 Linux 桌面自动化工具，让你可以管理你的脚本和短语集合，并给它们分配缩写或者快捷键。
+- [![Open-Source Software][OSS Icon]](https://github.com/autokey/autokey) [Autokey](https://github.com/autokey/autokey) - 一款 Linux 桌面自动化工具，让你可以管理你的脚本和短语集合，并给它们分配缩写或者快捷键。
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) - 阻止 Ubuntu 自动进入睡眠。
 
 #### Dock
@@ -883,6 +883,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://github.com/tmux/tmux) - 它让你在一个终端中，轻松地在若干程序间切换，可以将程序脱离（程序在后台运行）和在另一个终端中重新连接它们。还有更多。
 - [![Open-Source Software][OSS Icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - 快速，轻量的文本模式窗口环境，支持鼠标。在一个 Linux 控制台，终端或 X11 窗口中启用多个终端。它可以将程序脱离（程序在后台运行）和在另一个控制台，终端或 X11 服务器中重新连接它们。可用在 Linux，Mac OS X 和 BSD 上。
 - [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm) [Upterm](https://github.com/railsware/upterm) - Upterm（原 Black Screen）是终端世界中的一款 IDE。严格来说，它是同时是一款终端模拟器以及基于 [Electron](https://electronjs.org/) 的交互式 shell。
+- [![Open-Source Software][OSS Icon]](https://github.com/saulpw/visidata) [Visidata](http://visidata.org/) - 一款用来发现和整理数据的终端电子表格多功能工具。
 - [![Open-Source Software][OSS Icon]](http://invisible-island.net/xterm/) [Xterm](https://invisible-island.net/xterm/) - Xterm 是一个 X 窗口系统的终端模拟器。它给不直接使用窗口系统的程序提供了 DEC VT102 和 Tektronix 4014 兼容终端。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/yakuake) [Yakuake](https://yakuake.kde.org/) - 一款基于 KDE Konsole 技术的 Quake 风格的终端模拟器。
 
