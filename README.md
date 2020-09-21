@@ -136,6 +136,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - 一款开源的 SoundCloud 桌面应用。
 - [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - 受 Rdio 启发的 Spotify 桌面应用亮色主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - 一款开源可视化、模块化的音响合成器。
+- [![Open-Source Software][OSS Icon]](https://github.com/Audio4Linux/Viper4Linux-GUI) [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux-GUI) - 基于 Viper4Android 的音效处理工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](https://vocalproject.net/) - 现代桌面的播客客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/yktoo/indicator-sound-switcher) [Yktoo Sound Switcher Indicator](https://yktoo.com/en/software/indicator-sound-switcher) - Ubuntu/Unity 的音频输入/输出选择指示器。
 
@@ -166,11 +167,11 @@
 - [![Open-Source-Software][OSS Icon]](https://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](http://beebeep.sourceforge.net) - BeeBEEP 是一款开源，P2P 的局域网通讯工具。你可以与局域网内的任何人聊天或传输文件。不需要服务器，只需要下载，解压和运行。简单，快速且安全。
 - [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) [Dino](https://dino.im) - 干净现代的 Jabber/XMPP 聊天客户端。
 - [Discord](https://discordapp.com/) - 为玩家准备的多合一语音文本聊天工具，免费，安全，同时支持桌面和手机。
+- [![Open-Source Software][OSS Icon]](https://github.com/vector-im/element-web) [Element](https://element.io/) - 漂亮的 Matrix 协作网络客户端。
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/gitlab-org/gitter/services) [Gitter](https://gitter.im/) - Gitter — 开发者交流的地方。Gitter 的设计目标是让社区消息，协作和发现尽可能地简单。
 - [![Open-Source Software][OSS Icon]](https://git.ring.cx/savoirfairelinux/ring-project) [Jami](https://jami.net/) - 聊天。交流。分享。Jami 是一款免费及通用的沟通平台，保护用户隐私和自由。原名 Ring。
 - [![Open-Source Software][OSS Icon]](https://github.com/jitsi) [Jitsi](https://jitsi.org/) - Jitsi 是一款免费，开源的多平台语音，视频会议以及即时通讯应用，在 Windows, Linux, Mac OS X 和 Android 上可用。
 - [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) [qTox](https://qtox.github.io/) - 一款简单的分布式，安全的通讯软件，支持音频和视频聊天。
-- [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) [Riot](https://about.riot.im/) - 漂亮的 Matrix 协作网络客户端。
 - [Skype](https://www.skype.com/en/) - Skype 让世界保持沟通，免费的。
 - [Slack](https://slack.com/downloads/linux) - 现代团队的即时消息软件，支持归档和搜索。
 - [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) [Telegram](https://desktop.telegram.org/) - 一款专注于速度和安全的消息应用，它非常快，简单而且免费。
@@ -217,7 +218,7 @@
 - [![Open-Source Software][OSS Icon]](https://git.opendesktop.org/akiraohgaki/ocs-store) [OCS store](https://www.opendesktop.org/p/1175480/) - openDesktop.org 的桌面应用。openDesktop.org 是开发者和艺术家分享应用、主题和其他内容最大的社区之一。
 - [![Open-Source Software][OSS Icon]](https://github.com/themix-project/oomox) [Oomox theme generator](https://github.com/themix-project/oomox) - 一款图形化应用，用于生成基于 Numix 的和 Flat-Plat 主题（GTK2，GTK3），Gnome-Colors 和 Archdroid 图标的不同颜色风格的主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/jaagr/polybar) [Polybar](https://github.com/jaagr/polybar) - 快速易用的状态栏。
-- [![Open-Source Software][OSS Icon]](https://github.com/LemonBoy/bar)[Lemonbar](https://github.com/LemonBoy/bar) - 超快，轻量，极简的 Linux 状态栏。
+- [![Open-Source Software][OSS Icon]](https://github.com/LemonBoy/bar) [Lemonbar](https://github.com/LemonBoy/bar) - 超快，轻量，极简的 Linux 状态栏。
 - [![Open-Source Software][OSS Icon]](https://github.com/deviantfero/wpgtk) [Wpgtk](https://deviantfero.github.io/wpgtk) - 一款使用 pywal 作为配色方案生成核心的通用主题软件，支持文本定义的主题，兼容所有终端，带有 GTK2、GTK+、openbox 以及 Tint2 的默认主题。
 
 #### 桌面图标包
@@ -306,6 +307,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/cytopia/devilbox) [Devilbox](https://github.com/cytopia/devilbox) - Devilbox 是一款现代的、高度可配置的 docker 化 PHP 栈，支持 LAMP 和 MEAN，可以在所有主要平台上运行。它的主要目标是在本地开发时轻松切换和结合任何需要的软件版本。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) [Diffuse](http://diffuse.sourceforge.net/) - Diffuse 是一款比较和合并文本文件的图形化工具。它可以从 Bazaar、CVS、Darcs、Git、Mercurial、Monotone、RCS、Subversion 以及 SVK 仓库获取文件来比较。
 - [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip) [Fossil](https://www.fossil-scm.org) - 自包含，分布式软件配置管理系统，带有集成 bug 追踪，wiki，技术说明和 web 界面。
+- [![Open-Source Software][OSS Icon]](https://github.com/gaphor/gaphor) [Gaphor](https://gaphor.org) - 简单快速的系统建模工具。
 - ![Nonfree][Money Icon] [Genymotion](https://www.genymotion.com/desktop/) - Genymotion 是一款可以用来替代默认安卓模拟器的第三方模拟器。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/giggle/) [Giggle](https://wiki.gnome.org/action/show/Apps/giggle) - Giggle 是一款 git 内容追踪的图形化前端。
 - [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto) [Gisto](https://www.gistoapp.com/) - Gisto 是一款代码段管理器，基于 Github Gist 运行，添加了额外的功能，如搜索、标签、分享 gist，含代码编辑器。
@@ -316,6 +318,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab 是一个基于 web 的 Git 仓库管理工具，带有 wiki 和 issue 追踪等功能。
 - [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite 允许你在中心化服务器上搭建 git 托管，拥有细粒度的权限管理和很多其他强大功能。
 - [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/source/heaptrack/repository/master/) [Heaptrack](https://phabricator.kde.org/source/heaptrack/repository/master/) - Linux 堆内存分析工具。
+- [![Open-Source Software][OSS Icon]](https://github.com/WindSoilder/hors) [hors](https://github.com/WindSoilder/hors) - 从命令行立即得到编程答案。
 - [Insomnia](https://insomnia.rest/) - 一款简单，漂亮且免费的 REST API 客户端。
 - [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - 开源，交互式数据科学和科学计算，支持超过 40 种编程语言。
 - [![Open-Source Software][OSS Icon]](https://meldmerge.org/development.html) [Meld](https://meldmerge.org/) - Meld 是一款可视化 diff 和 merge 工具，帮助你比较文件，目录以及有版本控制的项目。
@@ -353,6 +356,7 @@
 - [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) [MuPDF](https://mupdf.com/) - 一款轻量级的 PDF 和 XPS 查看器。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular) [Okular](https://okular.kde.org/) - Okular 由 KDE 原始开发的通用文档查看器。Okular 可以在多个平台上工作，包括但不限于 Linux，Windows，Mac OS X，BSD 等等。
 - [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - 桌面应用，用于对 PDF 文件进行拆分，提取页面，旋转，混合以及合并。
+- [PDF Studio](https://www.qoppa.com/pdfstudio/) - 一款易用，全功能的 PDF 编辑软件，是 Adobe Acrobat 的可靠替代者，以一小部分的花费提供所有需要的 PDF 功能。PDF Studio 完全兼容 PDF 标准。
 - [![Open-Source Software][OSS Icon]](https://github.com/burtonator/polar-bookshelf) [Polar](https://getpolarized.io/) - Polar 是一款用于 PDF 和 web 内容的个人知识库，支持增量阅读和文档注释。
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) [qpdf](https://launchpad.net/qpdfview) - qpdfview 是一款标签页式文档查看器。
 - [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil 是一款多平台 EPUB 电子书编辑器。
@@ -445,7 +449,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus) [Nautilus](https://wiki.gnome.org/Apps/Files) - Nautilus（Files）鹦鹉螺是为适配 Gnome 桌面设计和行为所设计的文件管理器，给用户一个简单的方式导航和管理文件。
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) [Nemo](https://github.com/linuxmint/nemo) - Nemo 是一款 Cinnamon 桌面环境下的文件管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/nnn) [nnn](https://github.com/jarun/nnn) - 非常轻量快速的终端文件浏览器，有优秀的桌面集成。
-- [![Open-Source Software][OSS Icon]](https://github.com/teejee2008/polo) [Polo](https://teejee2008.github.io/polo) - Polo 是一款现代，轻量的 Linux 文件管理器，支持多面板和多标签、归档以及更多功能。
 - [![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - 基于 Qt 的文件夹统计——不用 KDE 的 KDirStat，来自原 KDirStat 开发者的作品。
 - [![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) [Ranger](https://ranger.github.io/) - Ranger 是一款使用 VI 快捷键的终端文件管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/IgnorantGuru/spacefm) [SpaceFM](https://ignorantguru.github.io/spacefm/) - 多栏标签式文件及桌面管理器，内置 VFS、udev- 或基于 HAL 的设备管理器，菜单可配置，支持 bash-GTK 集成。
@@ -877,7 +880,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME) [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - Linux 世界广泛预装的终端模拟器。
 - [![Open-Source Software][OSS Icon]](https://github.com/Guake/guake) [Guake](http://guake.org/) - Guake 是 Gnome 下的一款顶部下拉式的终端。
 - [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - 基于 web 技术打造的终端。
-- [![Open-Source Software][OSS Icon]](https://github.com/KeyLo99/k3rmit) [K3rmit](https://github.com/KeyLo99/k3rmit) - 一款基于 VTE 的终端模拟器，目标是简单，快速和高效。
+- [![Open-Source Software][OSS Icon]](https://github.com/orhun/kermit) [Kermit](https://github.com/orhun/kermit) - 一款基于 VTE 的终端模拟器，简单且 froggy。
 - [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) [Kitty](https://github.com/kovidgoyal/kitty) - 跨平台、快速、全功能，基于 OpenGL 的终端模拟器。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/konsole) [Konsole](https://konsole.kde.org/) - KDE 桌面环境的一个终端选择。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/) [RXVT](http://rxvt.sourceforge.net/) - 一款 X11 终端模拟器，流行的‘xterm’替代品。
@@ -904,6 +907,7 @@
 #### 磁盘工具
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - 强大的 CD/DVD 烧录软件。
 - [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/) [Clonezilla](https://clonezilla.org/) - Clonezilla 是一款分区以及磁盘镜像/克隆程序，类似 True Image® 或 Norton Ghost®。
+- [![Open-Source Software][OSS Icon]](https://github.com/imsnif/diskonaut) [Diskonaut](https://github.com/imsnif/diskonaut) - 终端磁盘空间可视化与导航工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/zevv/duc) [Duc](https://duc.zevv.nl/) - Duc，索引和可视化磁盘用量的库和工具套件。
 - [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) [Etcher](https://www.balena.io/etcher/) - 安全简单地向 SD 卡或 U 盘写入系统镜像。
 - [![Open-Source Software][OSS Icon]](https://github.com/mbusb/multibootusb) [MultiBootUSB](http://multibootusb.org/) - MultiBootUSB 允许你在 U 盘上安卓多个 Linux live 系统。
@@ -938,6 +942,7 @@
 - [![Open-Source Software][OSS Icon]](https://convertall.bellz.org/download.html) [Convertall](https://sourceforge.net/projects/convertall/) - 全能单位换算。
 - [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew) [Curlew](https://github.com/chamfay/Curlew) - GNOME 桌面的 GTK 媒体转换工具。
 - [![Open-Source Software][OSS Icon]](https://git.suckless.org/dmenu/) [dmenu](https://tools.suckless.org/dmenu/) - dmenu 是一个 X 的动态菜单，最初是为 dwm 设计的。它可以高效管理大量用户定义的菜单项。
+- [![Open-Source Software][OSS Icon]](https://github.com/aramg/droidcam/tree/master/linux)[Droidcam](https://www.dev47apps.com/) - DroidCam 将你的安卓设备变成 PC 的无线摄像头。
 - [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke) - Easystroke 是一个 X11 手势识别应用。
 - [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Linux 下的可视化类键盘的 emoji 选择器。
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](https://www.freerdp.com/) - FreeRDP 是一个远程桌面协议（RDP）的自由实现。
@@ -1002,7 +1007,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/AlDanial/cloc) [Cloc](https://github.com/AlDanial/cloc) - 计算代码行数：cloc 可以计算多种语言源代码的空行、注释行和总行数。
 - [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls) [Color LS](https://github.com/athityakumar/colorls) - Color Ls 是一个 Ruby Gem，不需要额外命令，给 ls 命令增彩，更加可视化。
 - [![Open-Source Software][OSS Icon]](https://github.com/chronitis/curseradio) [curseradio](https://github.com/chronitis/curseradio) - 命令行电台播放器。
-- [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper) [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - 开机时将壁纸更换为 /r/wallpapers 或其它子版块的今日最高票壁纸。
+- [![Open-Source Software][OSS Icon]](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper) [Daily Reddit Wallpaper](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper) - 开机时将壁纸更换为 /r/wallpapers 或其它子版块的今日最高票壁纸。
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/ddgr) [ddgr](https://github.com/jarun/ddgr) - 从命令行进行 DuckDuckGo 搜索。
 - [![Open-Source Software][OSS Icon]](https://github.com/ogham/exa) [exa](https://the.exa.website/) - exa 是 ls 的一个现代化替代品。
 - [![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry) [Fishfry](https://github.com/LubuntuFu/fishfry) - 将 fish 的历史记录替换成为渗透测试人员量身定制的高效版本以及方便新手学习。
@@ -1021,6 +1026,7 @@
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/muttmua/mutt) [Mutt](http://www.mutt.org/) - 终端邮件客户端，vim 快捷键，强大灵活可定制。
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch) [Neofetch](https://github.com/dylanaraps/neofetch) - 快速，高度定制化的系统信息获取脚本，支持 Linux，MacOS，iOS，BSD，Solaris，Android，Haiku，GNU Hurd，MINIX，AIX 以及 Windows。
 - [![Open-Source Software][OSS Icon]](https://github.com/newsboat/newsboat) [Newsboat](https://newsboat.org/) - Newsboat 是 Newsbeuter 的一个分支，是一款文本控制台 RSS/Atom 订阅阅读器。
+- [![Open-Source Software][OSS Icon]](https://github.com/o2sh/onefetch) [Onefetch](https://github.com/o2sh/onefetch) - 在你的终端内显示 Git 仓库概况。
 - [![Open-Source Software][OSS Icon]](https://github.com/facebook/PathPicker) [PathPicker](https://github.com/facebook/PathPicker) - 命令允许你在命令行中选择前一个命令的输出文件，然后你就可以运行另一个命令或编辑它们。
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/pywal) [pywal](https://github.com/dylanaraps/pywal) - pywal 是一个脚本，给它输入一个图片（或图片文件夹），生成一套配色方案（使用 imagemagick），然后即时将你打开的所有终端的配色方案修改，让你的终端颜色可以随着你的壁纸或其他标准变化。
 - [![Open-Source Software][OSS Icon]](https://github.com/orakaro/rainbowstream) [Rainbow Stream](https://github.com/orakaro/rainbowstream) - 聪明漂亮的终端 Python Twitter 客户端。
@@ -1032,9 +1038,12 @@
 - [十佳命令行工具](https://lifehacker.com/top-10-command-line-tools-399468)
 - [![Open-Source Software][OSS Icon]](https://github.com/soimort/translate-shell) [translate-shell](https://www.soimort.org/translate-shell) - 命令行翻译，可以使用 Google、Bing、Yandex 等翻译。
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - 一款可以在长时间运行的命令结束后播放声音或发出通知的命令行程序。
+- [![Open-Source Software][OSS Icon]](https://github.com/hashicorp/vagrant) [vagrant](https://www.vagrantup.com/) - Vagrant 是一款用于构建和分发开发环境的工具。
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行 WiFi 连接管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/BurntSushi/xsv) [xsv](https://github.com/BurntSushi/xsv) - 用 Rust 编写的一款快速的 CSV 命令行工具集。
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://rg3.github.io/youtube-dl/) - youtube-dl 是一款命令行工具，可以从 YouTube.com 以及一些其他站点下载内容。需要 Python 解释器（2.6，2.7，或 3.2+），不局限于特定平台。
+- [![Open-Source Software][OSS Icon]](https://github.com/skywind3000/z.lua) [z.lua](https://github.com/skywind3000/z.lua) - 一款全新的 cd 命令，通过学习你的习惯帮助你更快地进行目录导航。
+- [![Open-Source Software][OSS Icon]](https://github.com/ajeetdsouza/zoxide) [zoxide](https://github.com/ajeetdsouza/zoxide) - 一个浏览文件系统更好的方式。Rust 编写。
 
 ## 桌面环境
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) [Budgie](https://github.com/solus-project/budgie-desktop) - Budgie 是一个面向现代用户思想设计的桌面环境，专注于简洁与优雅。
