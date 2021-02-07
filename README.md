@@ -82,6 +82,7 @@
 
 ### 音频
 *如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你可能想点击[这里](https://github.com/nodiscc/awesome-linuxaudio)*
+
 - [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.airtime.pro/) - Airtime 是一款用于调度和远程站点管理的开放广播软件。
 - [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - 在 Linux 上录音，编辑，和混音。
 - [![Open-Source Software][OSS Icon]](https://audacious-media-player.org/developers) [Audacious](https://audacious-media-player.org/) - 开源音频播放器，按你想要的方式播放你的音乐，不占用你其它任务的电脑资源。
@@ -100,7 +101,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - 媒体聚合及播客客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/Gradio) [GRadio](https://github.com/haecker-felix/gradio/releases/) - Ubuntu Linux 下的电台软件。
-- [Harmony](https://getharmony.xyz) - 带有漂亮界面和云服务兼容的音乐播放器。
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](https://tytel.org/helm/) - 音响合成器软件，可以独立运行，也可以作为 LV2、VST、VST3 或 AU 的插件运行。
 - [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/) - GNU/Linux 上的高级电子鼓。
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic 是一款跨平台程序，基于 electron 构建，可以收听网易云音乐。
@@ -233,10 +233,10 @@
 
 #### Android
 - [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) [Anbox](https://anbox.io) - 在任意 GNU/Linux 操作系统上运行安卓应用。
-- [Android studio](https://developer.android.com/studio/) - Android 的官方 IDE：Android Studio 提供在各种类型的安卓设备上构建应用最快的工具。
+- [![Open-Source Software][OSS Icon]](https://android.googlesource.com/platform/tools/base/+/studio-master-dev/source.md) [Android studio](https://developer.android.com/studio/) - Android 的官方 IDE：Android Studio 提供在各种类型的安卓设备上构建应用最快的工具。
 
 #### C\+\+
-- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是一款为满足大部分用户需求构建的免费的 C，C++ 以及 Fortran IDE。它可扩展并且可配置性强。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/codeblocks/code/HEAD/tree/) [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是一款为满足大部分用户需求构建的免费的 C，C++ 以及 Fortran IDE。它可扩展并且可配置性强。
 - [![Open-Source Software][OSS Icon]](https://wiki.codelite.org/pmwiki.php/Main/Repositories) [Codelite](https://codelite.org/) - 一款免费，开源，跨平台的 C，C++，PHP，以及 Node.js IDE。
 - ![Non Free][Money Icon] [Clion](https://www.jetbrains.com/clion/) - 一款强大的跨平台 C 以及 C++ IDE。
 - [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/) - 全功能跨平台集成开发环境，轻松创建互联设备，用户界面以及应用程序。
@@ -252,7 +252,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) [MyCLI](https://www.mycli.net/) - MyCLI 是一款 MySQL、MariaDB、Percona 的命令行界面，带有自动补全和语法高亮。
 - [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server) [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL 是世界领先的开源数据库，有着经过证明的性能，可靠性和易用性。使用它的有 Facebook、Twitter、YouTube、Yahoo! 等知名互联网企业。
 - [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-workbench) [MySQL Workbench](https://www.mysql.com/products/workbench/) - MySQL Workbench 是给数据库架构师、开发者和 DBA 使用的一体化可视工具。MySQL Workbench 为服务器配置、用户管理、备份等提供了数据模型、SQL 开发、综合管理工具。
-- [![Open-Source Software][OSS Icon]](https://github.com/OmniDB/OmniDB) [OmniDB](https://omnidb.org/en/) - 基于浏览器的工具，可视化创建，管理和查看数据库。
+- [![Open-Source Software][OSS Icon]](https://github.com/OmniDB/OmniDB) [OmniDB](https://omnidb.org/) - 基于浏览器的工具，可视化创建，管理和查看数据库。
 - ![Non Free][Money Icon] [OracleDB](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Oracle 公司出品和销售的对象关系型数据库管理系统，最受信赖和广泛使用的关系型数据库引擎之一。
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server-mongodb) [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB 提供了 MongoDB Community Server 的所有特性和优点。
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/pmm-server) [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management（PMM）是一款免费开源的平台，用于管理和监控 MySQL，MariaDB 和 MongoDB 的性能。你可以在你自己的环境中运行 PMM 以保证最大化的安全和可靠性。它为 MySQL，MariaDB 和 MongoDB 提供完全基于时间的分析，确保你的数据尽可能高效流转。
@@ -334,6 +334,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/uncrustify/uncrustify) [Uncrustify](http://uncrustify.sourceforge.net/) - C/C++、C#、ObjectiveC、D、Java、Pawn、VALA 源代码美化工具。参见下方的 UniversalIndentGUI。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI 提供几乎任何格式化设置的即时预览。
 - [![Open-Source Software][OSS Icon]](https://sourceware.org/git/?p=valgrind.git) [Valgrind](http://valgrind.org/) - Valgrind 是一款遵守 GPL 的 Linux 程序调试和性能分析工具。
+- ![Nonfree][Money Icon] [Vershd](https://vershd.io/) - Vershd 是个人使用免费的图形化 GUI 工具，Windows，Mac，Linux 可用。
 - [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - GNU wdiff 程序是一个 diff 前端，逐词比较文件。它收集 diff 的输出并用它产生更美观的源文件比对结果。
 - [![Open-Source Software][OSS Icon]](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) [Wireshark](https://www.wireshark.org/) - Wireshark 是世界领先的网络协议分析器。它让你可以在微观层级观察你的网络上发生了什么。它是许多工业和教育行业事实上的（经常也是法律上的）标准。
 - [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal 是一款面向软件开发者的离线文档阅读器。
@@ -617,7 +618,7 @@
 
 #### 屏幕录制
 - [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema) [asciinema](https://asciinema.org) - 终端会话记录器。
-- [![Open-Source Software][OSS Icon]](https://github.com/foss-project/green-recorder) [Green Recorder](https://github.com/foss-project/green-recorder) - 简单的 Linux 系统桌面录制工具，几乎支持在所有 Linux 界面、GNOME 会话的 Wayland 显示服务器上录制音频和视频。
+- [![Open-Source Software][OSS Icon]](https://github.com/dvershinin/green-recorder) [Green Recorder](https://github.com/dvershinin/green-recorder) - 简单的 Linux 系统桌面录制工具，几乎支持在所有 Linux 界面、GNOME 会话的 Wayland 显示服务器上录制音频和视频。
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/kazam) [Kazam](https://launchpad.net/kazam) - 易用直观的屏幕录制程序，可以捕获屏幕内容及录制视频文件，文件可以用任何支持 VP8/WebM 视频格式的播放器播放。
 - [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio) [OBS Studio](https://obsproject.com/) - 免费且开源的视频录制及直播软件。在 Windows，Mac 和 Linux 上下载并轻松快速地开始直播。和世界分享你的游戏，艺术和娱乐。
 - [![Open-Source Software][OSS Icon]](https://github.com/phw/peek) [Peek](https://github.com/phw/peek) - 简单的录屏 GIF 动图制作工具，界面易用。
@@ -724,6 +725,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Jmgr/actiona) [Actiona](https://wiki.actiona.tools/doku.php?id=:en:start) -  Ubuntu/Linux 下的任务自动化工具（原名 Actionaz）。
 - [![Open-Source Software][OSS Icon]](https://github.com/autokey/autokey) [Autokey](https://github.com/autokey/autokey) - 一款 Linux 桌面自动化工具，让你可以管理你的脚本和短语集合，并给它们分配缩写或者快捷键。
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) - 阻止 Ubuntu 自动进入睡眠。
+- [![Open-Source Software][OSS Icon]](https://github.com/federico-terzi/espanso) [espanso](https://espanso.org/) - Rust 编写的跨平台文本展开工具。
 
 #### Dock
 - [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) [Cairo-Dock](https://glx-dock.org/) - Cairo-Dock 是一个可自定义 dock，插件，面板等的桌面界面。
@@ -754,13 +756,14 @@
 #### 笔记
 - [![Open-Source Software][OSS Icon]](https://basket-notepads.github.io/download.html) [Basket Note Pads](https://basket-notepads.github.io/) - 这个多用途的笔记应用帮助你记下所有类型的笔记。
 - [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote 是一款开源的笔记应用，为像你这样的程序员准备。
+- [![Open-Source Software][OSS Icon]](https://github.com/giuspen/cherrytree) [Cherrytree](https://www.giuspen.com/cherrytree/) - 一个分层的笔记应用程序，具有丰富的文本和语法高亮功能，将数据存储在一个xml或sqlite文件中。
 - ![Nonfree][Money Icon] [Inkdrop](https://inkdrop.app/) - 为 Markdown 爱好者准备的笔记应用，简单的界面，无缝安全，强大的 API。
 - [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) [Joplin](https://joplin.cozic.net) - 一款笔记及 to-do 应用，可以在 Windows、macOS、Linux、Android 和 iOS 之间同步。
 - [![Open-Source Software][OSS Icon]](https://github.com/dvorka/mindforger) [Mindforger](https://www.mindforger.com/) - 思维笔记以及 Markdown 编辑器。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - EverNote 开源客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](https://notepadqq.com/wp/) - Notepadqq 是 Linux 下一款类 Notepad++ 的编辑器。
 - [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) [Notes](https://www.get-notes.com/) - 一款干净又简单的 Linux 笔记应用。
-- [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote) [OneNote](https://pages.corifeus.com/github/onenote) - Linux Electron OneNote。
+- [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote。
 - [![Open-Source Software][OSS Icon]](http://orgmode.org/) [Org mode](https://orgmode.org/) - Org mode 在一个快速且高效的纯文本系统上记录笔记，维护 TODO 列表，规划项目以及创作文档。
 - [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes 是一款纯文本文件记事本以及 todo 列表管理器，支持 markdown 以及 ownCloud / NextCloud 集成。
 - [Simplenote](https://simplenote.com/) - 跨平台笔记应用，Evernote 的竞争者。
@@ -925,6 +928,7 @@
 #### 系统监控
 - [![Open-Source Software][OSS Icon]](https://github.com/imsnif/bandwhich) [bandwhich](https://github.com/imsnif/bandwhich) - 终端带宽利用率监视工具。
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~cpug-devs/cpug/main/files) [CPU-G](https://launchpad.net/cpug) - 轻松监控你的 Ubuntu 笔记本的电池寿命。
+- [![Open-Source Software][OSS Icon]](https://github.com/vagnum08/cpupower-gui) [cpupower-gui](https://github.com/vagnum08/cpupower-gui) - 轻松修改 CPU 频率限制与调速的图形程序，类似 cpupower。
 - [GD map](http://gdmap.sourceforge.net/) - 可视化磁盘使用量的工具。
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~artfwo/indicator-cpufreq/trunk/files) [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - 它提供了和 Gnome CPU frequency 相同的功能，但不需要 Gnome 面板，可在 Unity 下工作。
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/ubuntu/+source/indicator-multiload) [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - 图形化系统 CPU，内存等负载指示器。
@@ -942,7 +946,7 @@
 - [![Open-Source Software][OSS Icon]](https://convertall.bellz.org/download.html) [Convertall](https://sourceforge.net/projects/convertall/) - 全能单位换算。
 - [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew) [Curlew](https://github.com/chamfay/Curlew) - GNOME 桌面的 GTK 媒体转换工具。
 - [![Open-Source Software][OSS Icon]](https://git.suckless.org/dmenu/) [dmenu](https://tools.suckless.org/dmenu/) - dmenu 是一个 X 的动态菜单，最初是为 dwm 设计的。它可以高效管理大量用户定义的菜单项。
-- [![Open-Source Software][OSS Icon]](https://github.com/aramg/droidcam/tree/master/linux)[Droidcam](https://www.dev47apps.com/) - DroidCam 将你的安卓设备变成 PC 的无线摄像头。
+- [![Open-Source Software][OSS Icon]](https://github.com/aramg/droidcam/tree/master/linux) [Droidcam](https://www.dev47apps.com/) - DroidCam 将你的安卓设备变成 PC 的无线摄像头。
 - [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke) - Easystroke 是一个 X11 手势识别应用。
 - [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Linux 下的可视化类键盘的 emoji 选择器。
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](https://www.freerdp.com/) - FreeRDP 是一个远程桌面协议（RDP）的自由实现。
@@ -1083,6 +1087,7 @@
 
 ### 合成器
 - [![Open-Source Software][OSS Icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton 是一款独立的合成管理器，适合同没有原生提供合成功能的窗口管理器一同使用。
+- [![Open-Source Software][OSS Icon]](https://github.com/Plagman/gamescope) [Gamescope](https://github.com/Plagman/gamescope) - Gamescope 是一款微合成器，提供一个带有独立输入，分辨率和刷新率的沙盒 Xwayland 桌面。
 - [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](https://swaywm.org) - Sway 是平铺 Wayland 合成器和 X11 下 i3 窗口管理器的新替代。
 - [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr 是一个简单的合成管理器，能够渲染下拉阴影，使用 transset 工具的话，还可以实现简单的窗口透明。
 
