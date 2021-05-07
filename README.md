@@ -628,7 +628,7 @@
 
 #### 截屏
 - [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - 强大易用的截屏软件。
-- [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](https://screencloud.net/) - ScreenCloud 是一款易用的截屏分享工具，由跨平台客户端和分享站点（http://screencloud.net/）组成。
+- [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](https://screencloud.net/) - ScreenCloud 是一款易用的截屏分享工具，由跨平台客户端和分享站点 http://screencloud.net 组成。
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~shutter/shutter/devel/files) [Shutter](https://launchpad.net/shutter/) - Shutter 是基于 Linux 的系统（如 Ubuntu）上的一款功能丰富的截屏程序。
 
 #### 串流
@@ -638,7 +638,7 @@
 - [![Open-Source Software][OSS Icon]](https://git.cinelerra-cv.org/gitweb?p=CinelerraCV.git;a=summary) [Cinelerra-cv](https://cinelerra.org/) - 专业的视频编辑与合成环境。
 - ![Nonfree][Money Icon] [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - 革命性的工具，用于视频编辑、校色、音乐后期以及现在还有可视效果，都在这一个应用中。
 - [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade) [Flowblade](https://github.com/jliljebl/flowblade) - 多声道非线性 Linux 视频编辑器。
-- [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive) [Kdenlive](https://kdenlive.org/) - Kdenlive 是一款非线性视频编辑器，比入门级的（线性）编辑器强大得多。
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive) [Kdenlive](https://kdenlive.org/) - Kdenlive 是一款非线性视频编辑器，比入门级的编辑器强大得多。
 - ![Nonfree][Money Icon] [Lightworks](https://www.lwks.com/) - 专业的非线性视频编辑程序，有免费版本可用。
 - [![Open-Source Software][OSS Icon]](https://github.com/olive-editor/olive) [Olive](https://www.olivevideoeditor.org/) - Olive 是一款免费的非线性视频编辑器，目标是提供一个全功能的高端专业视频编辑软件的替代品。
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenShot/openshot-qt) [OpenShot](https://www.openshot.org/) - OpenShot 是一款免费，易用，功能丰富的 Linxu 视频编辑器。
