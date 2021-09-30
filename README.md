@@ -1367,26 +1367,25 @@
 
 ## 贡献者
 
-感谢 [**所有的 Github 贡献者**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors)所做的贡献，还有*在 reddit.com/r/linux，reddit.com/r/ubuntu，vozforums.com 以及其它论坛的各位提出的意见和建议*，让这个列表成为现实。
- ...
+感谢[**所有的 Github 贡献者**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors)所做的贡献，还有*在 reddit.com/r/linux，reddit.com/r/ubuntu，vozforums.com 以及其它论坛的各位提出的意见和建议*，让这个列表成为现实。
 
 **[⬆ 返回顶部](#目录)**
 
 ## 贡献指南
 
-> 将**应用**的名称放入列表。
-> 链接到它的**主页**或**安装指南**。
-> 再给应用写一小段**简短的介绍** + 添加**图标**。
-> 确保应用放在了**合适的主题**下。
-> 如果应用不在以上任何一个**已有的主题**内，为它**新建一个**主题。
-> 确保所有项都是按**字母顺序排序**的。
+- 将**应用**的名称放入列表。
+- 链接到它的**主页**或**安装指南**。
+- 再给应用写一小段**简短的介绍** + 添加**图标**。
+- 确保应用放在了**合适的主题**下。
+- 如果应用不在以上任何一个**已有的主题**内，为它**新建一个**主题。
+- 确保所有项都是按**字母顺序排序**的。
 
 ## 不确定如何贡献？
 
 - [如何使用 Github](https://guides.github.com/activities/forking/)
 - [如何从命令行使用 Git](https://rogerdudler.github.io/git-guide/)
-- [什么是 Markdown？](https://github.com/luong-komorebi/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
-- [另一个 Markdown 指南：](https://guides.github.com/features/mastering-markdown/)
+- [什么是 Markdown？](https://github.com/luong-komorebi/Markdown-Tutorial) - Markdown 是用于创建这个列表的写作方式，如果你不清楚如何正确格式化内容，你最好学习一下如何使用 Github Markdown。
+- [另一个 Markdown 指南](https://guides.github.com/features/mastering-markdown/)
 
 *标有 ![Open-Source Software][OSS Icon] 的是开源软件并且链接到源代码。标有 ![Nonfree][Money Icon] 的意为使用可能收费（就如不免费的啤酒）。*
 
