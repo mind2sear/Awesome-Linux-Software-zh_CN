@@ -170,6 +170,7 @@
 - [![Open-Source Software][OSS Icon]](https://git.ring.cx/savoirfairelinux/ring-project) [Jami](https://jami.net/) - 聊天。交流。分享。Jami 是一款免费及通用的沟通平台，保护用户隐私和自由。原名 Ring。
 - [![Open-Source Software][OSS Icon]](https://github.com/jitsi) [Jitsi](https://jitsi.org/) - Jitsi 是一款免费，开源的多平台语音，视频会议以及即时通讯应用，在 Windows, Linux, Mac OS X 和 Android 上可用。
 - [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) [qTox](https://qtox.github.io/) - 一款简单的分布式，安全的通讯软件，支持音频和视频聊天。
+- [![Open-Source Software][OSS Icon]](https://github.com/signalapp) [Signal](https://signal.org) - 一款端到端加密的聊天软件，专注隐私。和隐私说“你好”。
 - [Skype](https://www.skype.com/en/) - Skype 让世界保持沟通，免费的。
 - [Slack](https://slack.com/downloads/linux) - 现代团队的即时消息软件，支持归档和搜索。
 - [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) [Telegram](https://desktop.telegram.org/) - 一款专注于速度和安全的消息应用，它非常快，简单而且免费。
@@ -329,7 +330,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite 允许你在中心化服务器上搭建 git 托管，拥有细粒度的权限管理和很多其他强大功能。
 - [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/source/heaptrack/repository/master/) [Heaptrack](https://phabricator.kde.org/source/heaptrack/repository/master/) - Linux 堆内存分析工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/WindSoilder/hors) [hors](https://github.com/WindSoilder/hors) - 从命令行立即得到编程答案。
-- [Insomnia](https://insomnia.rest/) - 一款简单，漂亮且免费的 REST API 客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/Kong/insomnia) [Insomnia](https://insomnia.rest/) - 一款简单，漂亮且免费的 REST API 客户端。
 - [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - 开源，交互式数据科学和科学计算，支持超过 40 种编程语言。
 - [![Open-Source Software][OSS Icon]](https://meldmerge.org/development.html) [Meld](https://meldmerge.org/) - Meld 是一款可视化 diff 和 merge 工具，帮助你比较文件，目录以及有版本控制的项目。
 - [Mockingbot](https://mockingbot.com) - Mockingbot 是一款易用的原型工具。
@@ -966,6 +967,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/saulpw/visidata) [Visidata](http://visidata.org/) - 一款用来发现和整理数据的终端电子表格多功能工具。
 - [![Open-Source Software][OSS Icon]](http://invisible-island.net/xterm/) [Xterm](https://invisible-island.net/xterm/) - Xterm 是一个 X 窗口系统的终端模拟器。它给不直接使用窗口系统的程序提供了 DEC VT102 和 Tektronix 4014 兼容终端。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/yakuake) [Yakuake](https://yakuake.kde.org/) - 一款基于 KDE Konsole 技术的 Quake 风格的终端模拟器。
+- [![Open-Source Software][OSS Icon]](https://github.com/zellij-org/zellij) [Zellij](https://github.com/zellij-org/zellij) - 终端工作空间和复用器。让你打开若干面板和标签页运行不同的程序，共同分享一个终端会话，以及还有更多功能。非常用户友好以及直观。
 
 ### 实用工具
 
@@ -1117,6 +1119,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/hashicorp/vagrant) [vagrant](https://www.vagrantup.com/) - Vagrant 是一款用于构建和分发开发环境的工具。
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行 WiFi 连接管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/BurntSushi/xsv) [xsv](https://github.com/BurntSushi/xsv) - 用 Rust 编写的一款快速的 CSV 命令行工具集。
+- [![Open-Source Software][OSS Icon]](https://github.com/iamtalhaasghar/yewtube) [yewtube](https://github.com/iamtalhaasghar/yewtube) - 基于终端的 Youtube 播放器和下载器。不需要 Youtube 的 API 密钥。从 mps-youtube 分叉而来。可以按[这里](https://github.com/iamtalhaasghar/yewtube#using-pip)的描述使用 pip 安装。
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://rg3.github.io/youtube-dl/) - youtube-dl 是一款命令行工具，可以从 YouTube.com 以及一些其他站点下载内容。需要 Python 解释器（2.6，2.7，或 3.2+），不局限于特定平台。
 - [![Open-Source Software][OSS Icon]](https://github.com/skywind3000/z.lua) [z.lua](https://github.com/skywind3000/z.lua) - 一款全新的 cd 命令，通过学习你的习惯帮助你更快地进行目录导航。
 - [![Open-Source Software][OSS Icon]](https://github.com/ajeetdsouza/zoxide) [zoxide](https://github.com/ajeetdsouza/zoxide) - 一个浏览文件系统更好的方式。Rust 编写。
@@ -1164,7 +1167,9 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton 是一款独立的合成管理器，适合同没有原生提供合成功能的窗口管理器一同使用。
 - [![Open-Source Software][OSS Icon]](https://github.com/Plagman/gamescope) [Gamescope](https://github.com/Plagman/gamescope) - Gamescope 是一款微合成器，提供一个带有独立输入，分辨率和刷新率的沙盒 Xwayland 桌面。
+- [![Open-Source Software][OSS Icon]](https://github.com/riverwm/river) [River](https://github.com/riverwm/river) - River 是一款动态平铺 Wayland 合成器，带有灵活的运行时配置功能。
 - [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](https://swaywm.org) - Sway 是平铺 Wayland 合成器和 X11 下 i3 窗口管理器的新替代。
+- [![Open-Source Software][OSS Icon]](https://github.com/WayfireWM/wayfire) [Wayfire](https://wayfire.org/) - Wayfire 是一款基于 wlroots 的 wayland 合成器。它的目标是是在不牺牲外观的前提下创建一个可定制化，可扩展，轻量化的环境。
 - [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr 是一个简单的合成管理器，能够渲染下拉阴影，使用 transset 工具的话，还可以实现简单的窗口透明。
 
 ### 叠加式窗口管理器
