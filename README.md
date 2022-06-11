@@ -802,6 +802,7 @@
 - [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) [SpeedCrunch](https://www.speedcrunch.org/) - 一个漂亮，开源，高精度的科学计算器。
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - 在长时间运行的终端命令结束后通知你。
 - [![Open-Source Software][OSS Icon]](https://github.com/xmindltd/xmind) [Xmind](https://www.xmind.net/) - 脑图工具。
+- [![Open-Source Software][OSS Icon]](https://github.com/freeplane/freeplane) [Freeplane](https://www.freeplane.org/wiki/index.php/Home) - 免费、开源的全平台绘制思维导图工具。
 
 #### 笔记
 
