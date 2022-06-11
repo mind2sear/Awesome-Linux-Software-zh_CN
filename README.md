@@ -450,7 +450,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag) [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag 是一个向 POP3 和 IMAP 服务器检查新邮件的守护程序。
 - [Mailspring](https://getmailspring.com/) - 一款漂亮，快速，维护中的 Nylas Mail ([dead](https://github.com/nylas/nylas-mail)) fork，由其原作者之一创建。
 - [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](https://sylpheed.sraoss.jp/en/) - 轻量化，用户友好的电子邮件客户端。
-- [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.thunderbird.net/en-US/) - Thunderbird 是一款免费的电子油价客户端，设置以及个性化简单方便，功能强大。
+- [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.thunderbird.net/en-US/) - Thunderbird 是一款免费的电子邮件客户端，设置以及个性化简单方便，功能强大。
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/) [Trojita](http://trojita.flaska.net/download.html) - 超快的 Linux 桌面邮件客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail) [Vmail](http://danielchoi.com/software/vmail.html) - 类 Vim 的 Gmail 客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail) [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox 的非官方 Linux 桌面客户端。
