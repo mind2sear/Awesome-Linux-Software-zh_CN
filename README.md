@@ -796,13 +796,13 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/bcal) [bcal](https://github.com/jarun/bcal) - 进行存储单位转换和计算。
 - [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) [CopyQ](https://hluk.github.io/CopyQ/) - CopyQ 是一款高级剪贴板管理器，带有编辑和脚本功能。
 - [f.lux](https://justgetflux.com/linux.html) - 自动调节你的电脑屏幕色温显示，帮助你更好地睡眠。
+- [![Open-Source Software][OSS Icon]](https://github.com/freeplane/freeplane) [Freeplane](https://www.freeplane.org/wiki/index.php/Home) - 免费、开源的全平台绘制思维导图工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick) [Gpick](http://www.gpick.org/) - Gpick 让你可以从桌面任何地方取色，并且它还提供一些其它的高级特性！
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/pdd) [pdd](https://github.com/jarun/pdd) - 小型的日期与时间差异计算器。
 - [![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift 根据你的周边调整你屏幕的色温。当你夜晚在屏幕前工作时，它也许能帮助你减少对眼睛的伤害。
 - [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) [SpeedCrunch](https://www.speedcrunch.org/) - 一个漂亮，开源，高精度的科学计算器。
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - 在长时间运行的终端命令结束后通知你。
 - [![Open-Source Software][OSS Icon]](https://github.com/xmindltd/xmind) [Xmind](https://www.xmind.net/) - 脑图工具。
-- [![Open-Source Software][OSS Icon]](https://github.com/freeplane/freeplane) [Freeplane](https://www.freeplane.org/wiki/index.php/Home) - 免费、开源的全平台绘制思维导图工具。
 
 #### 笔记
 
