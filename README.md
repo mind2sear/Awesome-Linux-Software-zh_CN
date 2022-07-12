@@ -87,6 +87,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/beetbox/beets) [beets](http://beets.io/) - Beets 是一款给强迫症音乐极客的媒体库管理系统。
 - ![Non Free][Money Icon] [Bitwig](https://www.bitwig.com/en/download.html) - 音乐制作的数字音频工作站。
 - [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Linux、Windows、macOS 下的 Qt5 图形化 MPD（Music Player Daemon）客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/ciderapp/cider) [Cider](https://cider.sh/) - 基于 Electron 和 Vue.js 从头写就，注重性能的跨平台 Apple Music 体验。
 - [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - 播放无数的有损和无损音频格式。
 - [![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus) [Cmus](https://cmus.github.io/#download) - cmus 是一款类 Unix 系统下小巧，快速且强大的终端音乐播放器。
 - [![Open-Source Software][OSS Icon]](https://github.com/DeaDBeeF-Player/deadbeef) [DeaDBeeF](https://deadbeef.sourceforge.io/) - DeaDBeeF 是一款支持 GNU/Linux、BSD、OpenSolaris、macOS 以及其他类 UNIX 系统的模块化音频播放器。
@@ -264,7 +265,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) [MyCLI](https://www.mycli.net/) - MyCLI 是一款 MySQL、MariaDB、Percona 的命令行界面，带有自动补全和语法高亮。
 - [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server) [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL 是世界领先的开源数据库，有着经过证明的性能，可靠性和易用性。使用它的有 Facebook、Twitter、YouTube、Yahoo! 等知名互联网企业。
 - [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-workbench) [MySQL Workbench](https://www.mysql.com/products/workbench/) - MySQL Workbench 是给数据库架构师、开发者和 DBA 使用的一体化可视工具。MySQL Workbench 为服务器配置、用户管理、备份等提供了数据模型、SQL 开发、综合管理工具。
-- [![Open-Source Software][OSS Icon]](https://github.com/OmniDB/OmniDB) [OmniDB](https://omnidb.org/) - 基于浏览器的工具，可视化创建，管理和查看数据库。
+- [![Open-Source Software][OSS Icon]](https://github.com/OmniDB/OmniDB) [OmniDB](https://github.com/OmniDB/OmniDB) - 基于浏览器的工具，可视化创建，管理和查看数据库。
 - ![Non Free][Money Icon] [OracleDB](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Oracle 公司出品和销售的对象关系型数据库管理系统，最受信赖和广泛使用的关系型数据库引擎之一。
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server-mongodb) [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB 提供了 MongoDB Community Server 的所有特性和优点。
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/pmm-server) [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management（PMM）是一款免费开源的平台，用于管理和监控 MySQL，MariaDB 和 MongoDB 的性能。你可以在你自己的环境中运行 PMM 以保证最大化的安全和可靠性。它为 MySQL，MariaDB 和 MongoDB 提供完全基于时间的分析，确保你的数据尽可能高效流转。
@@ -369,6 +370,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer) [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - 现代 GTK Python 电子书阅读应用，轻松阅读 epub 文件。
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) [Evince](https://wiki.gnome.org/Apps/Evince) - Evince 是一款支持多种格式的文档查看器。Evince 的目标是用一个简单的应用取代已经存在于 GNOME 桌面的多种文档查看器。
 - [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader) [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - 最流行的电子阅读应用之一。
+- [![Open-Source Software][OSS Icon]](https://github.com/johnfactotum/foliate) [Foliate](https://johnfactotum.github.io/foliate/) - Foliate 是一款简单又现代的 GTK 电子书查看器。
 - [Foxit](https://www.foxitsoftware.com/pdf-reader/) - Foxit Reader 8.0——获得殊荣的 PDF 阅读器。
 - [![Open-Source Software][OSS Icon]](https://github.com/martahilmar/gnome-books) [Gnome Books](https://github.com/martahilmar/gnome-books) - GNOME Books 用于查看、搜索和阅读电子书。
 - [![Open-Source Software][OSS Icon]](https://www.willus.com/k2pdfopt/src) [K2pdfopt](https://www.willus.com/k2pdfopt) - K2pdfopt 为移动电子阅读器（如 Kindle）和智能手机优化 PDF/DJVU 文件。
@@ -744,6 +746,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](https://corebird.baedert.org/) - corebird 是一款原生 gtk+ twitter 桌面客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader) [FeedReader](https://github.com/jangernert/FeedReader) - 一款现代的桌面应用，被设计用于补充已有的基于 web 的 RSS 账户，将所有的 web 服务优势集中到一个现代桌面应用中。
 - [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey) - FeedTheMonkey 是一款 TinyTinyRSS 的桌面客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) [FreeTube](https://freetubeapp.io/) - FreeTube 是 Windows，Mac 和 Linux 上的 YouTube 客户端，以更加私密的方式浏览 Youtube。
 - [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](https://gnome-twitch.vinszent.com/) - 在你的 GNU/Linux 桌面上用这款非 Adobe-flash Twitch 客户端享受 Twitch。
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku) - Ubuntu 开源 youtube 音乐播放器。
 - [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) [Popcorntime](https://popcorntime.sh/) - 直接观看 torrent 电影。
@@ -978,7 +981,6 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) [Alacritty](https://github.com/jwilm/alacritty) - 跨平台，支持 GPU 加速的终端模拟器。
 - [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term) [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - 模拟老式 CRT 显示器的好看终端。
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/dban/) [DBAN](https://dban.org/) - 删除 PC 笔记本，桌面或服务器硬盘（HDD）上存储的信息。
 - [![Open-Source Software][OSS Icon]](https://github.com/GitSquared/edex-ui) [eDEX-UI](https://github.com/GitSquared/edex-ui) - eDEX-UI 是一款全屏的跨平台终端模拟器和系统监视器，看起来感觉像科幻电脑界面。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME) [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - Linux 世界广泛预装的终端模拟器。
 - [![Open-Source Software][OSS Icon]](https://github.com/Guake/guake) [Guake](http://guake.org/) - Guake 是 Gnome 下的一款顶部下拉式的终端。
@@ -1012,6 +1014,7 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - 强大的 CD/DVD 烧录软件。
 - [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/) [Clonezilla](https://clonezilla.org/) - Clonezilla 是一款分区以及磁盘镜像/克隆程序，类似 True Image® 或 Norton Ghost®。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/dban/) [DBAN](https://dban.org/) - 删除 PC 笔记本，桌面或服务器硬盘（HDD）上存储的信息。
 - [![Open-Source Software][OSS Icon]](https://github.com/imsnif/diskonaut) [Diskonaut](https://github.com/imsnif/diskonaut) - 终端磁盘空间可视化与导航工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/zevv/duc) [Duc](https://duc.zevv.nl/) - Duc，索引和可视化磁盘用量的库和工具套件。
 - [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) [Etcher](https://www.balena.io/etcher/) - 安全简单地向 SD 卡或 U 盘写入系统镜像。
