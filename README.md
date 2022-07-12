@@ -571,7 +571,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/bottlesdevs/) [Bottles](https://usebottles.com/) - 用新方式简单管理 wine 容器。在 Linux 上运行 Windows 软件和游戏。
 - [![Open-Source Software][OSS Icon]](https://github.com/tkashkin/GameHub) [GameHub](https://tkashkin.github.io/projects/gamehub/) - GameHub 是你的游戏的统一游戏库。它让你可以存储不同平台的游戏到一个程序中，整理游戏更便捷。
 - [![Open-Source Software][OSS Icon]](https://github.com/FeralInteractive/gamemode) [GameMode](https://github.com/FeralInteractive/gamemode) - 按需优化 Linux 系统性能。
-- [![Open-Source Software][OSS Icon]](https://github.com/akien-mga/goverlay) [GOverlay](https://github.com/akien-mga/goverlay) - GOverlay 是一个开源项目，专注创建一个图形化 UI 来帮助管理浮层显示。
+- [![Open-Source Software][OSS Icon]](https://github.com/benjamimgois/goverlay) [GOverlay](https://github.com/benjamimgois/goverlay) - GOverlay 是一个开源项目，专注创建一个图形化 UI 来帮助管理浮层显示。
 - [![Open-Source Software][OSS Icon]](https://github.com/Heroic-Games-Launcher) [Heroic Games Launcher](https://heroicgameslauncher.com/) - 适用 Linux，Windows 和 Mac 的原生 GOG 和 Epic 游戏启动器。
 - [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - itch.io 的应用。你的所有下载都在一个地方，并且能自动升级。有很多免费游戏。
 - [![Open-Source Software][OSS Icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) - Lutris 是一个开放 Linux 游戏平台。它帮助你在一个统一的界面安装和管理你的游戏。
