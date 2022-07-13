@@ -111,6 +111,7 @@
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/) - 在你的桌面集成云音乐。
 - [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](https://www.mixxx.org/download/) - 免费的 DJ 软件，给你一切现场混音所需要的，名副其实的 Traktor 替代品。
 - [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - Python 编写的可扩展音乐服务器。
+- [![Open-Source Software][OSS Icon]](https://github.com/SeaDve/Mousai) [Mousai](https://github.com/SeaDve/Mousai) - Mousai 是简单的听歌识曲应用，和 shazam 类似。
 - [![Open-Source Software][OSS Icon]](https://github.com/martpie/museeks) [Museeks](https://museeks.io/) - 一款简单，干净，跨平台的音乐播放器。
 - [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - 创建，播放和打印漂亮的乐谱。
 - [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard 是一款跨平台的音乐标记应用，用 Python 写就。
@@ -153,10 +154,12 @@
 - [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) [Franz](https://meetfranz.com/) - Franz 是一个免费的消息应用，结合了许多聊天及消息服务到单独的一个客户端中。
 - [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - 一款通用聊天客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/ramboxapp/community-edition) [Rambox](https://rambox.pro/) - 免费，开源且跨平台的消息及邮件应用，整合常见的 web 应用为一体。
+- [![Open-Source Software][OSS Icon]](https://github.com/sonnyp/Tangram) [Tangram](https://github.com/sonnyp/Tangram) - Tangram 是新种类浏览器。它设计的目标是组织和运行你的 web 应用。
 
 #### 聊天客户端工具
 
 - [![Open-Source Software][OSS Icon]](https://github.com/BetterDiscord/BetterDiscord) [BetterDiscord](https://betterdiscord.app/) - BetterDiscord 给 discord 扩展了新功能以加强它。
+- [![Open-Source Software][OSS Icon]](https://github.com/trigg/Discover) [Discover](https://trigg.github.io/Discover/) - 用 Python 和 GTK3 写的又一个 Discord Linux 浮层。
 - [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot) [Red Discord Bot](https://cogs.red) - Red Discord Bot 是一款自托管的音乐/聊天/琐事机器人，可以在树莓派和其他系统上运行。通过一个叫做“Cogs”的系统实现扩展，允许它做更多的事情。
 
 #### IRC 客户端
@@ -177,7 +180,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/mattermost/) [Mattermost](https://mattermost.com/) - Mattermost 是一款安全的协作平台，开放，灵活，深度集成了你喜欢的工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) [qTox](https://qtox.github.io/) - 一款简单的分布式，安全的通讯软件，支持音频和视频聊天。
 - [![Open-Source Software][OSS Icon]](https://github.com/revoltchat) [Revolt](https://revolt.chat/) - Revolt 是开源的用户优先的聊天平台。
-- [![Open-Source Software][OSS Icon]](https://github.com/RocketChat/Rocket.Chat) [Rocket.chat](https://rocket.chat/) - Rocket.Chat 是开源的，支持高度定制化的交流平台，用 JavaScript 开发，适用于对数据保护有高要求的组织。
+- [![Open-Source Software][OSS Icon]](https://github.com/RocketChat/Rocket.Chat) [Rocket.Chat](https://rocket.chat/) - Rocket.Chat 是开源的，支持高度定制化的交流平台，用 JavaScript 开发，适用于对数据保护有高要求的组织。
 - [![Open-Source Software][OSS Icon]](https://github.com/oxen-io) [Session](https://getsession.org/) - Session 是端到端加密的消息软件，最小化了敏感元数据，为想要任何形式的监控下拥有绝对的隐私和自由的人们设计和构建。
 - [![Open-Source Software][OSS Icon]](https://github.com/signalapp) [Signal](https://signal.org) - 一款端到端加密的聊天软件，专注隐私。和隐私说“你好”。
 - [Skype](https://www.skype.com/en/) - Skype 让世界保持沟通，免费的。
@@ -186,6 +189,7 @@
 - [Viber](https://www.viber.com/download/) - Viber for Linux 让你在任何设备，网络和国家给其他 Viber 用户免费发送消息和通话。
 - [![Open-Source Software][OSS Icon]](https://github.com/weechat) [Weechat](https://weechat.org/) - WeeChat 是一款快速，轻量级，可扩展的聊天客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) - 安全沟通。完整隐私。
+- [![Open-Source Software][OSS Icon]](https://github.com/zulip/zulip) [Zulip](https://zulip.com/) - Zulip 是强大开源的群聊应用，结合了即时聊天的实时性以及聊天线程的生产力优势。
 
 ### 数据备份与恢复
 
@@ -380,6 +384,7 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ 漫画书查看器。
 - [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) [MuPDF](https://mupdf.com/) - 一款轻量级的 PDF 和 XPS 查看器。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular) [Okular](https://okular.kde.org/) - Okular 由 KDE 原始开发的通用文档查看器。Okular 可以在多个平台上工作，包括但不限于 Linux，Windows，Mac OS X，BSD 等等。
+- [![Open-Source Software][OSS Icon]](https://github.com/pdfarranger/pdfarranger) [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF Arranger 是个小应用，在交互性和直观的图形界面帮助用户合并或拆分 pdf 文档，旋转和裁剪，重新排序页面。
 - [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - 桌面应用，用于对 PDF 文件进行拆分，提取页面，旋转，混合以及合并。
 - [PDF Studio](https://www.qoppa.com/pdfstudio/) - 一款易用，全功能的 PDF 编辑软件，是 Adobe Acrobat 的可靠替代者，以一小部分的花费提供所有需要的 PDF 功能。PDF Studio 完全兼容 PDF 标准。
 - [![Open-Source Software][OSS Icon]](https://github.com/burtonator/polar-bookshelf) [Polar](https://getpolarized.io/) - Polar 是一款用于 PDF 和 web 内容的个人知识库，支持增量阅读和文档注释。
@@ -397,6 +402,7 @@
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gedit) [Gedit](https://wiki.gnome.org/Apps/Gedit) - gedit 是 GNOME 文本编辑器。尽管以简单易用为目标，gedit 仍然是个强大的多功能编辑器。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - 强大的 IDE，用于现代 C / C++ / Bash / JavaScript 开发，来自 Gnome 团队。C/C++ 开发最好的 IDE 之一（内置 Cmake）。
 - [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](https://kakoune.org/) - Kakoune 代码编辑器 - 受 Vim 启发。更少的击键次数带来更快的速度。多重选中。正交设计。专注于交互。
+- [![Open-Source Software][OSS Icon]](https://github.com/helix-editor/helix) [Helix](https://helix-editor.com/) - 后现代风的文本编辑器。
 - [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate 是一个多文档编辑器，从 KDE 2.2 开始就是 KDE 的一部分了。
 - [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - 免费开源的多语言开发环境。
 - [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持实时编码。
@@ -404,6 +410,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/zyedidia/micro) [Micro](https://micro-editor.github.io) - Micro 是基于终端的文本编辑器，目标是易用且直观，同时还能利用现代终端的强大能力。
 - [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano 是一款文本编辑器，主要目的是向控制台文本编辑引入简单的界面和直观的命令选项。
 - [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim 是 Vim 的一个 fork，关注用户体验改进、插件以及 GUI。
+- [![Open-Source Software][OSS Icon]](https://github.com/NvChad/NvChad) [NvChad](https://nvchad.github.io/) - 让 neovim 命令行功能像 IDE 一样的一次尝试，漂亮又快速。
 - [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](https://www.spacemacs.org/) - 社区驱动的 Emacs 版本。
 - [![Open-Source Software][OSS Icon]](https://github.com/SpaceVim/SpaceVim) [SpaceVim](https://spacevim.org/) - 社区驱动的模块化 Vim 版本。
 - [Sublime](https://www.sublimetext.com/) - 非常强大的文本编辑器，有高级搜索能力以及强大的插件来增强功能。
@@ -419,6 +426,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime) [BibleTime](http://bibletime.info/) - BibleTime 是一款基于 Sword 库和 Qt 工具集的圣经学习应用。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/) [Celestia](https://celestia.space) - 免费的空间模拟器，让你在三维空间中探索我们的宇宙。
 - [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/) [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool 是一款在 Linux 上绘制化学结构的小程序。
+- [![Open-Source Software][OSS Icon]](http://github.com/colobot) [Colobot](https://colobot.info/) - Colobot 黄金版是一款实时策略游戏，你可以用叫做 CBOT 的语言编程你的单位（机器人），这种语言和 C++ 还有 Java 类似。
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes) [Epoptes](https://epoptes.org/) - 一款开源的计算机实验室管理和监视工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap) [GAP](https://www.gap-system.org/) - 计算离散代数领域内的一个优秀系统,主要专注于计算群论的计算。
 - [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner) [Gcompris](https://gcompris.net/index-en.html) - GCompris 是一款高质量教育软件，由无数适合 2 到 10 岁儿童的活动组成。
@@ -448,6 +456,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/LLK/scratch-flash) [Scratch](https://scratch.mit.edu/) - 有了 Scratch，你可以编程你自己的互动故事，游戏，以及动画——并且在在线社区和其他人分享你的创造。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/stellarium/) [Stellarium](https://www.stellarium.org/) - Stellarium 是一个为你电脑准备的免费开源天文馆。
 - [![Open-Source Software][OSS Icon]](https://github.com/sugarlabs/sugar) [Sugar Desktop Environment](https://sugarlabs.org/) - Sugar 是一个重新定义了电脑如何被用于教育的学习平台。协作，思考和发现直接内置在了用户界面内。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/tuxtype/files/tuxtype-source/) [TuxType]( https://www.tux4kids.com/tuxtyping.html) - Tux 主演的打字教育游戏。
 - [![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene) [UGENE](https://ugene.net/) - UGENE 是一款免费开源，跨平台，基于图形界面的生物信息学软件。
 - [![Open-Source Software][OSS Icon]](https://github.com/veyon/veyon) [Veyon](https://veyon.io/) - Veyon 是一款教室管理软件，它允许教师通过网络控制学生的电脑以及指导学生。
 
@@ -525,6 +534,7 @@
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/freedroid/freedroid-src) [FreedroidRPG](http://www.freedroid.org/) - 自顶向下的科幻 2D 角色扮演游戏，受 Diablo 启发。
 - [Ryzom](https://ryzom.com/) - 免费开源的 3D MMORPG，有着独特的特性和很深的学问。官方服务器支持免费帐户和额外功能的付费订阅。
 - [![Open-Source Software][OSS Icon]]((https://te4.org/)) [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal（ToME）是一款免费开源的 roguelike 角色扮演游戏，特色是战术性回合制战斗和高级角色构建。
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/veloren/veloren) [Veloren](https://veloren.net/) - Veloren 是 rust 编写的多人像素 RPG。它受到了许多游戏的启发，如 Cube World，Legend of Zelda: Breath of the Wild，Dwarf Fortress 和 Minecraft。
 - [![Open-Source Software][OSS Icon]](https://github.com/ArmageddonGames/ZeldaClassic) [Zelda Classic](https://www.zeldaclassic.com/) - 对任天堂的塞尔达传说的致敬，有额外的任务，物品和挑战。
 - ![Open-Source Software][OSS Icon] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - 迷你超任上的塞尔达传说：过去的林克的直接续集，使用了相同的画面和游戏机制。
 
@@ -550,6 +560,7 @@
 - ![Nonfree][Money icon] [Minecraft](https://minecraft.net) - Minecraft 是一个关于放置方块和冒险的游戏。探索随机生成的世界，建造惊奇的事物，从最简单的家到最伟大的城堡。
 - ![Open-Source Software][OSS Icon] ![Nonfree][Money icon] [Mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft: Bedrock 版的非官方开源启动器。
 - [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - 开源的 Minecraft 实现，由 C++ 写就（占用更少的资源），还包含模组扩展 API。
+- [![Open-Source Software][OSS Icon]]( http://motogt.sourceforge.net/) [MotoGT](http://motogt.sourceforge.net/) - 2D 俯视游戏，你可以驾驶世界摩托锦标赛摩托。
 - [![Open-Source Software][OSS Icon]](https://github.com/Mudlet/Mudlet) [Mudlet](https://www.mudlet.org/) - 跨平台开源，超快的 MUD（纯文本 MMORPG）客户端，支持 Lua 脚本。
 - [![Open-Source Software][OSS Icon]](https://github.com/Neverball/neverball) [Neverball](https://neverball.org/) - 令人上瘾的滚球游戏，有许多关卡，角色，还可以录制回放。
 - [OhMyGiraffe](https://www.ohmygiraffe.com/) - 令人愉快的生存游戏。一款关于吃水果和被狮子吃的长颈鹿的游戏。
@@ -611,6 +622,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Sprite 动画编辑器及像素艺术工具。
 - [![Open-Source Software][OSS Icon]](https://download.blender.org/source/) [Blender](https://www.blender.org/) - 面向艺术家和小团队的免费开源的完整 3D 创作流水线。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://www.cinepaint.org/) - 开源绘画软件。
+- [![Open-Source Software][OSS Icon]](https://github.com/maoschanz/drawing) [Drawing](https://maoschanz.github.io/drawing/) - 这个免费基础位图编辑器和微软的画图类似，但目标环境是 GNOME 桌面。
 - [![Open-Source Software][OSS Icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) - Haskell构建，你的开源视频GIF制作工具。
 - [Gravit](https://www.designer.io/) - Grivit Designer 是一款就在你指尖的全功能免费矢量设计应用。
 - [Heron Animation](https://heronanimation.brunolefevre.net/) - 免费的定格动画制作程序。
@@ -719,8 +731,10 @@
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - 一款流行的浏览器，有着无数插件和应用。
 - [![Open-Source Software][OSS Icon]](https://chromium.googlesource.com/chromium/src.git) [Chromium](https://www.chromium.org/) - Chromium 是一个开源浏览器项目，专注于为所有用户带来更安全、快速和稳定的 web 体验。
 - [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) [Firefox](https://www.mozilla.org/en-US/firefox/new/) - 一款流行的浏览器，有着无数插件和应用。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/epiphany) [GNOME Web](https://wiki.gnome.org/Apps/Web) - GNOME Web（代号 Epiphany）是基于 webkit 渲染引擎的 GNOME web 浏览器。
 - [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gnuzilla.git) [IceCat](https://www.gnu.org/software/gnuzilla/) - Firefox 的 GNU 版本，为隐私构建，只使用自由软件和商标。
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) [LibreWolf](https://librewolf.net/) - Firefox 的分支，主要目标是隐私，安全，用户自由。
+- [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft Edge 是微软创建和开发的跨平台 web 浏览器。
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa) [Midori](https://midori-browser.org/) - 一款轻量级的免费浏览器，在低端机器上可以完美运行。
 - [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - 智能，快速的 web 浏览器。
 - [Opera](https://www.opera.com/) - Opera 浏览器是你畅游网络所需的一切。
@@ -746,6 +760,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](https://corebird.baedert.org/) - corebird 是一款原生 gtk+ twitter 桌面客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader) [FeedReader](https://github.com/jangernert/FeedReader) - 一款现代的桌面应用，被设计用于补充已有的基于 web 的 RSS 账户，将所有的 web 服务优势集中到一个现代桌面应用中。
 - [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey) - FeedTheMonkey 是一款 TinyTinyRSS 的桌面客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/yang991178/fluent-reader) [Fluent Reader](https://hyliu.me/fluent-reader/) - Electron、React、Fluent UI 构建的现代桌面 RSS 阅读器。
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) [FreeTube](https://freetubeapp.io/) - FreeTube 是 Windows，Mac 和 Linux 上的 YouTube 客户端，以更加私密的方式浏览 Youtube。
 - [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](https://gnome-twitch.vinszent.com/) - 在你的 GNU/Linux 桌面上用这款非 Adobe-flash Twitch 客户端享受 Twitch。
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku) - Ubuntu 开源 youtube 音乐播放器。
@@ -782,6 +797,8 @@
 #### Markdown
 
 - [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter) [Ghost Writer](http://wereturtle.github.io/ghostwriter/) - Windows 和 Linux 下的无打扰 Markdown 编辑器。
+- [![Open-Source Software][OSS Icon]](https://github.com/fabiocolacio/Marker) [Marker](https://github.com/fabiocolacio/Marker) - Marker 是 GTK+-3.0 编写的 linux markdown 编辑器。
+- [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) [MarkText](https://marktext.app/) - MarkText 是免费开源的实时预览 markdown 编辑器，支持 CommonMark 标准和 Github 风格 markdown 标准。它是个简洁的文本编辑器，致力于提高你的写作效率。
 - [![Open-Source Software][OSS Icon]](https://github.com/jamiemcg/remarkable) [Remarkable](https://remarkableapp.github.io/) - 强大的 markdown 编辑器，使用 Github 方言 Markdown（GFM）。
 - [![Open-Source Software][OSS Icon]](https://github.com/retext-project/retext) [Retext](https://github.com/retext-project/retext) - 简单但强大的 Markdown 及 reStructuredText 编辑器。
 - [Typora](https://typora.io/) - 简洁的 markdown 编辑器。
@@ -800,6 +817,7 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/Jmgr/actiona) [Actiona](https://wiki.actiona.tools/doku.php?id=:en:start) -  Ubuntu/Linux 下的任务自动化工具（原名 Actionaz）。
 - [![Open-Source Software][OSS Icon]](https://github.com/autokey/autokey) [Autokey](https://github.com/autokey/autokey) - 一款 Linux 桌面自动化工具，让你可以管理你的脚本和短语集合，并给它们分配缩写或者快捷键。
+- [![Open-Source Software][OSS Icon]](https://github.com/rafaelmardojai/blanket) [Blanket](https://github.com/rafaelmardojai/blanket) - 听听不同的声音，改善专注力，增加生产力。
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) - 阻止 Ubuntu 自动进入睡眠。
 - [![Open-Source Software][OSS Icon]](https://github.com/federico-terzi/espanso) [espanso](https://espanso.org/) - Rust 编写的跨平台文本展开工具。
 
@@ -848,8 +866,10 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/dail8859/NotepadNext) [Notepad Next](https://github.com/dail8859/NotepadNext) - 跨平台的 Notepad++ 重实现。
 - [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](https://notepadqq.com/wp/) - Notepadqq 是 Linux 下一款类 Notepad++ 的编辑器。
 - [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) [Notes](https://www.get-notes.com/) - 一款干净又简单的 Linux 笔记应用。
+- [Obsidian](https://obsidian.md/) - Obsidian 是基于本地 markdown 文件文件夹的强大知识库。
 - [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote。
 - [![Open-Source Software][OSS Icon]](http://orgmode.org/) [Org mode](https://orgmode.org/) - Org mode 在一个快速且高效的纯文本系统上记录笔记，维护 TODO 列表，规划项目以及创作文档。
+- [![Open-Source Software][OSS Icon]](https://github.com/alainm23/planner) [Planner](https://useplanner.com/) - Planner 在一个漂亮又简洁的位置追踪你所有的任务，项目以及目标。
 - [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes 是一款纯文本文件记事本以及 todo 列表管理器，支持 markdown 以及 ownCloud / NextCloud 集成。
 - [Simplenote](https://simplenote.com/) - 跨平台笔记应用，Evernote 的竞争者。
 - [![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - 面向日常用户简单又漂亮的一款笔记软件。
@@ -870,6 +890,7 @@
 - ![Nonfree][Money Icon] [Everdo](https://everdo.net/) - 全平台 TODO 列表和 Getting Things Done® 应用。漂亮，强大，非 SaaS，有免费版本提供。
 - [![Open-Source Software][OSS Icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](http://gnomepomodoro.org/#download) - GNOME 下的全功能番茄钟。
 - [![Open-Source Software][OSS Icon]](https://github.com/mank319/Go-For-It) [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! 是一款简单又时尚的生产力工具，主打待办清单，结合定时器让你专注于当前的任务。
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/pim/kalendar) [Kalendar](https://apps.kde.org/kalendar/) - Kalendar 是一款日历应用，你可以管理你的任务和事件。
 - ![Nonfree][Money Icon] [Pomodone App](https://pomodoneapp.com/) - PomoDoneApp 使用番茄钟技术®，是在你当前任务管理服务上追踪你的工作流最简单的方法。
 - [![Open-Source Software][OSS Icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak 关心你的健康，定时打断你的工作来避免重复性压迫损伤。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/Solanum) [Solanum](https://gitlab.gnome.org/World/Solanum) - GNOME 桌面的番茄钟。
@@ -902,9 +923,12 @@
 #### 区域隔离
 
 - [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail 是一款 SUID 程序，通过使用 [Linux namespaces](https://lwn.net/Articles/531114/) 和 [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/) 限制不可信应用的运行环境，来减少安全缺口的风险。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gnome-boxes) [Gnome Boxes](https://apps.gnome.org/app/org.gnome.Boxes/) - 让虚拟化更简单。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM （表示 Kernel-based Virtual Machine，基于内核的虚拟机）是一个支持虚拟化扩展（Intel VT 或 AMD-V）Linux 的完全虚拟化方案。
 - [![Open-Source Software][OSS Icon]](https://github.com/nanovms/ops/) [ops](https://github.com/nanovms/ops) - OPS 是将一般 Linux 应用作为 unikernel 构建，运行和部署的工具。
+- [![Open-Source Software][OSS Icon]](https://github.com/quickemu-project/quickemu) [Quickemu](https://github.com/quickemu-project/quickemu) - 快速创建和运行优化过的 Windows，macOS 以及 Linux 桌面虚拟机。
 - [![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox 是一款 x86 硬件的通用完全虚拟环境，用于服务器，桌面和嵌入式环境使用。
+- [![Open-Source Software][OSS Icon]](https://github.com/virt-manager/virt-manager) [Virtual Machine Manager](https://virt-manager.org/) - 管理通过 libvirt 创建的虚拟机的桌面工具。
 
 #### 防火墙
 
@@ -1020,7 +1044,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) [Etcher](https://www.balena.io/etcher/) - 安全简单地向 SD 卡或 U 盘写入系统镜像。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gparted) [GParted](https://gparted.org/) - Ubuntu/Linux 磁盘分区工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/mbusb/multibootusb) [MultiBootUSB](http://multibootusb.org/) - MultiBootUSB 允许你在 U 盘上安卓多个 Linux live 系统。
-- [![Open-Source Software][OSS Icon]](https://github.com/pop-os/popsicle) [popsicle](https://github.com/pop-os/popsicle) - Popsicle 是用 Rust 写的 Linux 工具，可以同时刷写多个 USB 设备。
+- [![Open-Source Software][OSS Icon]](https://github.com/pop-os/popsicle) [Popsicle](https://github.com/pop-os/popsicle) - Popsicle 是用 Rust 写的 Linux 工具，可以同时刷写多个 USB 设备。
 - [![Open-Source Software][OSS Icon]](https://github.com/unetbootin/unetbootin) [Unetbootin](https://unetbootin.github.io) - UNetbootin 允许你创建 Ubuntu 及其他 Linux 发行版的可启动的 Live USB 存储盘。你可以让 UNetbootin 下载自带支持的许多发行版之一，或者使用你自己的 Linux .iso 文件。
 - [![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy) [Ventoy](https://www.ventoy.net/en/index.html) - 一个新的可启动 USB 解决方案。
 
@@ -1059,6 +1083,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/aramg/droidcam/tree/master/linux) [Droidcam](https://www.dev47apps.com/) - DroidCam 将你的安卓设备变成 PC 的无线摄像头。
 - [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke) - Easystroke 是一个 X11 手势识别应用。
 - [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Linux 下的可视化类键盘的 emoji 选择器。
+- [![Open-Source Software][OSS Icon]](https://github.com/tchx84/flatseal) [Flatseal](https://github.com/tchx84/flatseal) - Flatseal 是一款图形化工具，用于查看和修改你的 flatpak 应用的权限。
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](https://www.freerdp.com/) - FreeRDP 是一个远程桌面协议（RDP）的自由实现。
 - [![Open-Source Software][OSS Icon]](https://github.com/Simmesimme/Gnome-Pie) [GnomePie](https://github.com/Simmesimme/Gnome-Pie) - Linux 桌面的一个圆形启动器。
 - [![Open-Source Software][OSS Icon]](https://github.com/gramps-project/gramps) [Gramps](https://github.com/gramps-project/gramps) - 使用 Gramps 研究，组织和分享你的家谱。
@@ -1092,6 +1117,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi) [Bomi Player](https://bomi-player.github.io/) - 一款强大易用的多媒体播放器。
 - [![Open-Source Software][OSS Icon]](https://github.com/celluloid-player/celluloid) [Celluloid](https://celluloid-player.github.io/) - MPV 的简单 GTK+ 前端。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese) [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese 用你的摄像头拍照和录像，还能加上神奇的特效，让你能够和别人分享快乐。
+- [![Open-Source Software][OSS Icon]](https://github.com/Rafostar/clapper) [Clapper](https://rafostar.github.io/clapper/) - 由 GJS 和 GTK4 工具集构建的 GNOME 媒体播放器，GStreamer 驱动，含 OpenGL 渲染。
 - [![Open-Source Software][OSS Icon]](https://github.com/FFmpeg/FFmpeg) [FFmpeg](https://www.ffmpeg.org/) - FFmpeg 是一系列库和工具，可以处理像音频、视频、字幕和相关元数据等多媒体内容。
 - [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) [Kodi](https://kodi.tv/about/) - 一款获得殊荣的免费开源（GPL）软件，支持视频，音乐，图片，游戏以及更多内容的媒体中心。
 - [![Open-Source Software][OSS Icon]](https://github.com/pculture/miro) [Miro](https://www.getmiro.com/) - 免费，开放的视频，音乐以及互联网电视应用；它从成千上万的资源中带来视频频道，并且还有比其它平台更丰富的免费高清资源。
