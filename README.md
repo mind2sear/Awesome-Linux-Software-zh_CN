@@ -93,6 +93,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/DeaDBeeF-Player/deadbeef) [DeaDBeeF](https://deadbeef.sourceforge.io/) - DeaDBeeF 是一款支持 GNU/Linux、BSD、OpenSolaris、macOS 以及其他类 UNIX 系统的模块化音频播放器。
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - Deepin 科技团队开发的应用，专注在本地音乐播放上。
 - [![Open-Source Software][OSS Icon]](https://github.com/wwmm/easyeffects) [EasyEffects](https://github.com/wwmm/easyeffects) - EasyEffects 是一款高级音频处理工具。举几个例子，它包括均衡器、限制器、压缩器和混响工具，还有一个内置的频谱分析仪。
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/multimedia/elisa) [Elisa](https://elisa.kde.org/) - Elisa 是 KDE 社区开发的音乐播放器，努力做到了简单和易用。
 - [![Open-Source Software][OSS Icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac 是一款免费的音频转换与 CD 提取工具，支持多种流行的格式和编码。它可以在 MP3、MP4/M4A、WMA、Ogg Vorbis、FLAC、AAC、WAV 以及 Bonk 格式之间转换。
 - [![Open-Source Software][OSS Icon]](http://gnormalize.sourceforge.net/) [Gnormalize](http://gnormalize.sourceforge.net/) -  一款带有回放增益算法的音频转换和 CD 提取工具，元数据（tag）编辑器以及音频播放器。它在 GNU/Linux 下使用 gtk2-perl。
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。
@@ -128,6 +129,7 @@
 - ![Non Free][Money Icon] [Reaper](https://www.reaper.fm/) - 无限制的音频创作。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - 来自 GNOME 的音乐播放器。
 - [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara 是一款小巧干净，快速的音频播放器，使用 C++ 编写，基于 Qt 框架。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/Shortwave) [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Shortwave 是一款互联网收音机播放器，提供超过 25000 站点的站点数据库。
 - [![Open-Source Software][OSS Icon]](https://github.com/multani/sonata/) [Sonata](https://www.nongnu.org/sonata/) - 一款音乐播放器，通过 Music Player Daemon（MPD）为你的音乐收藏提供优雅直观的界面。
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter) [Soundconverter](http://soundconverter.org/) - 领先的音频文件转换工具。目标是易用快速。
 - [![Open-Source Software][OSS Icon]](https://github.com/Soundux/Soundux) [Soundux](https://soundux.rocks/) - 跨平台音板。
@@ -949,6 +951,7 @@
 - [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/) [Pass](https://www.passwordstore.org/) - 标准 Unix 密码管理工具。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) [Password Safe](https://pwsafe.org/) - Password Safe 允许你轻松安全地创建一个安全，加密的用户名/密码列表。
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/psono/psono-app) [Psono](https://psono.com/) - Psono 是开源的自托管密码管理器，帮你保持数据安全。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/secrets) [Secrets](https://gitlab.gnome.org/World/secrets) - Secrets 是一款和 GNOME 桌面环境完美集成的密码管理器，提供易用整洁的界面用于管理密码数据库。
 - [![Open-Source Software][OSS Icon]](https://github.com/dani-garcia/vaultwarden) [VaultWarden](https://github.com/dani-garcia/vaultwarden) - 非官方 Bitwarden 兼容服务器，用 Rust 编写，之前的名字叫 bitwarden_rs。
 
 #### 其它
@@ -978,6 +981,7 @@
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox 是一个免费的云存储服务，让你可以将照片，文档和视频带到任何地方并轻松分享。
 - [![Open-Source Software][OSS Icon]](https://svn.filezilla-project.org/filezilla/FileZilla3/) [Filezilla](https://filezilla-project.org/) - 免费的 FTP 解决方案。
 - [Flareget](https://flareget.com/) - 全功能，多线程下载管理器以及加速器。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/Fragments) [Fragments](https://gitlab.gnome.org/World/Fragments) - Fragments 是 GNOME 桌面环境下一款易用的 BitTorrent 客户端。
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/ktorrent.git/tree//?) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent 是 KDE 的 BitTorrent 应用，允许你使用 BitTorrent 协议下载文件。
 - [![Open-Source Software][OSS Icon]](https://github.com/meganz/MEGAsync) [Mega](https://mega.nz/#sync) - 在你的电脑和 MEGA 云存储间轻松自动同步。
 - [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) [Meiga](https://meiga.igalia.com/) - 一个让你可以通过 web 共享你选定的本地文件夹的工具。
