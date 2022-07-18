@@ -219,11 +219,19 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/adapta-project/adapta-gtk-theme) - 一款自适应的 Gtk+ 主题，遵循 Material 设计指南。
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](https://github.com/EliverLara/Ant) - Ant 是一款用于 Ubuntu 及其他基于 GNOME Linux 桌面环境的扁平化 GTK 主题，有三种风格：vanilla，Bloody 以及 Dracula。
 - [![Open-Source Software][OSS Icon]](https://github.com/jnsh/arc-theme) [Arc Theme](https://github.com/NicoHood/arc-theme) - 带有透明元素的扁平化主题。
+- [![Open-Source Software][OSS Icon]](https://github.com/dracula/gtk) [Dracula](https://draculatheme.com/gtk) - 用了超赞的 Dracula 配色的暗色主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop 是一款为 Solus 项目构建的现代桌面主题套件。它主要是扁平化的，同时为了深度效果使用了最少量的阴影。
 - [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - 一款适用于 Ubuntu 和其他基于 Gnome 的 Linux 系统的扁平化主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - 扁平，蓝色的 GTK 主题，还有暗色版本。
+- [![Open-Source Software][OSS Icon]](https://github.com/daniruiz/Flat-Remix-GTK) [Flat Remix](https://github.com/daniruiz/Flat-Remix-GTK) - Flat Remix 是一款受 material design 启发的 GTK 应用主题。
+- [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Kimi) [Kimi](https://github.com/EliverLara/Kimi) - Kimi 是一款亮色 Gtk3.20+ 主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/material-ocean/material-ocean) [Material Ocean Theme](https://github.com/material-ocean/material-ocean) - 一款带有 oceanic 配色的 material design 主题（GTK，QT）。
+- [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Mojave-gtk-theme) [Mojave GTK Theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave 是一款 GTK 3，GTK 2 和 Gnome-Shell 的仿 Mac OSX 主题，支持基于 GTK3 和 GTK2 的桌面环境，如 Gnome，Pantheon，XFCE，Mate 等。
+- [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Nordic) [Nordic](https://github.com/EliverLara/Nordic) - 暗色 Gtk3.20+ 主题，使用超赞的 Nord 配色。
 - [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) [Numix Theme](https://github.com/numixproject/numix-gtk-theme) - 一款扁平多彩的 GTK 主题。
+- [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Orchis-theme) [Orchis theme](https://github.com/vinceliuice/Orchis-theme) - Orchis 是一款为基于 GNOME/GTK 桌面环境设计的 Material Design 主题。
+- [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Sweet) [Sweet](https://github.com/EliverLara/Sweet) -  支持亮色和暗色的多彩 Gtk3.20+ 主题。
+- [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/WhiteSur-gtk-theme) [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - 仿 MacOS Big Sur 主题，用于 GNOME 桌面。
 
 #### 桌面部件与主题工具
 
