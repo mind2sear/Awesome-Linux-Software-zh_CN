@@ -240,10 +240,18 @@
 
 #### 桌面图标包
 
+- [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/candy-icons) [Candy Icons](https://github.com/EliverLara/candy-icons) - 甜蜜渐变色图标主题。
+- [![Open-Source Software][OSS Icon]](https://github.com/daniruiz/Flat-Remix) [Flat Remix](https://github.com/daniruiz/Flat-Remix) - Flat Remix 是受 material design 启发的图标主题。它主要使用了多彩的调色板，带有一些阴影，高光以及深度的渐变。
+- [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Fluent-icon-theme) [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) - Linux 桌面的 Fluent 图标主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/keeferrourke/la-capitaine-icon-theme) [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - 一款 macOS 和 Material 设计启发的图标主题，设计适用于大多数桌面环境。
 - [![Open-Source Software][OSS Icon]](https://github.com/snwh/moka-icon-theme) [Moka Icon Theme](https://snwh.org/moka) - Moka 创作时牢记简洁。使用简单的几何图形和明亮的颜色。
 - [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) [Numix Icon Theme](https://github.com/numixproject/numix-icon-theme) - 扁平图标主题，带两种样式：Numix Main 和 Numix circle。
 - [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux 系统 SVG 图标主题，基于 Paper 主题并有一些额外的特性（如硬编码托盘支持，kde 颜色方案支持，libreoffice 图标主题，filezilla 主题，smplayer 主题...）以及其它的修改。这个主题适用于 GTK 以及 KDE。
+- [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Qogir-icon-theme) [Qogir Icon Theme](https://github.com/vinceliuice/Qogir-icon-theme) - 设计扁平多彩的图标主题，用于 Linux 桌面。
+- [![Open-Source Software][OSS Icon]](https://github.com/yeyushengfan258/Reversal-icon-theme) [Reversal Icon Theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - 多彩设计的图标主题，用于 Linux 桌面。
+- [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Tela-icon-theme) [Tela Icon Theme](https://github.com/vinceliuice/Tela-icon-theme) - 一款扁平多彩设计的图标主题。
+- [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/WhiteSur-icon-theme) [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - macOS Big Sur 风格的图标主题，用于 Linux 桌面。
+- [![Open-Source Software][OSS Icon]](https://github.com/zayronxio/Zafiro-icons) [Zafiro Icons](https://github.com/zayronxio/Zafiro-icons) - 用平面设计技术创建的极简主义图标，利用饱和度较低的颜色，并始终带有白色。
 
 ### 开发
 
@@ -330,10 +338,13 @@
 
 #### 支持工具
 
+- [![Open-Source Software][OSS Icon]](https://github.com/GeopJr/Collision) [Collision](https://collision.geopjr.dev/) - Collision 拥有简单干净的 UI，可以让任何年龄和经验的人群生成，比较和验证 MD5，SHA-256，SHA-512 和 SHA-1 哈希值。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/) [Cscope](http://cscope.sourceforge.net/) - Cscope 是一款浏览源码的开发者工具。尽管是命令行程序，它可以原生集成到 Vim 编辑器中。它可以在代码中搜索符号、定义、函数（已调用/正在调用）、正则、文件。
+- [![Open-Source Software][OSS Icon]](https://github.com/Huluti/Curtail) [Curtail](https://github.com/Huluti/Curtail) - Curtail 是实用的图片压缩工具，支持 PNG，JPEG 和 WEBP 文件格式。
 - [![Open-Source Software][OSS Icon]](https://github.com/qarmin/czkawka) [Czkawka](https://github.com/qarmin/czkawka) - 多功能应用，可以寻找重复文件，空文件夹，相似图片等。
 - [![Open-Source Software][OSS Icon]](https://github.com/cytopia/devilbox) [Devilbox](https://github.com/cytopia/devilbox) - Devilbox 是一款现代的、高度可配置的 docker 化 PHP 栈，支持 LAMP 和 MEAN，可以在所有主要平台上运行。它的主要目标是在本地开发时轻松切换和结合任何需要的软件版本。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) [Diffuse](http://diffuse.sourceforge.net/) - Diffuse 是一款比较和合并文本文件的图形化工具。它可以从 Bazaar、CVS、Darcs、Git、Mercurial、Monotone、RCS、Subversion 以及 SVK 仓库获取文件来比较。
+- [![Open-Source Software][OSS Icon]](https://github.com/dialect-app/dialect/) [Dialect](https://github.com/dialect-app/dialect/) - 一款 GNOME 翻译应用。
 - [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip) [Fossil](https://www.fossil-scm.org) - 自包含，分布式软件配置管理系统，带有集成 bug 追踪，wiki，技术说明和 web 界面。
 - [![Open-Source Software][OSS Icon]](https://github.com/gaphor/gaphor) [Gaphor](https://gaphor.org) - 简单快速的系统建模工具。
 - ![Nonfree][Money Icon] [Genymotion](https://www.genymotion.com/desktop/) - Genymotion 是一款可以用来替代默认安卓模拟器的第三方模拟器。
@@ -350,6 +361,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Kong/insomnia) [Insomnia](https://insomnia.rest/) - 一款简单，漂亮且免费的 REST API 客户端。
 - [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - 开源，交互式数据科学和科学计算，支持超过 40 种编程语言。
 - [![Open-Source Software][OSS Icon]](https://meldmerge.org/development.html) [Meld](https://meldmerge.org/) - Meld 是一款可视化 diff 和 merge 工具，帮助你比较文件，目录以及有版本控制的项目。
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/rmnvgr/metadata-cleaner/) [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - 这个工具允许你查看文件的元信息，并让你尽可能摆脱它（清除）。
 - [Mockingbot](https://mockingbot.com) - Mockingbot 是一款易用的原型工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) [Nemiver](https://github.com/GNOME/nemiver) - Nemiver 项目编写集成到 GNOME 桌面环境的独立图形调试器。
 - [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) [Pencil](https://pencil.evolus.vn/) - 开源图形界面原型工具，在各平台可用。
@@ -593,6 +605,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/MultiMC/Launcher/) [MultiMC](https://multimc.org/) - MultiMC 是一款 Minecraft 启动器替代。它可以帮你设置多个干净隔离的 Minecraft 实例（每个都有自己的 mod，资源包，存档等等），并且在简单强大的界面上管理它们和相关的选项。
 - [![Open-Source Software][OSS Icon]](https://repository.playonlinux.com/) [PlayOnLinux](https://www.playonlinux.com) - Wine 的一个前端。
 - [![Open-Source Software][OSS Icon]](https://github.com/PolyMC/PolyMC) [PolyMC](https://polymc.org/) - 开源的 Minecraft 启动器，拥有管理多实例，账户和 mod 的能力。关注用户自由和重分发能力。
+- [![Open-Source Software][OSS Icon]](https://github.com/Matoking/protontricks) [Protontricks](https://github.com/Matoking/protontricks) - 这是一个封装脚本，让你可以更简单地运行 Steam Play/Proton 游戏的 winetricks 命令，同时带上其他常见 wine 特性，比如启动外部 Windows 可执行程序。
 - [![Open-Source Software][OSS Icon]](https://github.com/DavidoTek/ProtonUp-Qt) [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - 用图形用户界面为 Lutris，Steam 和 Wine-GE 安装和管理 Proton-GE 和 Luxtorpeda。
 - [![Open-Source Software][OSS Icon]](https://github.com/libretro/RetroArch) [RetroArch](https://www.retroarch.com/) - 很多游戏模拟器的前端。
 - [Steam](https://store.steampowered.com/) - 超赞的游戏平台，打开众多游戏的大门。
@@ -751,6 +764,7 @@
 
 - [Clipgrab](https://clipgrab.org/) - 用于 YouTube 和其他站点，友好的下载工具。
 - [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor 是免费软件和一个开放网络，帮助你对抗流量分析（一种网络检测的方式，威胁个人自由与隐私）。
+- [![Open-Source Software][OSS Icon]](https://github.com/Unrud/video-downloader) [Video Downloader](https://github.com/Unrud/video-downloader) - 从像 YouTube 这样的和其他站点下载视频（基于 yt-dlp）。
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://github.com/rg3/youtube-dl) - YouTube 视频下载神器，是一个 Python 编写的命令行视频下载器，同时支持其它一些视频网站或平台。注意：国内用户若要下载 YouTube 视频，需要给它添加 --proxy 参数，指定代理下载。
 - [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) - Youtube-dlg 是 youtube-dl 的一个图形界面，支持从所有 youtube-dl 兼容的网站上做简单的复制粘贴操作。它可以同时自动升级 youtube-dl 和处理 URL 列表。
 - [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier 是一款可以在互联网上为你的设备创建端对端加密虚拟网络的软件。Zerotier 默认为你管理网络，如果你愿意的话也可以切换到自行管理网络。
@@ -766,6 +780,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) [FreeTube](https://freetubeapp.io/) - FreeTube 是 Windows，Mac 和 Linux 上的 YouTube 客户端，以更加私密的方式浏览 Youtube。
 - [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](https://gnome-twitch.vinszent.com/) - 在你的 GNU/Linux 桌面上用这款非 Adobe-flash Twitch 客户端享受 Twitch。
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku) - Ubuntu 开源 youtube 音乐播放器。
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/news-flash/news_flash_gtk) [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - NewsFlash 设计来作为已有的基于 web 的 RSS 阅读器账户的补充程序。
 - [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) [Popcorntime](https://popcorntime.sh/) - 直接观看 torrent 电影。
 
 ### 办公
@@ -887,6 +902,7 @@
 #### 时间与任务
 
 - [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock 是一款全功能的 GNOME 或其它面板的闹钟。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gnome-break-timer/) [Break Timer](https://wiki.gnome.org/Apps/BreakTimer) - 一款 GNOME 休息时间计时器。
 - [![Open-Source Software][OSS Icon]](http://git.calcurse.org/calcurse.git/) [calcurse](https://calcurse.org/) - 一款命令行日历和日程安排应用。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/california) [California](https://wiki.gnome.org/Apps/California) - Calendar 应用的完整替代方案，可使用自然语言创建事件。
 - ![Nonfree][Money Icon] [Everdo](https://everdo.net/) - 全平台 TODO 列表和 Getting Things Done® 应用。漂亮，强大，非 SaaS，有免费版本提供。
@@ -956,13 +972,16 @@
 
 #### 其它
 
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/Authenticator) [Authenticator](https://gitlab.gnome.org/World/Authenticator) - 生成双因素验证码的简单验证器应用。
 - [![Open-Source Software][OSS Icon]](https://github.com/Cisco-Talos/clamav-devel) [ClamAV](https://www.clamav.net/) - ClamAV 是一款开源反病毒引擎，用于检测木马、病毒、恶意软件以及其他恶意威胁。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/decoder/) [Decoder](https://gitlab.gnome.org/World/decoder/) - 神奇又简单的二维码扫描和生成器。
 - [![Open-Source Software][OSS Icon]](https://github.com/fail2ban/fail2ban) [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban 扫描日志文件（例如 /var/log/apache/error_log）并将有恶意气息的 IP 封禁——过多的错误密码尝试，寻找可利用漏洞等行为。
 - [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/) [FireQoS](https://docs.netdata.cloud/collectors/tc.plugin/#tcplugin) - 人性化 Linux QoS（`tc`）管理器。
 - [![Open-Source Software][OSS Icon]](https://git.gnupg.org/) [GnuPG](https://www.gnupg.org/) - GnuPG 允许对你的数据和通讯进行加密和签名，特色是一个多用途密钥管理系统以及所有类型的公钥目录的访问模块。
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/iprange) [IPrange](https://github.com/firehol/iprange) - 一款快速的命令行工具，用于处理 IP 列表（合并、比较、剔除等）。
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/keysniffer) [keysniffer](https://github.com/jarun/keysniffer) - Linux 内核模式 debugfs 按键记录器。
 - [![Open-Source Software][OSS Icon]](https://github.com/CISOfy/lynis) [Lynis](https://cisofy.com/lynis/) - Linux，macOS 以及基于 UNIX 的系统的安全审计工具。帮助进行符合性测试（HIPAA/ISO27001/PCI DSS）以及系统加固。无客户端，安装可选。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/obfuscate/) [Obfuscate](https://gitlab.gnome.org/World/obfuscate/) - Obfuscate 让你编辑任何图像中的隐私信息。
 - [![Open-Source Software][OSS Icon]](https://www.openbsd.org/anoncvs.html) [OpenSSH](https://www.openssh.com/) - OpenSSH 安全 Shell 服务器以及客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/zaproxy/zaproxy/) [OWASP ZAP](https://www.zaproxy.org) - OWASP Zed Attack Proxy (ZAP) web 安全测试工具。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/seahorse) [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - GnuPG 的 Gnome 前端。
@@ -1185,6 +1204,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/facebook/PathPicker) [PathPicker](https://github.com/facebook/PathPicker) - 命令允许你在命令行中选择前一个命令的输出文件，然后你就可以运行另一个命令或编辑它们。
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/pywal) [pywal](https://github.com/dylanaraps/pywal) - pywal 是一个脚本，给它输入一个图片（或图片文件夹），生成一套配色方案（使用 imagemagick），然后即时将你打开的所有终端的配色方案修改，让你的终端颜色可以随着你的壁纸或其他标准变化。
 - [![Open-Source Software][OSS Icon]](https://github.com/orakaro/rainbowstream) [Rainbow Stream](https://github.com/orakaro/rainbowstream) - 聪明漂亮的终端 Python Twitter 客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/BurntSushi/ripgrep) [ripgrep](https://github.com/BurntSushi/ripgrep) - Ripgrep 是一款面向命令行的搜索工具，支持递归地使用正则表达式搜索当前目录。
 - [![Open-Source Software][OSS Icon]](https://github.com/michael-lazar/rtv) [RTV](https://github.com/michael-lazar/rtv) - 从终端浏览 Reddit。
 - [![Open-Source Software][OSS Icon]](https://github.com/amanusk/s-tui) [s-tui](https://amanusk.github.io/s-tui/) - s-tui 是一个用于监控你的电脑的用户界面，从终端以图形化的方式显示 CPU 温度，频率以及使用率。
 - [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - 类似 ack 的代码搜索工具，但是更快。
