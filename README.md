@@ -98,7 +98,6 @@
 - [![Open-Source Software][OSS Icon]](http://gnormalize.sourceforge.net/) [Gnormalize](http://gnormalize.sourceforge.net/) -  一款带有回放增益算法的音频转换和 CD 提取工具，元数据（tag）编辑器以及音频播放器。它在 GNU/Linux 下使用 gtk2-perl。
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - 媒体聚合及播客客户端。
-- [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/Gradio) [GRadio](https://github.com/haecker-felix/gradio/releases/) - Ubuntu Linux 下的电台软件。
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](https://tytel.org/helm/) - 音响合成器软件，可以独立运行，也可以作为 LV2、VST、VST3 或 AU 的插件运行。
 - [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/) - GNU/Linux 上的高级电子鼓。
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic 是一款跨平台程序，基于 electron 构建，可以收听网易云音乐。
@@ -216,19 +215,14 @@
 
 #### 桌面主题
 
-- [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/adapta-project/adapta-gtk-theme) - 一款自适应的 Gtk+ 主题，遵循 Material 设计指南。
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](https://github.com/EliverLara/Ant) - Ant 是一款用于 Ubuntu 及其他基于 GNOME Linux 桌面环境的扁平化 GTK 主题，有三种风格：vanilla，Bloody 以及 Dracula。
 - [![Open-Source Software][OSS Icon]](https://github.com/jnsh/arc-theme) [Arc Theme](https://github.com/NicoHood/arc-theme) - 带有透明元素的扁平化主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/dracula/gtk) [Dracula](https://draculatheme.com/gtk) - 用了超赞的 Dracula 配色的暗色主题。
-- [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop 是一款为 Solus 项目构建的现代桌面主题套件。它主要是扁平化的，同时为了深度效果使用了最少量的阴影。
-- [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - 一款适用于 Ubuntu 和其他基于 Gnome 的 Linux 系统的扁平化主题。
-- [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - 扁平，蓝色的 GTK 主题，还有暗色版本。
 - [![Open-Source Software][OSS Icon]](https://github.com/daniruiz/Flat-Remix-GTK) [Flat Remix](https://github.com/daniruiz/Flat-Remix-GTK) - Flat Remix 是一款受 material design 启发的 GTK 应用主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Kimi) [Kimi](https://github.com/EliverLara/Kimi) - Kimi 是一款亮色 Gtk3.20+ 主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/material-ocean/material-ocean) [Material Ocean Theme](https://github.com/material-ocean/material-ocean) - 一款带有 oceanic 配色的 material design 主题（GTK，QT）。
 - [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Mojave-gtk-theme) [Mojave GTK Theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave 是一款 GTK 3，GTK 2 和 Gnome-Shell 的仿 Mac OSX 主题，支持基于 GTK3 和 GTK2 的桌面环境，如 Gnome，Pantheon，XFCE，Mate 等。
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Nordic) [Nordic](https://github.com/EliverLara/Nordic) - 暗色 Gtk3.20+ 主题，使用超赞的 Nord 配色。
-- [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) [Numix Theme](https://github.com/numixproject/numix-gtk-theme) - 一款扁平多彩的 GTK 主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Orchis-theme) [Orchis theme](https://github.com/vinceliuice/Orchis-theme) - Orchis 是一款为基于 GNOME/GTK 桌面环境设计的 Material Design 主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Sweet) [Sweet](https://github.com/EliverLara/Sweet) -  支持亮色和暗色的多彩 Gtk3.20+ 主题。
 - [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/WhiteSur-gtk-theme) [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - 仿 MacOS Big Sur 主题，用于 GNOME 桌面。
@@ -371,7 +365,6 @@
 - [![Open-Source Software][OSS Icon]](https://meldmerge.org/development.html) [Meld](https://meldmerge.org/) - Meld 是一款可视化 diff 和 merge 工具，帮助你比较文件，目录以及有版本控制的项目。
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/rmnvgr/metadata-cleaner/) [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - 这个工具允许你查看文件的元信息，并让你尽可能摆脱它（清除）。
 - [Mockingbot](https://mockingbot.com) - Mockingbot 是一款易用的原型工具。
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) [Nemiver](https://github.com/GNOME/nemiver) - Nemiver 项目编写集成到 GNOME 桌面环境的独立图形调试器。
 - [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) [Pencil](https://pencil.evolus.vn/) - 开源图形界面原型工具，在各平台可用。
 - [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](https://kryogenix.org/code/pick/) - 简单的拾色器。
 - [Postman](https://www.getpostman.com) - Postman 允许用户快速开发和测试 API。
@@ -497,7 +490,6 @@
 - [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.thunderbird.net/en-US/) - Thunderbird 是一款免费的电子邮件客户端，设置以及个性化简单方便，功能强大。
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/) [Trojita](http://trojita.flaska.net/download.html) - 超快的 Linux 桌面邮件客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail) [Vmail](http://danielchoi.com/software/vmail.html) - 类 Vim 的 Gmail 客户端。
-- [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail) [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox 的非官方 Linux 桌面客户端。
 
 ### 文件管理器
 
@@ -702,7 +694,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) [Handbrake](https://handbrake.fr/) - HandBrake 是一款视频格式转换工具，几乎可以将任何格式转换为现代，广泛支持的解码格式。
 - [![Open-Source Software][OSS Icon]](http://potrace.sourceforge.net/#downloading) [Potrace](http://potrace.sourceforge.net/) - Potrace 是一款位图描图工具，这意味着将位图转换为平滑可缩放的图片。
 - [![Open-Source Software][OSS Icon]](https://www.radiance-online.org/download-install/radiance-source-code) [Radiance](https://www.radiance-online.org/) - Radiance - 一款经过验证的光照模拟工具。
-- [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme) [Ramme](https://github.com/terkelg/ramme) - 非官方 Instagram 桌面应用。
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/rapid/) [Rapid Photo Downloader](https://damonlynch.net/rapid/download.html) - Rapid Photo Downloader 让从相机或智能手机导入照片变得轻松。
 
 #### PSD， Sketch 查看
@@ -782,14 +773,13 @@
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/akregator.git/) [Akregator](https://userbase.kde.org/Akregator) - 一款 KDE Feed 阅读器。
 - [![Open-Source Software][OSS Icon]](https://choqok.kde.org/) [Choqok](https://choqok.kde.org/) - Choqok 是一款 Twitter、GNU Social、Friendica 及 Pump.IO 的 QT5 图形客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](https://corebird.baedert.org/) - corebird 是一款原生 gtk+ twitter 桌面客户端。
-- [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader) [FeedReader](https://github.com/jangernert/FeedReader) - 一款现代的桌面应用，被设计用于补充已有的基于 web 的 RSS 账户，将所有的 web 服务优势集中到一个现代桌面应用中。
 - [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey) - FeedTheMonkey 是一款 TinyTinyRSS 的桌面客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/yang991178/fluent-reader) [Fluent Reader](https://hyliu.me/fluent-reader/) - Electron、React、Fluent UI 构建的现代桌面 RSS 阅读器。
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) [FreeTube](https://freetubeapp.io/) - FreeTube 是 Windows，Mac 和 Linux 上的 YouTube 客户端，以更加私密的方式浏览 Youtube。
 - [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](https://gnome-twitch.vinszent.com/) - 在你的 GNU/Linux 桌面上用这款非 Adobe-flash Twitch 客户端享受 Twitch。
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku) - Ubuntu 开源 youtube 音乐播放器。
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/news-flash/news_flash_gtk) [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - NewsFlash 设计来作为已有的基于 web 的 RSS 阅读器账户的补充程序。
-- [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) [Popcorntime](https://popcorntime.sh/) - 直接观看 torrent 电影。
+- [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) [Popcorntime](https://github.com/popcorn-official/popcorn-desktop) - 直接观看 torrent 电影。
 
 ### 办公
 
@@ -810,7 +800,7 @@
 
 #### LaTeX
 
-- [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi) Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - 带有模板，拼写检查以及向导的简单 latex 编辑器。
+- [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi) [Gummi](https://github.com/alexandervdm/gummi) - 带有模板，拼写检查以及向导的简单 latex 编辑器。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/swilmet/gnome-latex) [GNOME LaTeX](https://gitlab.gnome.org/swilmet/gnome-latex) - GNOME LaTeX 是 GNOME 桌面下的 LaTeX 编辑器。
 - [![Open-Source Software][OSS Icon]](https://www.lyx.org/trac/browser) [LyX](https://www.lyx.org/) - 成熟的 LaTeX 渲染文档编辑器。
 - [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html) [TexLive](https://www.tug.org/texlive/) - TeX Live 是个轻松获取和运行 TeX 文档生产系统的好方式。
@@ -938,7 +928,6 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy 是一款无缓存 web 代理，有高级过滤功能，用以加强隐私，修改 web 页面数据以及 HTTP 头部，访问控制，还有去广告和烦人的网络垃圾的功能。
 - [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) [ProxyChains](https://github.com/haad/proxychains) - 强制指定的应用发起的任何 TCP 连接通过像 TOR 或其它 SOCKS4，SOCKS5 或 HTTP(S) 代理进行。
 - [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5) [Shadowsocks](https://shadowsocks.org/en/index.html) - 一个 socks5 代理工具，保护你的互联网流量。
-- [![Open-Source Software][OSS Icon]](https://github.com/erguotou520/electron-ssr/releases) [electron-ssr](https://github.com/erguotou520/electron-ssr) - 跨平台 Shadowsocksr electron 桌面客户端。
 
 ### 安全
 
@@ -965,7 +954,6 @@
 #### 密码管理
 
 - [![Open-Source Software][OSS Icon]](https://bitwarden.com/) [Bitwarden](https://bitwarden.com/) - 跨平台密码管理服务，也支持自托管。
-- [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) [Encryptr](https://spideroak.com/encryptr/) - Encryptr 是一款零知识性，基于云端的数字钱包/密码管理器，由 Crypton 提供。
 - [Enpass](https://www.enpass.io/) - Enpass 安全地管理你的密码和重要信息，让你的生活更轻松。
 - [![Open-Source Software][OSS Icon]](https://github.com/gopasspw/gopass) [gopass](https://www.gopass.pw/) - 对团队来说更好一点的标准 unix 密码管理器。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keepass/files/KeePass%202.x/) [KeePass](https://www.keepass.info/) - 专注于 Windows 的密码管理器，通过 Mono 提供一些跨平台支持。
@@ -1051,13 +1039,11 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/billiob/terminology) [Terminology](https://www.enlightenment.org/about-terminology) - 来自 Enlightenment 桌面，好看又轻量的终端，高度可配置，在 Linux 可以在 X11，Wayland 合成器，设置直接在 framebuffer 下工作。把你无聊的文本模式 VT 替换成不需要显示系统的图形化版本吧。
 - [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) [Terminus](https://eugeny.github.io/terminus/) - 现代，高度可配置的终端应用，基于 web 技术。
 - [![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit) [Termit](https://github.com/nonstop/termit) -基于 vte 库的简单终端模拟器，可通过 Lua 扩展。
-- [![Open-Source Software][OSS Icon]](https://github.com/thestinger/termite) [Termite](https://github.com/thestinger/termite) - 以键盘为中心，基于 VTE 的终端，旨在在一个支持平铺和/或标签的窗口管理器中使用。
 - [Termius](https://www.termius.com/) - 跨平台终端，内建 SSH 和 Telnet。
 - [![Open-Source Software][OSS Icon]](https://github.com/lanoxx/tilda) [Tilda](https://github.com/lanoxx/tilda) - Linux 和 Unix 上基于 Gtk 的下拉终端。
 - [![Open-Source Software][OSS Icon]](https://github.com/gnunn1/tilix) [Tilix](https://gnunn1.github.io/tilix-web/) - 使用 GTK+3 的平铺 Linux 终端模拟器。
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://github.com/tmux/tmux) - 它让你在一个终端中，轻松地在若干程序间切换，可以将程序脱离（程序在后台运行）和在另一个终端中重新连接它们。还有更多。
 - [![Open-Source Software][OSS Icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - 快速，轻量的文本模式窗口环境，支持鼠标。在一个 Linux 控制台，终端或 X11 窗口中启用多个终端。它可以将程序脱离（程序在后台运行）和在另一个控制台，终端或 X11 服务器中重新连接它们。可用在 Linux，Mac OS X 和 BSD 上。
-- [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm) [Upterm](https://github.com/railsware/upterm) - Upterm（原 Black Screen）是终端世界中的一款 IDE。严格来说，它是同时是一款终端模拟器以及基于 [Electron](https://electronjs.org/) 的交互式 shell。
 - [![Open-Source Software][OSS Icon]](https://github.com/saulpw/visidata) [Visidata](http://visidata.org/) - 一款用来发现和整理数据的终端电子表格多功能工具。
 - [![Open-Source Software][OSS Icon]](http://invisible-island.net/xterm/) [Xterm](https://invisible-island.net/xterm/) - Xterm 是一个 X 窗口系统的终端模拟器。它给不直接使用窗口系统的程序提供了 DEC VT102 和 Tektronix 4014 兼容终端。
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/utilities/yakuake) [Yakuake](https://apps.kde.org/yakuake/) - 一款基于 KDE Konsole 技术的 Quake 风格的终端模拟器。
