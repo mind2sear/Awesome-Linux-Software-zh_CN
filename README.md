@@ -331,6 +331,7 @@
 - [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) - 免费，开源 IDE，全功能，支持插件扩展的 C/C++ 以及其它编程语言 IDE。
 - [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/) [MonoDevelop](https://www.monodevelop.com/) - 跨平台的 C#，F# 以及更多语言的 IDE。
 - [![Open-Source Software][OSS Icon]](https://netbeans.apache.org/participate/index.html) [Netbeans](https://netbeans.apache.org/download/index.html) - NetBeans IDE 让你快速而且容易地开发 Java 桌面，移动以及 web 应用，还有基于 HTML，JavaScript 以及 CSS 的 HTML5 应用。
+- [![Open-Source Software][OSS Icon]](https://pantsbuild.org/) [Pants Build](https://www.pantsbuild.org/) - 强大的 Python、JVM、Go 等的构建系统，依靠静态分析而不是模板，使采用和使用变得容易。
 
 #### PHP
 
@@ -915,6 +916,7 @@
 - [Simplenote](https://simplenote.com/) - 跨平台笔记应用，Evernote 的竞争者。
 - [![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - 面向日常用户简单又漂亮的一款笔记软件。
 - [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/) [Standard Notes](https://standardnotes.com/) - Standard Notes 是数字化专业户的端到端加密笔记软件。在一个安全的位置记录你的笔记，文件和工作生活。
+- [![Open-Source Software][OSS Icon]](https://github.com/Standard-Unix-Notes/unix-notes) [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - BSD/Linux 下 GPG 加密的笔记、笔记本管理器。
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~umang/indicator-stickynotes/trunk/files) [Stickynote](https://launchpad.net/indicator-stickynotes) - Linux 桌面的便利贴。
 - [![Open-Source Software][OSS Icon]](https://github.com/tomboy-notes/tomboy) [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy 是一款简单易用的桌面笔记应用。
 - [![Open-Source Software][OSS Icon]](https://github.com/zadam/trilium) [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes 是一款分级的笔记应用，专注于构建大型的个人知识库。
