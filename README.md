@@ -35,6 +35,7 @@
   - [Wiki 软件](#Wiki-软件)
   - [其它](#其它)
 - [命令行工具](#命令行工具)
+- [自定义 Linux 内核](#自定义 Linux 内核)
 - [桌面环境](#桌面环境)
 - [显示管理](#显示管理)
   - [控制台](#控制台)
@@ -78,13 +79,11 @@
 
 *如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你可能想点击[这里](https://github.com/nodiscc/awesome-linuxaudio)*
 
-- [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.airtime.pro/) - Airtime 是一款用于调度和远程站点管理的开放广播软件。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/amberol) [Amberol](https://gitlab.gnome.org/World/amberol) - 一款简单小巧的声音和音乐播放器，和 GNOME 完美集成。
 - [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - 在 Linux 上录音，编辑，和混音。
 - [![Open-Source Software][OSS Icon]](https://audacious-media-player.org/developers) [Audacious](https://audacious-media-player.org/) - 开源音频播放器，按你想要的方式播放你的音乐，不占用你其它任务的电脑资源。
 - [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) [Audacity](https://www.audacityteam.org/download/linux/) - 免费，开源，跨平台的声音录制、编辑软件。
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - 简单的声音录制软件，就在 ubuntu ppa。
-- [![Open-Source Software][OSS Icon]](https://github.com/Superjo149/auryo) [Auryo](https://auryo.com/) - 非官方多平台桌面 SoundCloud® 应用。
 - [![Open-Source Software][OSS Icon]](https://github.com/beetbox/beets) [beets](http://beets.io/) - Beets 是一款给强迫症音乐极客的媒体库管理系统。
 - ![Non Free][Money Icon] [Bitwig](https://www.bitwig.com/en/download.html) - 音乐制作的数字音频工作站。
 - [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Linux、Windows、macOS 下的 Qt5 图形化 MPD（Music Player Daemon）客户端。
@@ -96,19 +95,18 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/wwmm/easyeffects) [EasyEffects](https://github.com/wwmm/easyeffects) - EasyEffects 是一款高级音频处理工具。举几个例子，它包括均衡器、限制器、压缩器和混响工具，还有一个内置的频谱分析仪。
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/multimedia/elisa) [Elisa](https://elisa.kde.org/) - Elisa 是 KDE 社区开发的音乐播放器，努力做到了简单和易用。
 - [![Open-Source Software][OSS Icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac 是一款免费的音频转换与 CD 提取工具，支持多种流行的格式和编码。它可以在 MP3、MP4/M4A、WMA、Ogg Vorbis、FLAC、AAC、WAV 以及 Bonk 格式之间转换。
-- [![Open-Source Software][OSS Icon]](http://gnormalize.sourceforge.net/) [Gnormalize](http://gnormalize.sourceforge.net/) -  一款带有回放增益算法的音频转换和 CD 提取工具，元数据（tag）编辑器以及音频播放器。它在 GNU/Linux 下使用 gtk2-perl。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/neithern/g4music) [G4Music](https://gitlab.gnome.org/neithern/g4music) - 一款快速、流畅、轻量的 GTK4 音乐播放器。
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - 媒体聚合及播客客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](https://tytel.org/helm/) - 音响合成器软件，可以独立运行，也可以作为 LV2、VST、VST3 或 AU 的插件运行。
 - [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/) - GNU/Linux 上的高级电子鼓。
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic 是一款跨平台程序，基于 electron 构建，可以收听网易云音乐。
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](https://userbase.kde.org/K3b) - Linux 上的 CD/DVD 创建工具 - 为 KDE 特别优化。
-- [![Open-Source Software][OSS Icon]](https://kid3.sourceforge.io/) [Kid3Qt](https://kid3.sourceforge.io/#download) - 编辑多媒体文件的标签，如一个专辑所有 mp3 文件的艺术家，专辑，年代，流派。
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kxstudio/) [KxStudio](https://kxstudio.linuxaudio.org/) - KXStudio 是专业声音创作应用和插件的集合。
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/multimedia/kid3/) [Kid3](https://kid3.kde.org/) - 编辑多媒体文件的标签，如一个专辑所有 mp3 文件的艺术家，专辑，年代，流派。
+- [![Open-Source Software][OSS Icon]](https://github.com/KXStudio/Repository) [KxStudio](https://kx.studio/) - 一款专业声音创作应用和插件的集合。
 - [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime) [Libretime](https://libretime.org/) - 开放广播软件，用于调度和远程站点管理；从 Airtime fork 而来。
 - [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms) [LMMS](https://lmms.io/download/#linux) - 在你的 PC 上创建旋律和节拍，合成与混合声音，排布小样等等，制作你的音乐。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/lollypop) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - 一款 GNOME 音乐播放应用。
-- [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) [Lyricfier](https://github.com/emilioastarita/lyricfier) - 一个 Spotify Lyrics 的替代选择。
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/) - 在你的桌面集成云音乐。
 - [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](https://www.mixxx.org/download/) - 免费的 DJ 软件，给你一切现场混音所需要的，名副其实的 Traktor 替代品。
 - [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - Python 编写的可扩展音乐服务器。
@@ -128,14 +126,18 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - 一款 Linux 互联网广播播放器。
 - ![Non Free][Money Icon] [Reaper](https://www.reaper.fm/) - 无限制的音频创作。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - 来自 GNOME 的音乐播放器。
-- [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara 是一款小巧干净，快速的音频播放器，使用 C++ 编写，基于 Qt 框架。
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/luciocarreras/sayonara-player) [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara 是一款小巧干净，快速的音频播放器，使用 C++ 编写，基于 Qt 框架。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/Shortwave) [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Shortwave 是一款互联网收音机播放器，提供超过 25000 站点的站点数据库。
 - [![Open-Source Software][OSS Icon]](https://github.com/multani/sonata/) [Sonata](https://www.nongnu.org/sonata/) - 一款音乐播放器，通过 Music Player Daemon（MPD）为你的音乐收藏提供优雅直观的界面。
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter) [Soundconverter](http://soundconverter.org/) - 领先的音频文件转换工具。目标是易用快速。
-- [![Open-Source Software][OSS Icon]](https://github.com/Soundux/Soundux) [Soundux](https://soundux.rocks/) - 跨平台音板。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/sound-juicer) [SoundJuicer](https://wiki.gnome.org/Apps/SoundJuicer/Documentation#Installing) - GNOME 下的 CD 提取工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - 一款开源的 SoundCloud 桌面应用。
-- [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - 受 Rdio 启发的 Spotify 桌面应用亮色主题。
+- [![Open-Source Software][OSS Icon]](https://github.com/Soundux/Soundux) [Soundux](https://soundux.rocks/) - 跨平台音板。
+- [![Open-Source Software][OSS Icon]](https://github.com/spicetify/spicetify-cli) [Spicetify](https://spicetify.app/) - 个性化官方 Spotify 客户端的命令行工具，支持 Windows、macOS、Linux。
+- [![Open-Source Software][OSS Icon]](https://github.com/xou816/spot) [Spot](https://github.com/xou816/spot) - GNOME 桌面的原生 Spotify 客户端。
+- [Spotify](https://www.spotify.com/us/) - Spotify 是在 PC、移动设备、平板上收听音乐和播客的最佳途径。
+- [![Open-Source Software][OSS Icon]](https://github.com/krtirtho/spotube) [Spotube](https://github.com/krtirtho/spotube) - Spotube 是基于 Flutter 的轻量 spotify 客户端，它利用了 Spotify 和 YouTube 的公共 API，创建了无风险、高性能、资源友好的用户体验。
++- [![Open-Source Software][OSS Icon]](https://github.com/Mastermindzh/tidal-hifi) [Tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - 运行在 electron 的 Tidal web 版本，由 webvine 支持 hifi 体验。
 - [![Open-Source Software][OSS Icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - 一款开源可视化、模块化的音响合成器。
 - [![Open-Source Software][OSS Icon]](https://github.com/Audio4Linux/Viper4Linux-GUI) [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux-GUI) - 基于 Viper4Android 的音效处理工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](https://vocalproject.net/) - 现代桌面的播客客户端。
@@ -145,12 +147,15 @@
 
 #### 第三方客户端
 
+- [![Open-Source-Software][OSS Icon]](https://github.com/ferdium/ferdium-app) [Ferdium](https://ferdium.org/) - Ferdi/Franz 的 fork。Ferdium 是一款帮助你整合和组织你常用的应用的软件，并将它们整合到一起。
 - [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - 优美的 Facebook Messenger 桌面应用。
 - [![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) [Chatty](https://chatty.github.io/) - Chatty 是一款 Twitch 聊天客户端，它是为那些想尝试不同于 web 聊天的新事物，又不想像 IRC 客户端那样复杂或错过 Twitch 特色功能的用户准备的。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/fractal) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal 是一款用 Rust 编写的 GNOME 下的 Matrix 消息应用。它的界面为大型群组（比如自由软件项目）协作做了优化。
 - [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Skype 的开源 web 封装。
 - [![Open-Source Software][OSS Icon]](https://github.com/dangeredwolf/ModernDeck) [ModernDeck](https://moderndeck.org/) - 漂亮强大的 Twitter 桌面端。
-- [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) -  Google Hangouts 桌面聊天客户端。
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/neochat) [NeoChat](https://apps.kde.org/neochat/) - NeoChat 是一款 Matrix 客户端。你可以使用 Matrix 协议给家人、朋友、同事发送文字消息和音视频文件。 
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/tokodon) [Tokodon](https://apps.kde.org/tokodon/) - Tokodon 是一款 Plasma 和 Plasma Mobile 上的 Mastodon 客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) - Google Hangouts 桌面聊天客户端。
 
 #### 集成客户端
 
@@ -267,9 +272,9 @@
 
 #### C\+\+
 
+- ![Non Free][Money Icon] [CLion](https://www.jetbrains.com/clion/) - 一款强大的跨平台 C 以及 C++ IDE。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/codeblocks/code/HEAD/tree/) [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是一款为满足大部分用户需求构建的免费的 C，C++ 以及 Fortran IDE。它可扩展并且可配置性强。
 - [![Open-Source Software][OSS Icon]](https://wiki.codelite.org/pmwiki.php/Main/Repositories) [CodeLite](https://codelite.org/) - 一款免费，开源，跨平台的 C，C++，PHP，以及 Node.js IDE。
-- ![Non Free][Money Icon] [CLion](https://www.jetbrains.com/clion/) - 一款强大的跨平台 C 以及 C++ IDE。
 - [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/) - 全功能跨平台集成开发环境，轻松创建互联设备，用户界面以及应用程序。
 
 #### 数据库
@@ -328,7 +333,7 @@
 #### 多语言支持
 
 - [![Open-Source Software][OSS Icon]](https://github.com/aptana) [Aptana](http://www.aptana.com/) - Aptana Studio 利用了 Eclipse 的灵活性并且专注于让它成为强大的 web 开发引擎。
-- [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) - 免费，开源 IDE，全功能，支持插件扩展的 C/C++ 以及其它编程语言 IDE。
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/kdevelop/kdevelop) [KDevelop](https://www.kdevelop.org/) - 免费，开源 IDE，全功能，支持插件扩展的 C/C++ 以及其它编程语言 IDE。
 - [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/) [MonoDevelop](https://www.monodevelop.com/) - 跨平台的 C#，F# 以及更多语言的 IDE。
 - [![Open-Source Software][OSS Icon]](https://netbeans.apache.org/participate/index.html) [Netbeans](https://netbeans.apache.org/download/index.html) - NetBeans IDE 让你快速而且容易地开发 Java 桌面，移动以及 web 应用，还有基于 HTML，JavaScript 以及 CSS 的 HTML5 应用。
 - [![Open-Source Software][OSS Icon]](https://pantsbuild.org/) [Pants Build](https://www.pantsbuild.org/) - 强大的 Python、JVM、Go 等的构建系统，依靠静态分析而不是模板，使采用和使用变得容易。
@@ -358,8 +363,8 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Huluti/Curtail) [Curtail](https://github.com/Huluti/Curtail) - Curtail 是实用的图片压缩工具，支持 PNG，JPEG 和 WEBP 文件格式。
 - [![Open-Source Software][OSS Icon]](https://github.com/qarmin/czkawka) [Czkawka](https://github.com/qarmin/czkawka) - 多功能应用，可以寻找重复文件，空文件夹，相似图片等。
 - [![Open-Source Software][OSS Icon]](https://github.com/cytopia/devilbox) [Devilbox](https://github.com/cytopia/devilbox) - Devilbox 是一款现代的、高度可配置的 docker 化 PHP 栈，支持 LAMP 和 MEAN，可以在所有主要平台上运行。它的主要目标是在本地开发时轻松切换和结合任何需要的软件版本。
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) [Diffuse](http://diffuse.sourceforge.net/) - Diffuse 是一款比较和合并文本文件的图形化工具。它可以从 Bazaar、CVS、Darcs、Git、Mercurial、Monotone、RCS、Subversion 以及 SVK 仓库获取文件来比较。
 - [![Open-Source Software][OSS Icon]](https://github.com/dialect-app/dialect/) [Dialect](https://github.com/dialect-app/dialect/) - 一款 GNOME 翻译应用。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) [Diffuse](http://diffuse.sourceforge.net/) - Diffuse 是一款比较和合并文本文件的图形化工具。它可以从 Bazaar、CVS、Darcs、Git、Mercurial、Monotone、RCS、Subversion 以及 SVK 仓库获取文件来比较。
 - [![Open-Source Software][OSS Icon]](https://github.com/docker/desktop-linux) [Docker](https://docs.docker.com/desktop/linux/install/) - Docker 是一套平台即服务的产品，使用系统级别的虚拟化来分发软件包，称作容器。
 - [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip) [Fossil](https://www.fossil-scm.org) - 自包含，分布式软件配置管理系统，带有集成 bug 追踪，wiki，技术说明和 web 界面。
 - [![Open-Source Software][OSS Icon]](https://github.com/gaphor/gaphor) [Gaphor](https://gaphor.org) - 简单快速的系统建模工具。
@@ -368,11 +373,11 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto) [Gisto](https://www.gistoapp.com/) - Gisto 是一款代码段管理器，基于 Github Gist 运行，添加了额外的功能，如搜索、标签、分享 gist，含代码编辑器。
 - [![Open-Source Software][OSS Icon]](https://github.com/git/git) [Git](https://git-scm.com/) - Git 是一款免费和开源的分布式版本管理系统，被设计用来快速和高效地处理从小项目到大项目的一切内容。
 - [![Open-Source Software][OSS Icon]](https://github.com/git-cola/git-cola) [GitCola](https://git-cola.github.io/) - Git Cola 是一款整洁且强大的图形化 Git 客户端。用 Python 写就并签署于 GPL 协议。
+- [![Open-Source Software][OSS Icon]](https://github.com/go-gitea/) [Gitea](https://gitea.io/en-us/) - Gitea 是社区管理的轻量代码托管方案，用 Go 编写。在 MIT 授权协议下发布。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gitg) [Gitg](https://wiki.gnome.org/Apps/Gitg) - Gitg 是查看 git 仓库的 GNOME 图形界面客户端。
 - [GitKraken](https://www.gitkraken.com/) - 强大酷炫的 Git 图形化客户端，支持 Windows，Mac 以及 Linux。
 - [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab 是一个基于 web 的 Git 仓库管理工具，带有 wiki 和 issue 追踪等功能。
 - [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite 允许你在中心化服务器上搭建 git 托管，拥有细粒度的权限管理和很多其他强大功能。
-- [![Open-Source Software][OSS Icon]](https://github.com/go-gitea/) [Gitea](https://gitea.io/en-us/) - Gitea 是社区管理的轻量代码托管方案，用 Go 编写。在 MIT 授权协议下发布。
 - [![Open-Source Software][OSS Icon]](https://github.com/gogs/gogs) [Gogs](https://gogs.io/) - 一个无痛的自托管 Git 服务。
 - [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/source/heaptrack/repository/master/) [Heaptrack](https://phabricator.kde.org/source/heaptrack/repository/master/) - Linux 堆内存分析工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/WindSoilder/hors) [hors](https://github.com/WindSoilder/hors) - 从命令行立即得到编程答案。
@@ -418,6 +423,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular) [Okular](https://okular.kde.org/) - Okular 由 KDE 原始开发的通用文档查看器。Okular 可以在多个平台上工作，包括但不限于 Linux，Windows，Mac OS X，BSD 等等。
 - [![Open-Source Software][OSS Icon]](https://github.com/pdfarranger/pdfarranger) [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF Arranger 是个小应用，在交互性和直观的图形界面帮助用户合并或拆分 pdf 文档，旋转和裁剪，重新排序页面。
 - [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - 桌面应用，用于对 PDF 文件进行拆分，提取页面，旋转，混合以及合并。
+- [![Open-Source Software][OSS Icon]](https://github.com/junrrein/pdfslicer) [PDF Slicer](https://junrrein.github.io/pdfslicer/) - PDF Slicer 是一款支持 PDF 文档的提取、合并、旋转、重新排序的简单应用。
 - [PDF Studio](https://www.qoppa.com/pdfstudio/) - 一款易用，全功能的 PDF 编辑软件，是 Adobe Acrobat 的可靠替代者，以一小部分的花费提供所有需要的 PDF 功能。PDF Studio 完全兼容 PDF 标准。
 - [![Open-Source Software][OSS Icon]](https://github.com/burtonator/polar-bookshelf) [Polar](https://getpolarized.io/) - Polar 是一款用于 PDF 和 web 内容的个人知识库，支持增量阅读和文档注释。
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) [qpdfview](https://launchpad.net/qpdfview) - qpdfview 是一款标签页式文档查看器。
@@ -429,12 +435,13 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - 21 世纪可 hack 的文本编辑器。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish 是一款面向程序员和 web 开发者的强大编辑器，带有很多编写网站，脚本和代码的选项。
 - [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - 懂 web 设计的现代文本编辑器。
+- [![Open-Source Software][OSS Icon]](https://github.com/Alexey-T/CudaText) [CudaText](https://cudatext.github.io/) - CudaText 是用 Object Pascal 编写的跨平台文本编辑器。
 - [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - 可扩展，可个性化，免费/自由的文本编辑器——还有更多。
 - [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany 是一款使用了 GTK+ 工具集的文本编辑器，带有基本的集成开发环境功能。它的开发是为了成为一个小型又快速的 IDE，对其它包仅有不多的依赖。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gedit) [Gedit](https://wiki.gnome.org/Apps/Gedit) - Gedit 是 GNOME 文本编辑器。尽管以简单易用为目标，gedit 仍然是个强大的多功能编辑器。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - 强大的 IDE，用于现代 C / C++ / Bash / JavaScript 开发，来自 Gnome 团队。C/C++ 开发最好的 IDE 之一（内置 Cmake）。
-- [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](https://kakoune.org/) - Kakoune 代码编辑器 - 受 Vim 启发。更少的击键次数带来更快的速度。多重选中。正交设计。专注于交互。
 - [![Open-Source Software][OSS Icon]](https://github.com/helix-editor/helix) [Helix](https://helix-editor.com/) - 后现代风的文本编辑器。
+- [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](https://kakoune.org/) - Kakoune 代码编辑器 - 受 Vim 启发。更少的击键次数带来更快的速度。多重选中。正交设计。专注于交互。
 - [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate 是一个多文档编辑器，从 KDE 2.2 开始就是 KDE 的一部分了。
 - [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - 免费开源的多语言开发环境。
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/utilities/kate) [KWrite](https://apps.kde.org/kwrite/) - KWrite 是 KDE 的一个文本编辑器，基于 Kate 的编辑器组件。
@@ -530,7 +537,7 @@
 
 #### RTS
 
-- [![Open-Source Software][OSS Icon]](https://releases.wildfiregames.com/) [0 AD](https://play0ad.com/) - 类帝国时代的开源即时战略游戏。
+- [![Open-Source Software][OSS Icon]](https://releases.wildfiregames.com/) [0 A.D.](https://play0ad.com/) - 类帝国时代的开源即时战略游戏。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/nethack/) [Nethack](https://www.nethack.org/) - 开源 rogue-like 游戏，带有 ASCII 图形界面。
 - [![Open-Source Software][OSS Icon]](https://github.com/triplea-game/triplea/) [TripleA](https://triplea-game.org) - 开源策略游戏，“轴心与同盟”规则的游戏。
 - [![Open-Source Software][OSS Icon]](https://github.com/Warzone2100/warzone2100) [Warzone 2100](https://wz2100.net/) - 发生在核战争后的开源即时策略游戏。
@@ -585,19 +592,21 @@
 #### 杂项
 
 - [![Open-Source Software][OSS Icon]](https://github.com/viewizard/astromenace) [AstroMenace](https://viewizard.com/) - 硬核 3D 空间卷轴射击游戏，飞船可以升级。
-- [![Open-Source Software][OSS Icon]](https://github.com/Cockatrice/Cockatrice) [Cockatrice](https://cockatrice.github.io/) - Cockatrice 是一个开源的多平台网络桌面卡牌游戏支持程序。
 - [![Open-Source Software][OSS Icon]](https://github.com/cxong/cdogs-sdl) [C-Dogs SDL](https://cxong.github.io/cdogs-sdl/) - 经典的向上跑轰游戏，漂亮的像素艺术。
+- [![Open-Source Software][OSS Icon]](https://github.com/Cockatrice/Cockatrice) [Cockatrice](https://cockatrice.github.io/) - Cockatrice 是一个开源的多平台网络桌面卡牌游戏支持程序。
 - [![Open-Source Software][OSS Icon]](http://wiki.flightgear.org/Portal:Developer) [FlightGear](https://home.flightgear.org/) - 专业品质的 3D 飞行模拟。
 - [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](https://www.nongnu.org/galois/) - Galois 是方块下落类游戏，它不像大多数同类型游戏那样局限于标准的四方连块。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gbrainy/) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy) - Gbrainy 是一个脑筋急转弯游戏，获得乐趣并且锻炼你的大脑。
+- [![Open-Source Software][OSS Icon]](https://github.com/minecraft-linux/mcpelauncher-manifest) [Mcpelauncher](https://mcpelauncher.readthedocs.io/en/latest/) - Minecraft: Bedrock 版的非官方开源启动器。
 - ![Nonfree][Money icon] [Minecraft](https://minecraft.net) - Minecraft 是一个关于放置方块和冒险的游戏。探索随机生成的世界，建造惊奇的事物，从最简单的家到最伟大的城堡。
-- ![Open-Source Software][OSS Icon] ![Nonfree][Money icon] [Mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft: Bedrock 版的非官方开源启动器。
 - [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - 开源的 Minecraft 实现，由 C++ 写就（占用更少的资源），还包含模组扩展 API。
 - [![Open-Source Software][OSS Icon]](http://motogt.sourceforge.net/) [MotoGT](http://motogt.sourceforge.net/) - 2D 俯视游戏，你可以驾驶世界摩托锦标赛摩托。
 - [![Open-Source Software][OSS Icon]](https://github.com/Mudlet/Mudlet) [Mudlet](https://www.mudlet.org/) - 跨平台开源，超快的 MUD（纯文本 MMORPG）客户端，支持 Lua 脚本。
+- [![Open-Source Software][OSS Icon]](https://github.com/MultiMC/Launcher/) [MultiMC](https://multimc.org/) - MultiMC 是一款 Minecraft 的替代启动器。它让你拥有多份隔离的 Minecraft 实例（每个有它自己的 mod、资源包、存档等），帮助你在一个简单强大的界面上管理它们以及相关的的设置项。
 - [![Open-Source Software][OSS Icon]](https://github.com/Neverball/neverball) [Neverball](https://neverball.org/) - 令人上瘾的滚球游戏，有许多关卡，角色，还可以录制回放。
 - [OhMyGiraffe](https://www.ohmygiraffe.com/) - 令人愉快的生存游戏。一款关于吃水果和被狮子吃的长颈鹿的游戏。
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/pingus/pingus) [Pingus](https://pingus.seul.org/) - 克隆流行的 Lemmings 的 2D 谜题游戏。你的目标是引导一群企鹅安全穿过地图。
+- [![Open-Source Software][OSS Icon]](https://github.com/PolyMC/PolyMC) [PolyMC](https://polymc.org/) - 一款开源的 Minecraft 启动器，可以管理多份实例、账户、mod。关注用户自由和可再分发性。
 - [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake) [Snake Game](https://alpcoskun.github.io/snake/) - 基于 Node.js 的跨平台经典贪吃蛇游戏。
 - [![Open-Source Software][OSS Icon]](https://github.com/SuperTux/supertux/) [SuperTux](http://www.supertux.org/) - 流行的横向卷轴超级马里奥游戏的克隆。
 - [![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart 是一款 3D 开源的赛车竞技游戏，有不同的人物，赛道以及模式。
@@ -607,6 +616,7 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/wheybags/freeablo) [Freeablo](https://freeablo.org/) - 在 Linux 上原生运行的原 Diablo 游戏引擎的自由重制版本。需要原游戏的资源文件。
 - [![Open-Source Software][OSS Icon]](https://nxengine.sourceforge.io/) [NXEngine](https://nxengine.sourceforge.io/) - 原生运行在 Linux 上的 Cave Story 开源移植，需要源码构建。
++- [![Open-Source Software][OSS Icon]](https://github.com/nxengine/nxengine-evo) [NXEngine-evo](https://github.com/nxengine/nxengine-evo) - 一些升级/重构版本的 NXEngine，Caitlin Shaw 创建。
 - [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](https://openage.sft.mx/) - 帝国时代 II 引擎的自由开源实现，需要源码构建。
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenMW/openmw) [OpenMW](https://openmw.org) - Morrowind 引擎重制，在原版上做了扩展。可以用来游玩原版游戏的合法副本。
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenRA/OpenRA) [OpenRA](https://www.openra.net/) - 现代化重建的经典策略游戏。开源。
@@ -623,15 +633,15 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - itch.io 的应用。你的所有下载都在一个地方，并且能自动升级。有很多免费游戏。
 - [![Open-Source Software][OSS Icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) - Lutris 是一个开放 Linux 游戏平台。它帮助你在一个统一的界面安装和管理你的游戏。
 - [![Open-Source Software][OSS Icon]](https://github.com/flightlessmango/MangoHud) [MangoHud](https://github.com/flightlessmango/MangoHud) - 一款 Vulkan 和 OpenGL 浮层，用于监视 FPS，温度，CPU/GPU 负载等信息。
-- [![Open-Source Software][OSS Icon]](https://github.com/MultiMC/Launcher/) [MultiMC](https://multimc.org/) - MultiMC 是一款 Minecraft 启动器替代。它可以帮你设置多个干净隔离的 Minecraft 实例（每个都有自己的 mod，资源包，存档等等），并且在简单强大的界面上管理它们和相关的选项。
 - [![Open-Source Software][OSS Icon]](https://repository.playonlinux.com/) [PlayOnLinux](https://www.playonlinux.com) - Wine 的一个前端。
-- [![Open-Source Software][OSS Icon]](https://github.com/PolyMC/PolyMC) [PolyMC](https://polymc.org/) - 开源的 Minecraft 启动器，拥有管理多实例，账户和 mod 的能力。关注用户自由和重分发能力。
 - [![Open-Source Software][OSS Icon]](https://github.com/Matoking/protontricks) [Protontricks](https://github.com/Matoking/protontricks) - 这是一个封装脚本，让你可以更简单地运行 Steam Play/Proton 游戏的 winetricks 命令，同时带上其他常见 wine 特性，比如启动外部 Windows 可执行程序。
 - [![Open-Source Software][OSS Icon]](https://github.com/DavidoTek/ProtonUp-Qt) [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - 用图形用户界面为 Lutris，Steam 和 Wine-GE 安装和管理 Proton-GE 和 Luxtorpeda。
 - [![Open-Source Software][OSS Icon]](https://github.com/libretro/RetroArch) [RetroArch](https://www.retroarch.com/) - 很多游戏模拟器的前端。
 - [Steam](https://store.steampowered.com/) - 超赞的游戏平台，打开众多游戏的大门。
 - [![Open-Source Software][OSS Icon]](https://dl.winehq.org/wine/source/) [Wine](https://www.winehq.org/) - Wine（“Wine Is Not an Emulator”的首字母缩写）是一个兼容层，可以在若干 POSIX 兼容的系统上运行 Windows 程序，比如 Linux，Mac OS X，以及 BSD。在 Linux 上的软件运行质量各个游戏有所不同。
-- [![Open-Source Software][OSS Icon]](https://github.com/GloriousEggroll/wine-ge-custom) [wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - 自定义 wine 构建版本，用于和 lutris 一同使用。使用 lutris 的构建机器人构建。
+- [![Open-Source Software][OSS Icon]](https://github.com/GloriousEggroll/wine-ge-custom) [Wine-GE-Custom](https://github.com/GloriousEggroll/wine-ge-custom) - 自定义 wine 构建版本，用于和 lutris 一同使用。使用 lutris 的构建机器人构建。
+- [![Open-Source Software][OSS Icon]](https://github.com/Frogging-Family/wine-tkg-git) [Wine-tkg](https://github.com/Frogging-Family/wine-tkg-git) - Wine-tkg 构建系统，创建自定义的 Wine 和 Proton 构建。
+- [![Open-Source Software][OSS Icon]](https://github.com/varmd/wine-wayland) [Wine-Wayland](https://github.com/varmd/wine-wayland) - Wine-wayland 允许使用纯 wayland 和 Wine/DXVK 游玩 DX9/DX11 和 Vulkan 游戏。
 
 #### 模拟器
 
@@ -642,6 +652,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade 是一款简单的 Mame 前端，用于任何 freedesktop.org 兼容的桌面环境。
 - [![Open-Source Software][OSS Icon]](https://github.com/byuu/higan) [Higan](https://github.com/higan-emu/higan) - Higan 是一款多系统模拟器，支持模拟很多不同系统，包括：NES、SNES、GameBoy、GameBoy Color、Gameboy Advance、NEC PC Engine、Sega Master System 以及更多系统。这里是一份在 Linux 上安装它的指南：[Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/)。
 - [![Open-Source Software][OSS Icon]](https://github.com/mamedev/mame) [MAME](https://mamedev.org/) - MAME 是一款力争精确的 Arcade Cabinet 模拟器，可以玩很多不同的街机游戏。
+- [![Open-Source Software][OSS Icon]](https://github.com/Arisotura/melonDS) [melonDS](https://melonds.kuribo64.net/) - melonDS 的目标是提供快速准确的 Nintendo DS 模拟。
 - [![Open-Source Software][OSS Icon]](https://github.com/mgba-emu) [mGBA](https://mgba.io/) - mGBA 是一款开源的 Game Boy Advance 模拟器。
 - [![Open-Source Software][OSS Icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia 是一个 NES/Famicon 模拟器。
 - [![Open-Source Software][OSS Icon]](https://github.com/PCSX2) [PCSX2](https://pcsx2.net/) - PCSX2 是免费开源的 PlayStation 2 (PS2) 模拟器。
@@ -658,7 +669,7 @@
 
 #### 图像创建
 
-- [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Sprite 动画编辑器及像素艺术工具。
+- ![Nonfree][Money icon][![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Sprite 动画编辑器及像素艺术工具。
 - [![Open-Source Software][OSS Icon]](https://download.blender.org/source/) [Blender](https://www.blender.org/) - 面向艺术家和小团队的免费开源的完整 3D 创作流水线。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://www.cinepaint.org/) - 开源绘画软件。
 - [![Open-Source Software][OSS Icon]](https://github.com/maoschanz/drawing) [Drawing](https://maoschanz.github.io/drawing/) - 这个免费基础位图编辑器和微软的画图类似，但目标环境是 GNOME 桌面。
@@ -674,9 +685,9 @@
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/jonata/opendvdproducer) [Open DVD Producer](https://opendvdproducer.jonata.org/) - 现代，开源，跨平台的 DVD 镜像生产软件。
 - [![Open-Source Software][OSS Icon]](https://www.pinta-project.com/howto/contribute) [Pinta](https://www.pinta-project.com) - Pinta 是一款免费，开源的绘画及图片编辑程序。
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/lsm) [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion 是一款免费，开源的定格动画创作应用。它可以帮你捕捉和编辑你动画的帧，并导出为一个单独的文件。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/sweethome3d/) [Sweet Home 3D](http://www.sweethome3d.com/) - 房屋内外部设计工具，带有 3D 预览，免费模型数据库，可视化访问以及实用的插件仓库。
 - [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) [Synfig Studio](https://www.synfig.org/) - 开源 2D 动画软件。
 - [![Open-Source Software][OSS Icon]](https://github.com/scantailor/scantailor) [Scan Tailor](https://scantailor.org/) - Scan Tailor 是一款交互式扫描件后期处理工具。使用教程可以参见它的[用户指南](https://github.com/scantailor/scantailor/wiki/User-Guide)。
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/sweethome3d/) [Sweet Home 3D](http://www.sweethome3d.com/) - 房屋内外部设计工具，带有 3D 预览，免费模型数据库，可视化访问以及实用的插件仓库。
 - [Vectr](https://vectr.com/) - Vextr 是一款免费的图形软件，用于轻松直观地创建矢量图。它是个简单又强大的 web 及桌面端跨平台工具，将你的设计带入现实。
 - [![Open-Source Software][OSS Icon]](http://www.xaraxtreme.org/Developers/develeopers-source-code-a-building.html) [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux 是一款强大，通用，适用于 Unix 平台（包括 Linux， FreeBSD）的图形处理程序。
 - [yEd Graph Editor](https://www.yworks.com/products/yed) - yED 是一款用来快速高效地生成高质量图表的强大桌面应用。可以手动创建图表，或导入你的外部数据用于分析。自动布局算法甚至可以在按钮点击时就排布好巨大的数据集。
@@ -742,11 +753,15 @@
 #### 截屏
 
 - [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - 强大易用的截屏软件。
+
 - [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](https://screencloud.net/) - ScreenCloud 是一款易用的截屏分享工具，由跨平台客户端和分享站点 http://screencloud.net 组成。
-- [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~shutter/shutter/devel/files) [Shutter](https://launchpad.net/shutter/) - Shutter 是基于 Linux 的系统（如 Ubuntu）上的一款功能丰富的截屏程序。
+- [![Open-Source Software][OSS Icon]](https://github.com/shutter-project/shutter) [Shutter](https://shutter-project.org/) - Shutter 是基于 Linux 的系统（如 Ubuntu）上的一款功能丰富的截屏程序。
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/graphics/spectacle) [Spectacle](https://apps.kde.org/spectacle/) - Spectacle 是一款简单的桌面截屏应用。
+
 
 #### 串流
 
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/boatswain) [Boatswain](https://gitlab.gnome.org/World/boatswain) - 控制你的 Elgato Stream Deck 设备。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) - 原名**MiniDLNA**，ReadyMedia 是一款简单，轻量的媒体服务器软件，目标是完全兼容 DLNA/UPnP-AV 客户端。MiniDLNA 守护进程为网络上的客户端提供媒体文件（音乐，图片以及视频），这些客户端可以是智能手机、便携式媒体播放器、电视、其他电脑以及游戏系统。
 
 #### 视频编辑
@@ -802,11 +817,11 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey) - FeedTheMonkey 是一款 TinyTinyRSS 的桌面客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/yang991178/fluent-reader) [Fluent Reader](https://hyliu.me/fluent-reader/) - Electron、React、Fluent UI 构建的现代桌面 RSS 阅读器。
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) [FreeTube](https://freetubeapp.io/) - FreeTube 是 Windows，Mac 和 Linux 上的 YouTube 客户端，以更加私密的方式浏览 Youtube。
-- [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](https://gnome-twitch.vinszent.com/) - 在你的 GNU/Linux 桌面上用这款非 Adobe-flash Twitch 客户端享受 Twitch。
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku) - Ubuntu 开源 youtube 音乐播放器。
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/news-flash/news_flash_gtk) [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - NewsFlash 设计来作为已有的基于 web 的 RSS 阅读器账户的补充程序。
 - [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) [Popcorntime](https://github.com/popcorn-official/popcorn-desktop) - 直接观看 torrent 电影。
 - [![Open-Source Software][OSS Icon]](https://github.com/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) - 支持 RSS/ATOM/JSON 以及许多基于 web 的 feed 服务的 feed 阅读器。
+- [![Open-Source Software][OSS Icon]](https://streamlink.github.io/streamlink-twitch-gui/) [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - [Streamlink](https://github.com/streamlink/streamlink) 的多平台 Twitch.tv 浏览器。
 
 ### 办公
 
@@ -827,8 +842,8 @@
 
 #### LaTeX
 
-- [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi) [Gummi](https://github.com/alexandervdm/gummi) - 带有模板，拼写检查以及向导的简单 latex 编辑器。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/swilmet/gnome-latex) [GNOME LaTeX](https://gitlab.gnome.org/swilmet/gnome-latex) - GNOME LaTeX 是 GNOME 桌面下的 LaTeX 编辑器。
+- [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi) [Gummi](https://github.com/alexandervdm/gummi) - 带有模板，拼写检查以及向导的简单 latex 编辑器。
 - [![Open-Source Software][OSS Icon]](https://www.lyx.org/trac/browser) [LyX](https://www.lyx.org/) - 成熟的 LaTeX 渲染文档编辑器。
 - [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html) [TexLive](https://www.tug.org/texlive/) - TeX Live 是个轻松获取和运行 TeX 文档生产系统的好方式。
 - [![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs) [TeXmacs](http://www.texmacs.org/) - 一款所见即所得的科学文本编辑器，并可用作一系列计算机代数系统的前端。
@@ -965,13 +980,16 @@
 
 #### 区域隔离
 
+- [![Open-Source Software][OSS Icon]](https://github.com/89luca89/distrobox) [Distrobox](https://distrobox.privatedns.org/) - 在终端里使用任意 Linux 发行版。
 - [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail 是一款 SUID 程序，通过使用 [Linux namespaces](https://lwn.net/Articles/531114/) 和 [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/) 限制不可信应用的运行环境，来减少安全缺口的风险。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gnome-boxes) [Gnome Boxes](https://apps.gnome.org/app/org.gnome.Boxes/) - 让虚拟化更简单。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM （表示 Kernel-based Virtual Machine，基于内核的虚拟机）是一个支持虚拟化扩展（Intel VT 或 AMD-V）Linux 的完全虚拟化方案。
 - [![Open-Source Software][OSS Icon]](https://github.com/nanovms/ops/) [ops](https://github.com/nanovms/ops) - OPS 是将一般 Linux 应用作为 unikernel 构建，运行和部署的工具。
+- [![Open-Source Software][OSS Icon]](https://github.com/marhkb/pods) [Pods](https://github.com/marhkb/pods) - 使用直观的桌面应用和 Podman 交互。
 - [![Open-Source Software][OSS Icon]](https://github.com/quickemu-project/quickemu) [Quickemu](https://github.com/quickemu-project/quickemu) - 快速创建和运行优化过的 Windows，macOS 以及 Linux 桌面虚拟机。
 - [![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox 是一款 x86 硬件的通用完全虚拟环境，用于服务器，桌面和嵌入式环境使用。
 - [![Open-Source Software][OSS Icon]](https://github.com/virt-manager/virt-manager) [Virtual Machine Manager](https://virt-manager.org/) - 管理通过 libvirt 创建的虚拟机的桌面工具。
+- [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - 使用 VMware Workstation Player 在你的 Windows 或 Linux PC 上轻松运行多个不同操作系统的虚拟机。
 
 #### 防火墙
 
@@ -989,7 +1007,7 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keepass/files/KeePass%202.x/) [KeePass](https://www.keepass.info/) - 专注于 Windows 的密码管理器，通过 Mono 提供一些跨平台支持。
 - [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org/) - 跨平台密码管理器。社区维护的 KeePassX 分支。
 - [Keeper](https://www.keepersecurity.com/download.html) - 领先的网络安全平台，提供密码和秘密保护以及基础设施访问。
-- [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) [KeeWeb](https://github.com/keeweb/keeweb) - 免费的跨平台密码管理器，兼容 KeePass。
+- [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) [KeeWeb](https://keeweb.info/) - 免费的跨平台密码管理器，兼容 KeePass。
 - [LastPass](https://lastpass.com/misc_download2.php) - LastPass 是一款跨平台免费密码管理服务，在私人账户里存储加密的密码。
 - [NordPass](https://nordpass.com/download/linux/) - 一款简单安全的密码管理器，联网体验无压力。为 Linux 设备优化。
 - [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/) [Pass](https://www.passwordstore.org/) - 标准 Unix 密码管理工具。
@@ -1020,7 +1038,9 @@
 
 ### 文件共享
 
+- [AnyDesk](https://anydesk.com/en) - AnyDesk 给 IT 专业人员和旅途中的人提供安全可靠的远程桌面连接。
 - [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 是一个轻量级的多协议以及多来源命令行下载工具。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/connections) [Connections](https://gitlab.gnome.org/GNOME/connections) - Connections 让你可以连接和使用其他桌面。这是个很棒的途径来访问其他桌面操作系统上的内容或软件。
 - [![Open-Source Software][OSS Icon]](https://github.com/schollz/croc) [croc](https://schollz.com/blog/croc6/) - 轻松安全地在电脑之间发送文件。
 - [CrossFTP](https://www.crossftp.com/ftp-client.htm) - CrossFTP 让 FTP 相关的任务管理变得无比简单。
 - [D-lan](http://www.d-lan.net/) - 一个免费的局域网文件分享软件。
@@ -1041,6 +1061,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/sidneys/pb-for-desktop) [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - 缺席的 Pushbullet 桌面应用。
 - [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) [qBittorent](https://www.qbittorrent.org/) - qBittorrent 计划的目标是提提供一个 µTorrent 的自由软件替代方案。
 - [Quazaa](https://sourceforge.net/projects/quazaa/) - 一款跨平台的多重网络点对点（P2P）文件分享客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) [Rustdesk](https://rustdesk.com/) - 人人可用的开源虚拟/远程桌面设施。开源的 TeamViewer 替代。
 - [![Open-Source Software][OSS Icon]](https://github.com/haiwen/seafile) [Seafile](https://www.seafile.com/en/home/) - Seafile 是一套企业级文件托管平台，有着高可靠性和高性能。将文件保存在你自己的服务器上。可以在不同设备上同步和分享文件，或以虚拟磁盘的方式访问所有文件。
 - [SpiderOak](https://spideroak.com/) - 关注隐私的团队及商业实时协作。
 - [![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing) [Syncthing](https://syncthing.net/) - Syncthing 用开放，值得信赖，去中心化的方案取代专有的同步和云服务。
@@ -1049,7 +1070,7 @@
 - [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) [Transmission](https://www.transmissionbt.com/download/) - 简单，轻量级，多平台的 torrent 客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/transmission-remote-gui/transgui) [Transmission Remote GUI](https://sourceforge.net/projects/transgui/) - Transmission Remote GUI 是一个功能丰富的跨平台前端，可以通过它的 RPC 协议远程控制 Transmission Bit-Torrent 守护进程。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/urlget/uget2/ci/master/tree/) [uGet](https://ugetdm.com/) - 一款下载管理器，可以监视剪贴板里的下载链接，创建一系列下载任务并同时开始任务。
-- [![Open-Source Software][OSS Icon]](https://dev.vuze.com/) [Vuze](https://www.vuze.com) - Bittorrent 点对点下载客户端，满足你的所有 torrent 下载需要。
+- [Vuze](https://www.vuze.com) - Vuze 是一款 BitTorrent 客户端，用来通过  BitTorrent 协议传输文件。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/warp) [Warp](https://gitlab.gnome.org/World/warp) - Warp 让你可以通过交换词语密码安全地通过互联网或本地网络给别人发送文件。
 - [![Open-Source Software][OSS Icon]](https://github.com/webtorrent/webtorrent-desktop) [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop 可以同时连接到 BitTorrent 和 WebTorrent 节点来流式播种子。
 - [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) [Wormhole](https://github.com/warner/magic-wormhole) - 从另一台电脑上安全地获取任意大小的文件和目录（或文本片段）。
@@ -1103,6 +1124,7 @@
 #### 系统维护
 
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk) [Aptik](https://launchpad.net/apt-toolkit) - 一款轻松管理你收藏的 PPA 和软件包的工具。
+- [![Open-Source Software][OSS Icon]](https://github.com/TheAssassin/AppImageLauncher) [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Linux 发行版的辅助应用，作为一个正在运行和整合的 AppImage 的入口。
 - [![Open-Source Software][OSS Icon]](https://github.com/bleachbit/bleachbit) [BleachBit](https://www.bleachbit.org/) - BleachBit 快速释放磁盘空间并不知疲倦地守卫你的隐私。释放缓存，删除 cookie，清除互联网浏览历史，清理临时文件，删除日志，以及更多功能。
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/volian/nala) [Nala](https://gitlab.com/volian/nala) - Nala 是一个 libapt-pkg 前端。界面使用 python-apt api 交互。对于新手来说在安装或升级的时候可能很难理解 apt 要做什么，Nala 致力于解决这个问题。
 - [![Open-Source Software][OSS Icon]](https://github.com/NixOS/nix) [Nix](https://nixos.org/download.html) - Nix 是一款强大的包管理工具，用于 Linux 和其他 Unix 系统，让包管理更可靠和可复现。
@@ -1241,13 +1263,15 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/newsboat/newsboat) [Newsboat](https://newsboat.org/) - Newsboat 是 Newsbeuter 的一个分支，是一款文本控制台 RSS/Atom 订阅阅读器。
 - [![Open-Source Software][OSS Icon]](https://github.com/o2sh/onefetch) [Onefetch](https://github.com/o2sh/onefetch) - 在你的终端内显示 Git 仓库概况。
 - [![Open-Source Software][OSS Icon]](https://github.com/facebook/PathPicker) [PathPicker](https://github.com/facebook/PathPicker) - 命令允许你在命令行中选择前一个命令的输出文件，然后你就可以运行另一个命令或编辑它们。
+- [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/pfetch) [pfetch](https://github.com/dylanaraps/pfetch) - POSIX sh 编写的漂亮的系统信息显示工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/pywal) [pywal](https://github.com/dylanaraps/pywal) - pywal 是一个脚本，给它输入一个图片（或图片文件夹），生成一套配色方案（使用 imagemagick），然后即时将你打开的所有终端的配色方案修改，让你的终端颜色可以随着你的壁纸或其他标准变化。
 - [![Open-Source Software][OSS Icon]](https://github.com/orakaro/rainbowstream) [Rainbow Stream](https://github.com/orakaro/rainbowstream) - 聪明漂亮的终端 Python Twitter 客户端。
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/aaronNG/reddio) [reddio](https://gitlab.com/aaronNG/reddio) - POSIX sh 编写的 Reddit 命令行界面。
 - [![Open-Source Software][OSS Icon]](https://github.com/BurntSushi/ripgrep) [ripgrep](https://github.com/BurntSushi/ripgrep) - Ripgrep 是一款面向命令行的搜索工具，支持递归地使用正则表达式搜索当前目录。
-- [![Open-Source Software][OSS Icon]](https://github.com/michael-lazar/rtv) [RTV](https://github.com/michael-lazar/rtv) - 从终端浏览 Reddit。
 - [![Open-Source Software][OSS Icon]](https://github.com/amanusk/s-tui) [s-tui](https://amanusk.github.io/s-tui/) - s-tui 是一个用于监控你的电脑的用户界面，从终端以图形化的方式显示 CPU 温度，频率以及使用率。
 - [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - 类似 ack 的代码搜索工具，但是更快。
 - [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck) [TheFuck](https://github.com/nvbn/thefuck) - 杰出的应用，它能纠正你的输入的错误命令。
+- [![Open-Source Software][OSS Icon]](https://github.com/tldr-pages/tldr) [tldr-pages](https://tldr.sh/) - Tldr-pages 项目是社区维护的命令行工具帮助页面，目标是比 man 提供更简单易懂的补充。
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://github.com/tmux/tmux) - 它让你在一个终端中在多个程序间方便地切换，分离他们（保持在后台运行）并另一个终端中重新连接上去。以及还有好多事情可以做。
 - [![Open-Source Software][OSS Icon]](https://github.com/soimort/translate-shell) [translate-shell](https://www.soimort.org/translate-shell) - 命令行翻译，可以使用 Google、Bing、Yandex 等翻译。
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - 一款可以在长时间运行的命令结束后播放声音或发出通知的命令行程序。
@@ -1259,6 +1283,15 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 一个 youtube-dl 分支，增加了功能特性和修复。
 - [![Open-Source Software][OSS Icon]](https://github.com/skywind3000/z.lua) [z.lua](https://github.com/skywind3000/z.lua) - 一款全新的 cd 命令，通过学习你的习惯帮助你更快地进行目录导航。
 - [![Open-Source Software][OSS Icon]](https://github.com/ajeetdsouza/zoxide) [zoxide](https://github.com/ajeetdsouza/zoxide) - 一个浏览文件系统更好的方式。Rust 编写。
+
+## 自定义 Linux 内核
+
+- [![Open-Source Software][oss icon]](https://linux-libre.fsfla.org/pub/linux-libre/releases/) [GNU Linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/) - GNU Linux-libre 是一个维护和发布 100% 自由的 Linux 版本的项目，适合在自由系统发行版中使用。
+- [![Open-Source Software][oss icon]](https://github.com/anthraxx/linux-hardened) [Linux-Hardened](https://github.com/anthraxx/linux-hardened) - 一个关注安全的 Linux 内核，打上了一系列加固补丁来缓解内核和用户空间的漏洞。相比 Linux 还启用了更多的上游内核加固特性。
+- [![Open-Source Software][oss icon]](https://github.com/Frogging-Family/linux-tkg) [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - 用来自动从官方 Linux git 仓库下载、打补丁、编译 Linux 内核的脚本，带有特定补丁，用于更好的桌面/游戏体验。
+- [![Open-Source Software][oss icon]](https://github.com/damentz/liquorix-package) [Liquorix](https://liquorix.net) - Liquorix 是一个发行版内核替代，用上对桌面、多媒体、游戏负载最好的配置和内核源码。
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/xanmod/) [XanMod](https://xanmod.org/) - XanMod 是通用目标的 Linux 内核发行版，有定制化的配置和新特性。为稳定、响应、流畅的桌面体验构建。
+- [![Open-Source Software][oss icon]](https://github.com/zen-kernel/zen-kernel) [Zen](https://github.com/zen-kernel/zen-kernel) - 内核黑客们合作努力的成果，为日常系统提供最佳的 Linux 内核。
 
 ## 桌面环境
 
@@ -1275,7 +1308,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) [Mate](https://mate-desktop.com/) - Mate 用传统隐喻给 Linux 用户提供一个直观又有吸引力的桌面。MATE 是 GNOME 2 的一个 fork。
 - [![Open-Source Software][OSS Icon]](https://elementary.io/) [Pantheon](https://elementary.io/) - Pantheon 是最初为发行版 elementary OS 创建的桌面环境，同时也是它的默认桌面环境。
 - [![Open-Source Software][OSS Icon]](https://github.com/ukui/ukui-desktop-environment) [UKUI](https://www.ukui.org/) - UKUI 是一款 Linux 发行版和其他类 UNIX 操作系统的桌面环境，最初为  Ubuntu Kylin 开发，使用 Qt 框架开发。
-- [![Open-Source Software][OSS Icon]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) - Unity 是 GNOME 的一个 shell，由 Canonical 为 Ubuntu 设计。 在 Ubuntu 16.04 上安装 Unity 8 的 [教程](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video)。
+- [![Open-Source Software][OSS Icon]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) - Unity 是 GNOME 的一个 shell，由 Canonical 为 Ubuntu 设计。 
 - [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) [Xfce](https://www.xfce.org/) - Xfce 体现了模块化和可重用的传统 UNIX 哲学。
 
 ## 显示管理
@@ -1314,10 +1347,12 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) [2bwm](https://github.com/venam/2bwm) - 快速的浮动窗口管理，有两个特殊边界，基于 XCB 库，由 mcwm 衍生。
 - [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) [Blackbox](https://github.com/bbidulock/blackboxwm) - 快速，轻量化的 X 窗口系统窗口管理器，没有那些烦人的库依赖。
 - [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) [Fluxbox](http://fluxbox.org) - 基于 Blackbox 0.61.1 代码的 X 窗口管理器。
+- [![Open-Source Software][OSS Icon]](https://github.com/ice-wm/icewm) [IceWM](https://ice-wm.org) - X 窗口管理器。IceWM 的目标是速度、简单、不挡用户的道。
 - [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) [Openbox](http://openbox.org) - 高度可配置，带有可扩展标准支持的下一代窗口管理器。
 
 ### 平铺式窗口管理器
 
+- [![Open-Source Software][OSS Icon]](https://github.com/Bismuth-Forge/bismuth) [Bismuth](https://bismuth-forge.github.io/bismuth/) - 在 KDE Plasma 之上，让平铺窗口管理变得简单。
 - [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) [Bspwm](https://github.com/baskerville/bspwm/wiki) - Bspwm 是一个平铺式窗口管理器，将窗口以二叉树的叶结点的方式展现。
 - [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) [Herbstluftwm](https://herbstluftwm.org) - 使用 Xlib 和 Glib 的手工平铺式窗口管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) - 更好的平铺及动态窗口管理器。完全重写。目标平台是 GNU/Linux 和 BSD 操作系统。
@@ -1329,6 +1364,7 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) [awesome](https://awesomewm.org) - 高度可配置，下一代 X 框架窗口管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) [dwm](https://dwm.suckless.org) - X 动态窗口管理器。它以平铺，单片镜以及浮动布局的方式管理窗口。
+- [![Open-Source Software][OSS Icon]](https://github.com/esjeon/krohnkite) [Kröhnkite](https://github.com/esjeon/krohnkite) - KWin 的一个动态平铺插件。
 - [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) [spectrwm](https://github.com/conformal/spectrwm) - 小型动态平铺 X11 窗口管理器。主要受 xmonad 和 dwm 启发。
 - [![Open-Source Software][OSS Icon]](https://github.com/codic12/worm) [Worm](https://github.com/codic12/worm) - 一款动态的，基于标签的窗口管理器，使用 Nim 编写。
 - [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](https://xmonad.org) - 动态平铺 X11 窗口管理器，用 Haskell 编写和配置。
@@ -1470,8 +1506,13 @@
 
 - [AlmaLinux](https://www.reddit.com/r/AlmaLinux/)
 - [Arch Linux](https://www.reddit.com/r/archlinux/)
+- [Asahi Linux](https://www.reddit.com/r/AsahiLinux/)
+- [AwesomeWM](https://www.reddit.com/r/awesomewm/)
 - [CentOS](https://www.reddit.com/r/CentOS/)
+- [Cinnamon DE](https://www.reddit.com/r/CinnamonDE/)
+- [Command Line](https://www.reddit.com/r/commandline/)
 - [Debian](https://www.reddit.com/r/debian/)
+- [Deepin](https://www.reddit.com/r/deepin/)
 - [elementary OS](https://www.reddit.com/r/elementaryos/)
 - [EndeavourOS](https://www.reddit.com/r/EndeavourOS/)
 - [Fedora](https://www.reddit.com/r/Fedora/)
@@ -1479,6 +1520,8 @@
 - [Garuda Linux](https://www.reddit.com/r/GarudaLinux/)
 - [Gentoo Linux](https://www.reddit.com/r/Gentoo/)
 - [GNOME](https://www.reddit.com/r/gnome/)
+- [Haiku](https://www.reddit.com/r/haikuOS/)
+- [i3 Window Manager](https://www.reddit.com/r/i3wm/)
 - [KDE](https://www.reddit.com/r/kde/)
 - [Kubuntu](https://www.reddit.com/r/Kubuntu/)
 - [Linux](https://www.reddit.com/r/linux/)
@@ -1487,6 +1530,7 @@
 - [Linux Kernel](https://www.reddit.com/r/kernel/)
 - [Linux Mint](https://www.reddit.com/r/linuxmint/)
 - [Manjaro](https://www.reddit.com/r/ManjaroLinux/)
+- [Nix](https://www.reddit.com/r/Nix/)
 - [NixOS](https://www.reddit.com/r/NixOS/)
 - [Open Source](https://www.reddit.com/r/opensource/)
 - [openSUSE](https://www.reddit.com/r/openSUSE/)
@@ -1494,8 +1538,13 @@
 - [Rocky Linux](https://www.reddit.com/r/RockyLinux/)
 - [Slackware](https://www.reddit.com/r/slackware/)
 - [Solus Project](https://www.reddit.com/r/SolusProject/)
+- [Sway Window Manager](https://www.reddit.com/r/swaywm/)
+- [Tails](https://www.reddit.com/r/tails/)
 - [Ubuntu](https://www.reddit.com/r/Ubuntu/)
 - [Unix Porn](https://www.reddit.com/r/unixporn/)
+- [Void Linux](https://www.reddit.com/r/voidlinux/)
+- [Whonix](https://www.reddit.com/r/Whonix/)
+- [Xfce](https://www.reddit.com/r/xfce/)
 - [Xubuntu](https://www.reddit.com/r/xubuntu/)
 - [Zorin OS](https://www.reddit.com/r/zorinos/)
 
