@@ -139,7 +139,6 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) [cava](https://github.com/karlstav/cava) - Cava 是跨平台的音频可视化工具。
 - [![Open-Source Software][oss icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac 是一款免费的音频转换与 CD 提取工具，支持多种流行的格式和编码。它可以在 MP3、MP4/M4A、WMA、Ogg Vorbis、FLAC、AAC、WAV 以及 Bonk 格式之间转换。
 - [![Open-Source Software][oss icon]](https://github.com/KDE/k3b) [K3b](https://userbase.kde.org/K3b) - Linux 上的 CD/DVD 创建工具 - 为 KDE 特别优化。
-- [![Open-Source Software][oss icon]](https://github.com/JonMagon/KDiskMark) [KDiskMark](https://github.com/JonMagon/KDiskMark) - 一款用于 Linux 的简单的磁盘测评工具，类似 Windows 下的 CrystalDiskmark。
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kid3/) [Kid3](https://kid3.kde.org/) - 编辑多媒体文件的标签，如一个专辑所有 mp3 文件的艺术家，专辑，年代，流派。
 - [![Open-Source Software][oss icon]](https://github.com/orhun/linuxwave) [linuxwave](https://orhun.dev/linuxwave/) - 从 Linux 熵中生成音乐。
 - [![Open-Source Software][oss icon]](https://github.com/SeaDve/Mousai) [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Mousai 是简单的听歌识曲应用，和 shazam 类似。
@@ -1270,6 +1269,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/zevv/duc) [Duc](https://duc.zevv.nl/) - Duc，索引和可视化磁盘用量的库和工具套件。
 - [![Open-Source Software][oss icon]](https://github.com/balena-io/etcher) [Etcher](https://www.balena.io/etcher/) - 安全简单地向 SD 卡或 U 盘写入系统镜像。
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gparted) [GParted](https://gparted.org/) - Ubuntu/Linux 磁盘分区工具。
+- [![Open-Source Software][oss icon]](https://github.com/JonMagon/KDiskMark) [KDiskMark](https://github.com/JonMagon/KDiskMark) - 一款用于 Linux 的简单的磁盘测评工具，类似 Windows 下的 CrystalDiskmark。
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/kfloppy) [KFloppy](https://apps.kde.org/kfloppy/) - 用于格式化 3.5 英寸和 5.25 英寸软盘的图形化实用程序。
 - [![Open-Source Software][oss icon]](https://github.com/mbusb/multibootusb) [MultiBootUSB](https://github.com/mbusb/multibootusb) - MultiBootUSB 允许你在 U 盘上安卓多个 Linux live 系统。
 - [![Open-Source Software][oss icon]](https://github.com/pop-os/popsicle) [Popsicle](https://github.com/pop-os/popsicle) - Popsicle 是用 Rust 写的 Linux 工具，可以同时刷写多个 USB 设备。
