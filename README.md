@@ -1403,7 +1403,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://git.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer 是一个让你可以配置 GRUB2/BURG 设置和启动项的图形化界面。
 - [![Open-Source Software][oss icon]](https://invent.kde.org/education/labplot) [Labplot](https://labplot.kde.org/) - LabPlot 是一款用于交互式绘制和分析科学数据的 KDE 应用。
 - [![Open-Source Software][oss icon]](https://github.com/MycroftAI/mycroft-core) [Mycroft](https://mycroft.ai/) - Mycroft 是一款可 hack 的开源语音助手。
-- [![Open-Source Software][oss icon]](https://gitlab.com/CalcProgrammer1/OpenRGB) [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn't depend on manufacturer software. For Windows, Linux, MacOS.
+- [![Open-Source Software][oss icon]](https://gitlab.com/CalcProgrammer1/OpenRGB) [OpenRGB](https://openrgb.org/) - 开源 RGB 灯光控制软件，不依赖厂商的软件。用于 Windows，Linux，MacOS。
 - [![Open-Source Software][oss icon]](https://github.com/libratbag/piper) [Piper](https://github.com/libratbag/piper) - Piper 是一款 GTK+ 应用，用来配置游戏麦克风。
 - [![Open-Source Software][oss icon]](https://github.com/polychromatic/polychromatic) [Polychromatic](https://polychromatic.app/) - 在 GNU/Linux 下配置雷蛇外设的图形化前端和托盘插件。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/refind/) [rEFInd](https://www.rodsbooks.com/refind/) - rEFInd 是 rEFIt 启动管理器的一个分叉。与 rEFIt 一样，rEFInd 可以自动检测已安装的 EFI 启动加载器，并提供一个漂亮的 GUI 启动选项菜单。
@@ -1518,7 +1518,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/lxqt/lxqt) [LXQt](https://lxqt-project.org/) - LXQt 是 LXDE 的 Qt 移植和即将到来的版本，轻量化的桌面环境。
 - [![Open-Source Software][oss icon]](https://github.com/mate-desktop/) [Mate](https://mate-desktop.com/) - Mate 用传统隐喻给 Linux 用户提供一个直观又有吸引力的桌面。MATE 是 GNOME 2 的一个 fork。
 - [![Open-Source Software][oss icon]](https://elementary.io/) [Pantheon](https://elementary.io/) - Pantheon 是最初为发行版 elementary OS 创建的桌面环境，同时也是它的默认桌面环境。
-- [![Open-Source Software][oss icon]](https://github.com/ukui/ukui-desktop-environment) [UKUI](https://www.ukui.org/) - UKUI is a desktop environment for Linux distributions and other UNIX-like operating systems, originally developed for Ubuntu Kylin, and written using the Qt framework.
+- [![Open-Source Software][oss icon]](https://github.com/ukui/ukui-desktop-environment) [UKUI](https://www.ukui.org/) - UKUI 是一款 Linux 发行版和其他类 UNIX 操作系统的桌面环境，最初为  Ubuntu Kylin 开发，使用 Qt 框架开发。
 - [![Open-Source Software][oss icon]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) - Unity 是 GNOME 的一个 shell，由 Canonical 为 Ubuntu 设计。 
 - [![Open-Source Software][oss icon]](https://github.com/xfce-mirror) [Xfce](https://www.xfce.org/) - Xfce 体现了模块化和可重用的传统 UNIX 哲学。
 
@@ -1575,7 +1575,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 ### 动态窗口管理器
 
 - [![Open-Source Software][oss icon]](https://github.com/awesomeWM/awesome) [awesome](https://awesomewm.org) - 高度可配置，下一代 X 框架窗口管理器。
-- [![Open-Source Software][oss icon]](https://github.com/cdown/dwm) [dwm](https://dwm.suckless.org) - A dynamic window manager for X. It manages windows in tiled, monocle and floating layouts.
+- [![Open-Source Software][oss icon]](https://github.com/cdown/dwm) [dwm](https://dwm.suckless.org) - X 动态窗口管理器。它以平铺，单片镜以及浮动布局的方式管理窗口。
 - [![Open-Source Software][oss icon]](https://github.com/esjeon/krohnkite) [Kröhnkite](https://github.com/esjeon/krohnkite) - KWin 的一个动态平铺插件。
 - [![Open-Source Software][oss icon]](https://github.com/conformal/spectrwm) [spectrwm](https://github.com/conformal/spectrwm) - 小型动态平铺 X11 窗口管理器。主要受 xmonad 和 dwm 启发。
 - [![Open-Source Software][oss icon]](https://github.com/codic12/worm) [Worm](https://github.com/codic12/worm) - 一款动态的，基于标签的窗口管理器，使用 Nim 编写。
