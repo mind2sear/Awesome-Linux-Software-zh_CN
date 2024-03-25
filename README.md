@@ -1714,6 +1714,6 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 
 该作品签署于 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-[oss icon]: ./img/oss.svg
-[freeware icon]: ./img/freeware.svg
-[money icon]: ./img/money.svg
+[oss icon]: img/oss.svg
+[freeware icon]: img/freeware.svg
+[money icon]: img/money.svg
