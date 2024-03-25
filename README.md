@@ -105,6 +105,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/LibreTime/libretime) [Libretime](https://libretime.org/) - 开放广播软件，用于调度和远程站点管理；从 Airtime fork 而来。
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/lollypop) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - 一款 GNOME 音乐播放应用。
 - [![Open-Source Software][oss icon]](https://gitlab.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/) - 在你的桌面集成云音乐。
+- [![Open-Source Software][oss icon]](https://gitlab.com/zehkira/monophony) [Monophony](https://gitlab.com/zehkira/monophony) - 从 YouTube 串流音乐的 Linux 应用。
 - [![Open-Source Software][oss icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - Python 编写的可扩展音乐服务器。
 - [![Open-Source Software][oss icon]](https://github.com/staniel359/muffon) [muffon](https://muffon.netlify.app/) - Muffon 是一款跨平台的桌面音乐流浏览器，帮助你以一种从未体验过的方式查找、收听、组织音乐。
 - [![Open-Source Software][oss icon]](https://github.com/martpie/museeks) [Museeks](https://museeks.io/) - 一款简单，干净，跨平台的音乐播放器。
@@ -137,6 +138,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 #### 工具
 
 - [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) [cava](https://github.com/karlstav/cava) - Cava 是跨平台的音频可视化工具。
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/eartag) [Ear Tag](https://apps.gnome.org/EarTag/) - 简单小巧的音频文件标签编辑器。
 - [![Open-Source Software][oss icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac 是一款免费的音频转换与 CD 提取工具，支持多种流行的格式和编码。它可以在 MP3、MP4/M4A、WMA、Ogg Vorbis、FLAC、AAC、WAV 以及 Bonk 格式之间转换。
 - [![Open-Source Software][oss icon]](https://github.com/KDE/k3b) [K3b](https://userbase.kde.org/K3b) - Linux 上的 CD/DVD 创建工具 - 为 KDE 特别优化。
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kid3/) [Kid3](https://kid3.kde.org/) - 编辑多媒体文件的标签，如一个专辑所有 mp3 文件的艺术家，专辑，年代，流派。
@@ -157,7 +159,8 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/chatterino/chatterino2) [Chatterino](https://chatterino.com/) - Chatterino 是一款 Twitch chat 的聊天客户端。它的目标是成为一个优化和扩展版本的 Twitch web chat。
 - [![Open-Source Software][oss icon]](https://github.com/chatty/chatty) [Chatty](https://chatty.github.io/) - Chatty 是一款 Twitch 聊天客户端，它是为那些想尝试不同于 web 聊天的新事物，又不想像 IRC 客户端那样复杂或错过 Twitch 特色功能的用户准备的。
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/fractal) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal 是一款用 Rust 编写的 GNOME 下的 Matrix 消息应用。它的界面为大型群组（比如自由软件项目）协作做了优化。
-- [![Open-Source Software][oss icon]](https://invent.kde.org/network/neochat) [NeoChat](https://apps.kde.org/neochat/) - NeoChat 是一款 Matrix 客户端。你可以使用 Matrix 协议给家人、朋友、同事发送文字消息和音视频文件。 
+- [![Open-Source Software][oss icon]](https://invent.kde.org/network/neochat) [NeoChat](https://apps.kde.org/neochat/) - NeoChat 是一款 Matrix 客户端。你可以使用 Matrix 协议给家人、朋友、同事发送文字消息和音视频文件。
+- [![Open-Source Software][oss icon]](https://github.com/Nheko-Reborn/nheko) [nheko](https://nheko-reborn.github.io/) - 使用 Qt 和 C++20 的 Matrix 桌面客户端。
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/tokodon) [Tokodon](https://apps.kde.org/tokodon/) - Tokodon 是一款 Plasma 和 Plasma Mobile 上的 Mastodon 客户端。
 - [![Open-Source Software][oss icon]](https://github.com/SpacingBat3/WebCord) [WebCord](https://github.com/SpacingBat3/WebCord) - 一款 Discord 和 Fosscord web 客户端，基于 Electron。
 - [![Open-Source Software][oss icon]](https://gitlab.com/zerkc/whatsdesk) [WhatsDesk](https://zerkc.gitlab.io/whatsdesk/) - WhatsDesk 是非官方的 WhatsApp 客户端。
@@ -192,6 +195,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [Discord](https://discordapp.com/) - 为玩家准备的多合一语音文本聊天工具，免费，安全，同时支持桌面和手机。
 - [![Open-Source Software][oss icon]](https://github.com/vector-im/element-web) [Element](https://element.io/) - 漂亮的 Matrix 协作网络客户端。
 - [![Open-Source Software][oss icon]](https://gitlab.com/gitlab-org/gitter/services) [Gitter](https://gitter.im/) - Gitter — 开发者交流的地方。Gitter 的设计目标是让社区消息，协作和发现尽可能地简单。
+- [Guilded](https://www.guilded.gg/) - Guilded 是游戏聊天的最佳应用，完美适用于朋友、家庭、公会、社区、电子竞技、LFG、团队，而且是免费的。
 - [![Open-Source Software][oss icon]](https://git.jami.net/savoirfairelinux) [Jami](https://jami.net/) - 聊天。交流。分享。Jami 是一款免费及通用的沟通平台，保护用户隐私和自由。原名 Ring。
 - [![Open-Source Software][oss icon]](https://github.com/jitsi) [Jitsi](https://jitsi.org/) - Jitsi 是一款免费，开源的多平台语音，视频会议以及即时通讯应用，在 Windows, Linux, Mac OS X 和 Android 上可用。
 - [![Open-Source Software][oss icon]](https://github.com/mattermost/) [Mattermost](https://mattermost.com/) - Mattermost 是一款安全的协作平台，开放，灵活，深度集成了你喜欢的工具。
@@ -342,6 +346,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - ![Nonfree][freeware icon]![Nonfree][money icon] [GitKraken](https://www.gitkraken.com/) - 强大酷炫的 Git 图形化客户端，支持 Windows，Mac 以及 Linux。
 - [![Open-Source Software][oss icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab 是一个基于 web 的 Git 仓库管理工具，带有 wiki 和 issue 追踪等功能。
 - [![Open-Source Software][oss icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite 允许你在中心化服务器上搭建 git 托管，拥有细粒度的权限管理和很多其他强大功能。
+- [![Open-Source Software][oss icon]](https://github.com/Murmele/Gittyup) [Gittyup](https://murmele.github.io/Gittyup/) - Gittyup 是一款图形化 Git 客户端，帮助你理解和管理你的源代码历史。
 - [![Open-Source Software][oss icon]](https://github.com/gogs/gogs) [Gogs](https://gogs.io/) - 一个无痛的自托管 Git 服务。
 - [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazygit) [lazygit](https://github.com/jesseduffield/lazygit) - git 命令的简单终端 UI，用 Go 编写，使用 gocui 库。
 - ![Nonfree][money icon] [SmartGit](https://www.syntevo.com/smartgit/) - SmartGit 是一款 Git 客户端，支持 Github 的 Pull Requests 和评论以及 SVN。
@@ -398,6 +403,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://ohmyz.sh/) - 一个由社区驱动，优雅的 zsh 配置管理框架。
 - [![Open-Source Software][oss icon]](https://github.com/oilshell/oil) [oilshell](https://github.com/oilshell/oil) - Oil 是一款新的 Unix shell，提供给想避开 shell 的 Python 和 JavaScript 用户。
 - [![Open-Source Software][oss icon]](https://github.com/koalaman/shellcheck) [Shellcheck](https://www.shellcheck.net/) - ShellCheck，一款 shell 脚本的静态分析工具。
+- [![Open-Source Software][oss icon]](https://github.com/zimfw/zimfw) [Zim](https://zimfw.sh/) - 模块化、可定制、快速的 Zsh 框架。
 - [![Open-Source Software][oss icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - 一款强大的命令行 shell。
 
 #### 支持工具
@@ -597,6 +603,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](https://www.nongnu.org/galois/) - Galois 是方块下落类游戏，它不像大多数同类型游戏那样局限于标准的四方连块。
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gbrainy/) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy) - Gbrainy 是一个脑筋急转弯游戏，获得乐趣并且锻炼你的大脑。
 - [![Open-Source Software][oss icon]](https://gitlab.com/pingus/pingus) [Pingus](https://pingus.seul.org/) - 克隆流行的 Lemmings 的 2D 谜题游戏。你的目标是引导一群企鹅安全穿过地图。
+- [![Open-Source Software][oss icon]](https://github.com/drwhut/tabletop-club) [Tabletop Club](https://drwhut.itch.io/tabletop-club) - 一款基于物理 3D 环境的桌面游戏平台，在 Windows、macOS、Linux 上游玩，使用 Godot 引擎。
 
 #### 竞速
 
@@ -649,6 +656,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 ##### 启动器
 
 - [![Open-Source Software][oss icon]](https://github.com/bottlesdevs/) [Bottles](https://usebottles.com/) - 用新方式简单管理 wine 容器。在 Linux 上运行 Windows 软件和游戏。
+- [![Open-Source Software][oss icon]](https://github.com/kra-mo/cartridges) [Cartridges](https://apps.gnome.org/Cartridges/) - GTK4 + Libadwaita 游戏启动器。
 - [![Open-Source Software][oss icon]](https://github.com/tkashkin/GameHub) [GameHub](https://tkashkin.github.io/projects/gamehub/) - GameHub 是你的游戏的统一游戏库。它让你可以存储不同平台的游戏到一个程序中，整理游戏更便捷。
 - [![Open-Source Software][oss icon]](https://github.com/Heroic-Games-Launcher) [Heroic Games Launcher](https://heroicgameslauncher.com/) - 适用 Linux，Windows 和 Mac 的原生 GOG 和 Epic 游戏启动器。
 - [![Open-Source Software][oss icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - itch.io 的应用。你的所有下载都在一个地方，并且能自动升级。有很多免费游戏。
@@ -661,6 +669,8 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 
 - [![Open-Source Software][oss icon]](https://github.com/PhilipK/BoilR) [BoilR](https://github.com/PhilipK/BoilR) - 从别的平台将游戏同步到你的 Steam 游戏库。
 - [![Open-Source Software][oss icon]](https://github.com/dreamer/boxtron) [Boxtron](https://github.com/dreamer/boxtron) - Steam Play 兼容工具，使用原生 Linux DOSBox。它是 Luxtorpeda 和 DOSBox Staging 的姐妹项目。
+- [![Open-Source Software][oss icon]](https://github.com/CryoByte33/steam-deck-utilities) [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - 改善 Steam Deck 性能和管理存储的工具。
+- [![Open-Source Software][oss icon]](https://github.com/SteamDeckHomebrew/decky-loader) [Decky Loader](https://decky.xyz/) - Steam Deck 插件加载器。
 - [![Open-Source Software][oss icon]](https://github.com/dosbox-staging/dosbox-staging) [DOSBox Staging](https://dosbox-staging.github.io/) - DOSBox Staging 是一个 DOSBox 的现代延续，有着高级功能和活跃开发。
 - [![Open-Source Software][oss icon]](https://github.com/FeralInteractive/gamemode) [GameMode](https://github.com/FeralInteractive/gamemode) - 按需优化 Linux 系统性能。
 - [![Open-Source Software][oss icon]](https://github.com/benjamimgois/goverlay) [GOverlay](https://github.com/benjamimgois/goverlay) - GOverlay 是一个开源项目，专注创建一个图形化 UI 来帮助管理浮层显示。
@@ -672,6 +682,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/scummvm/scummvm) [ScummVM](https://www.scummvm.org/) - 只要你已经拥有游戏数据文件，ScummVM 就能让你玩到经典的图形点击冒险游戏、文字冒险游戏和 RPG 游戏。ScummVM 取代了游戏随附的可执行文件，这意味着你现在可以在所有喜欢的设备上玩你最喜欢的游戏了。
 - [![Open-Source Software][oss icon]](https://github.com/CapitaineJSparrow/steam-repo-manager) [Steam Deck Repo Manager](https://steamdeckrepo.com/) - 使用 Steam Deck Repo 网站 API 将启动视频安装到您的 Steam Deck。
 - [![Open-Source Software][oss icon]](https://github.com/SteamGridDB/steam-rom-manager) [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - 一款用于管理 Steam 中 ROM 的应用程序。
+- [![Open-Source Software][oss icon]](https://github.com/sonic2kk/steamtinkerlaunch) [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - 自定义 Steam 客户端启动参数和第三方程序的 Linux 包装层工具。
 
 ##### W.I.N.E.
 
@@ -711,6 +722,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 
 ##### 任天堂
 
+- [![Open-Source Software][oss icon]](https://github.com/cemu-project/Cemu) [Cemu](https://cemu.info/) - 在 PC 上模拟 Wii U 游戏和应用的软件。
 - [![Open-Source Software][oss icon]](https://github.com/citra-emu/citra) [Citra](https://citra-emu.org/) - Citra 是开源的模拟器，支持游玩许多你喜欢的 Nintendo 3DS 游戏。
 - [![Open-Source Software][oss icon]](https://github.com/TASEmulators/desmume) [DeSmuME](https://desmume.org/) - DeSmuME 是一款任天堂 DS 模拟器。
 - [![Open-Source Software][oss icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin 是一款 GameCube / Wii 模拟器，允许你在 PC 平台上玩优化过的这些平台上的游戏。
@@ -834,7 +846,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 
 #### 串流
 
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/boatswain) [Boatswain](https://gitlab.gnome.org/World/boatswain) - 控制你的 Elgato Stream Deck 设备。
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/boatswain) [Boatswain](https://apps.gnome.org/Boatswain/) - 控制你的 Elgato Stream Deck 设备。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) - 原名**MiniDLNA**，ReadyMedia 是一款简单，轻量的媒体服务器软件，目标是完全兼容 DLNA/UPnP-AV 客户端。MiniDLNA 守护进程为网络上的客户端提供媒体文件（音乐，图片以及视频），这些客户端可以是智能手机、便携式媒体播放器、电视、其他电脑以及游戏系统。
 - [![Open-Source Software][oss icon]](https://github.com/virtual-puppet-project/vpuppr) [VPupPr](https://github.com/virtual-puppet-project/vpuppr) - VTuber 应用，使用 Godot 3.4 制作。
 
