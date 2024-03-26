@@ -106,6 +106,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/lollypop) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - 一款 GNOME 音乐播放应用。
 - [![Open-Source Software][oss icon]](https://gitlab.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/) - 在你的桌面集成云音乐。
 - [![Open-Source Software][oss icon]](https://gitlab.com/zehkira/monophony) [Monophony](https://gitlab.com/zehkira/monophony) - 从 YouTube 串流音乐的 Linux 应用。
+- [![Open-Source Software][oss icon]](https://github.com/Moosync/Moosync) [Moosync](https://moosync.app/) - 可定制化桌面音乐播放器，界面干净，可以播放本地和在线资源（如 YouTube 和 Spotify）。
 - [![Open-Source Software][oss icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - Python 编写的可扩展音乐服务器。
 - [![Open-Source Software][oss icon]](https://github.com/staniel359/muffon) [muffon](https://muffon.netlify.app/) - Muffon 是一款跨平台的桌面音乐流浏览器，帮助你以一种从未体验过的方式查找、收听、组织音乐。
 - [![Open-Source Software][oss icon]](https://github.com/martpie/museeks) [Museeks](https://museeks.io/) - 一款简单，干净，跨平台的音乐播放器。
@@ -299,7 +300,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - ![Non Free][money icon] [CLion](https://www.jetbrains.com/clion/) - 一款强大的跨平台 C 以及 C++ IDE。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/codeblocks/code/HEAD/tree/) [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是一款为满足大部分用户需求构建的免费的 C，C++ 以及 Fortran IDE。它可扩展并且可配置性强。
 - [![Open-Source Software][oss icon]](https://wiki.codelite.org/pmwiki.php/Main/Repositories) [CodeLite](https://codelite.org/) - 一款免费，开源，跨平台的 C，C++，PHP，以及 Node.js IDE。
-- [![Open-Source Software][oss icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/) - 全功能跨平台集成开发环境，轻松创建互联设备，用户界面以及应用程序。
+- [![Open-Source Software][oss icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/product/development-tools) - 全功能跨平台集成开发环境，轻松创建互联设备，用户界面以及应用程序。
 
 #### 数据库
 
@@ -503,6 +504,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - ![Nonfree][money icon] [MapTiler](https://www.maptiler.com/) -  MapTiler 可以从用户定义坐标系图片中生成可缩放的栅格地图。
 - [![Open-Source Software][oss icon]](https://github.com/KDE/marble) [Marble](https://marble.kde.org/) - Marble 是一款可视地球仪和世界地图——你的地图瑞士军刀。
 - ![Nonfree][money icon] [MATLAB](https://www.mathworks.com/products/matlab/) - MATLAB 平台专为剞劂工程和科学问题优化。MATLAB 让你的想法不仅仅停留在桌面。你可以在巨大的数据集上进行你的分析并按比例增加你的集群和云。
+- ![Nonfree][money icon] [Mathematica](https://www.wolfram.com/mathematica/) - 全球现代技术计算的终极系统。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/maxima/) [Maxima](https://maxima.sourceforge.io/) - Maxima 是一个处理符号和数值表达式的系统，包括微分，积分，泰勒级数，拉普拉斯变换，常微分方程，线性方程组以及更多。
 - [Mendeley](https://www.mendeley.com/) - Mendeley 是一款管理和分享研究论文，寻找研究数据和在线协作的软件。
 - [![Open-Source Software][oss icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - 在线学习课程管理系统。
@@ -518,6 +520,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/tuxtype/files/tuxtype-source/) [TuxType](https://www.tux4kids.com/tuxtyping.html) - Tux 主演的打字教育游戏。
 - [![Open-Source Software][oss icon]](https://github.com/ugeneunipro/ugene) [UGENE](https://ugene.net/) - UGENE 是一款免费开源，跨平台，基于图形界面的生物信息学软件。
 - [![Open-Source Software][oss icon]](https://github.com/veyon/veyon) [Veyon](https://veyon.io/) - Veyon 是一款教室管理软件，它允许教师通过网络控制学生的电脑以及指导学生。
+- [Wolfram Engine](https://www.wolfram.com/engine/) - 可本地下载的 Wolfram 引擎，将计算智能融入你的应用程序。
 
 ### Email
 
@@ -769,6 +772,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](http://ipe.otfried.org) [Ipe](http://ipe.otfried.org) - Ipe 是一款 LaTeX 驱动的绘图编辑器，用于创建 PDF 格式的图表和演示。
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/calligra) [Karbon](https://www.calligra.org/karbon/) - 一款开源的矢量绘图程序。
 - [![Open-Source Software][oss icon]](https://gitlab.com/mattia.basaglia/Knotter) [Knotter](https://knotter.mattbas.org/Knotter) - 一款仅仅设计来帮助凯尔特结设计和创建的程序。
+- [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/kolourpaint) [KolourPaint](https://apps.kde.org/kolourpaint/) - KolourPaint 是一款简单的绘画程序，快速创建位图。
 - [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/krita) [Krita](https://krita.org/en/) - 面向概念艺术家，数字画家以及插画艺术家的开源软件。
 - ![Nonfree][freeware icon][Lunacy](https://icons8.com/lunacy/) - 免费的设计工具，用 AI 工具和内建图形保持你的工作流。
 - [![Open-Source Software][oss icon]](https://github.com/mypaint/mypaint) [Mypaint](https://github.com/mypaint/mypaint)) - Mypaint 是一款配合画板使用的绘画程序。
@@ -818,6 +822,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 
 #### 杂项
 
+- [![Open-Source Software][oss icon]](https://github.com/FreeCAD/FreeCAD) [FreeCAD](https://github.com/FreeCAD/FreeCAD) - FreeCAD 是免费开源多平台的 3D 参数化建模工具。
 - [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake) [Handbrake](https://handbrake.fr/) - HandBrake 是一款视频格式转换工具，几乎可以将任何格式转换为现代，广泛支持的解码格式。
 - [![Open-Source Software][oss icon]](https://github.com/Diolinux/PhotoGIMP) [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - 为 Adobe Photoshop 用户提供的一组补丁，用于优化 GIMP 2.10+ 体验。
 - [![Open-Source Software][oss icon]](https://github.com/Gictorbit/photoshopCClinux) [Photoshop CCv19](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19 的 Gnu/Linux 安装器。
@@ -898,6 +903,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 
 - [Clipgrab](https://clipgrab.org/) - 用于 YouTube 和其他站点，友好的下载工具。
 - [![Open-Source Software][oss icon]](https://github.com/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) - 下载 web 音视频。
+- [![Open-Source Software][oss icon]](https://github.com/spotDL/spotify-downloader) [spotDL](https://github.com/spotDL/spotify-downloader) - 下载你的 Spotify 播放列表和歌曲，同时还有专辑图片和元数据（如果匹配的话从 YouTube 下载）。 
 - [![Open-Source Software][oss icon]](https://github.com/Unrud/video-downloader) [Video Downloader](https://github.com/Unrud/video-downloader) - 从像 YouTube 这样的和其他站点下载视频（基于 yt-dlp）。
 - [![Open-Source Software][oss icon]](https://github.com/jely2002/youtube-dl-gui) [youtube-dl-gui](https://jely2002.github.io/youtube-dl-gui/) - 一款跨平台的 youtube-dl 图形界面，用 Electron 和 node.js 技术构建。
 - [![Open-Source Software][oss icon]](https://github.com/aandrew-me/ytdownloader/) [ytDownloader](https://ytdn.netlify.app/) - yt-dlp 的跨平台图形界面，带有高级选项和现代化界面。
@@ -1032,6 +1038,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/zadam/trilium) [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes 是一款分级的笔记应用，专注于构建大型的个人知识库。
 - [![Open-Source Software][oss icon]](https://github.com/turtl) [Turtl](https://turtlapp.com/) - 安全，协作的笔记本。
 - [![Open-Source Software][oss icon]](https://github.com/klaussinani/tusk) [Tusk](https://klaudiosinani.github.io/tusk/) - 精炼的 Evernote 桌面应用。
+- [Typora](https://typora.io/) - 极简 Markdown 查看编辑器。
 - [![Open-Source Software][oss icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) - 一个跨平台云笔记客户端。
  client.
 
@@ -1126,6 +1133,13 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://gitlab.com/psono/psono-app) [Psono](https://psono.com/) - Psono 是开源的自托管密码管理器，帮你保持数据安全。
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/secrets) [Secrets](https://apps.gnome.org/app/org.gnome.World.Secrets/) - Secrets 是一款和 GNOME 桌面环境完美集成的密码管理器，提供易用整洁的界面用于管理密码数据库。
 - [![Open-Source Software][oss icon]](https://github.com/dani-garcia/vaultwarden) [VaultWarden](https://github.com/dani-garcia/vaultwarden) - 非官方 Bitwarden 兼容服务器，用 Rust 编写，之前的名字叫 bitwarden_rs。
+
+#### 逆向工程
+
+- [![Open-Source Software][oss icon]](https://github.com/rizinorg/cutter) [cutter](https://cutter.re/) - Cutter 目标是成为高级的免费开源逆向工程平台，同时有不错的用户体验。
+- [![Open-Source Software][oss icon]](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git) [GDB](https://www.sourceware.org/gdb/) - GDB，GNU 项目调试器，让你可以在程序运行的时候深入内部。
+- [![Open-Source Software][oss icon]](https://github.com/NationalSecurityAgency/ghidra/releases) [ghidra](https://ghidra-sre.org/) - NSA 研究部门开发的软件逆向工程（SRE）工具套件，用以支持网络安全任务。
+- [![Open-Source Software][oss icon]](https://github.com/radareorg/radare2/releases) [radare2](https://rada.re/n/radare2.html) - 一个免费/自由的工具链，用于简化一些低级任务，如取证、软件逆向工程、利用、调试。
 
 #### 其它
 
