@@ -125,7 +125,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/krtirtho/spotube) [Spotube](https://spotube.netlify.app/) - Spotube 是基于 Flutter 的轻量 spotify 客户端，它利用了 Spotify 和 YouTube 的公共 API，创建了无风险、高性能、资源友好的用户体验。
 - [![Open-Source Software][oss icon]](https://github.com/strawberrymusicplayer/strawberry) [Strawberry](https://www.strawberrymusicplayer.org/) - Strawberry 是一个 Clementine 的 fork，关注音乐收藏者和发烧友。它使用 Qt 和 C++ 编写。
 - [![Open-Source Software][oss icon]](https://github.com/Mastermindzh/tidal-hifi) [Tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - 运行在 electron 的 Tidal web 版本，由 webvine 支持 hifi 体验。
-- [![Open-Source Software][oss icon]](https://github.com/th-ch/youtube-music) [Youtube-Music](https://github.com/th-ch/youtube-music) - YouTube 音乐桌面应用打包，带有一些自定义插件（以及内建的广告屏蔽器和下载器）。
+- [![Open-Source Software][oss icon]](https://github.com/th-ch/youtube-music) [Youtube-Music](https://th-ch.github.io/youtube-music/) - YouTube 音乐桌面应用打包，带有一些自定义插件（以及内建的广告屏蔽器和下载器）。
 
 #### 广播
 
@@ -179,6 +179,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/trigg/Discover) [Discover](https://trigg.github.io/Discover/) - 用 Python 和 GTK3 写的又一个 Discord Linux 浮层。
 - [![Open-Source Software][oss icon]](https://github.com/jagrosh/MusicBot) [JMusicBot](https://jmusicbot.com/) - 一款 Discord 音乐机器人，可以自己轻松搭建和运行。
 - [![Open-Source Software][oss icon]](https://github.com/Cog-Creators/Red-DiscordBot) [Red Discord Bot](https://index.discord.red/) - Red Discord Bot 是一款自托管的音乐/聊天/琐事机器人，可以在树莓派和其他系统上运行。通过一个叫做“Cogs”的系统实现扩展，允许它做更多的事情。
+- [![Open-Source Software][oss icon]](https://github.com/Vendicated/Vencord) [Vencord](https://vencord.dev/) - 最可爱的 Discord 客户端 mod。
 
 #### IRC 客户端
 
@@ -323,15 +324,21 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://www.sqlite.org/src/doc/trunk/README.md) [Sqlite](https://sqlite.org/download.html) - SQLite 是一个进程内的库，实现了自给自足的、无服务器的、零配置的、事务性的 SQL 数据库引擎。
 - [![Open-Source Software][oss icon]](https://github.com/sqlitebrowser/sqlitebrowser) [Sqlite Browser](https://sqlitebrowser.org/) - 可视化创建，管理，以及查看 sqlite 数据库文件。
 
-#### Game Engines
+#### 游戏引擎
 
+- [![Open-Source Software][oss icon]](https://github.com/bevyengine/bevy) [Bevy Engine](https://bevyengine.org/) - 清爽简单，数据驱动的游戏引擎，用 Rust 构建。
 - [![Open-Source Software][oss icon]](https://github.com/defold/defold) [Defold](https://defold.com/) - Defold 是一款完全免费使用的游戏引擎，用于开发桌面，移动和 web 游戏。
 - [![Open-Source Software][oss icon]](https://github.com/AchetaGames/Epic-Asset-Manager) [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install 一款非官方客户端，用于安装 Unreal Engine，下载和管理已购买的资源、项目、插件、Epic 游戏商店的游戏。
+- [![Open-Source Software][oss icon]](https://github.com/FlaxEngine/FlaxEngine) [Flax Engine](https://flaxengine.com/) - Flax Engine – 多平台 3D 游戏引擎。
 - [GameMaker](https://gamemaker.io/en/gamemaker) - 终极 2D 游戏开发环境。
+- [![Open-Source Software][oss icon]](https://github.com/4ian/GDevelop) [GDevelop](https://gdevelop.io/) - 目标是人人可用的开源跨平台游戏引擎。
 - [![Open-Source Software][oss icon]](https://github.com/godotengine) [Godot Engine](https://godotengine.org/) - Godot 提供大量常用工具，你可以专注于制作游戏而不用重复造轮子。
+- [![Open-Source Software][oss icon]](https://github.com/HeapsIO/heaps) [Heaps](https://heaps.io/) - Heaps 是为高性能游戏设计的跨平台图形引擎，设计用于充分利用桌面端、移动端、主机上常用的现代 GPU。
 - [![Open-Source Software][oss icon]](https://github.com/o3de/o3de/) [Open 3D Engine](https://www.o3de.org/) - Open 3D Engine (O3DE) 是一款模块化，开源，跨平台的 3D 引擎，构建来驱动任何场景，从 3A 游戏到影院级 3D 世界，再到高保真模拟。
+- [![Open-Source Software][oss icon]](https://github.com/stride3d/stride) [Stride](https://www.stride3d.net/) - Stride 是开源的 C# 游戏引擎，用于现实渲染和 VR。
 - [Unity](https://unity.com/) - 世界领先的实时内容创造平台。
 - [Unreal Engine](https://www.unrealengine.com/en-US) - 世界上最开放和先进的实时 3D 创建工具。
+- [![Open-Source Software][oss icon]](https://github.com/turanszkij/WickedEngine) [Wicked Engine](https://wickedengine.net/) - 现代化图形 3D 引擎。
 
 #### Git
 
@@ -474,7 +481,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 ### 教育
 
 - [![Open-Source Software][oss icon]](https://apps.ankiweb.net/) [Anki](https://apps.ankiweb.net/) - 强大智能的卡片让记忆更轻松。
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/artha/) [Artha](http://artha.sourceforge.net/wiki/index.php/Home) - Artha 是一款免费跨平台的英语词典，基于 WordNet，可以完全离线使用。
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/artha/) [Artha](https://sourceforge.net/projects/artha/)) - Artha 是一款免费跨平台的英语词典，基于 WordNet，可以完全离线使用。
 - [![Open-Source Software][oss icon]](https://github.com/bibletime/bibletime) [BibleTime](http://bibletime.info/) - BibleTime 是一款基于 Sword 库和 Qt 工具集的圣经学习应用。
 - [![Open-Source Software][oss icon]](https://github.com/CelestiaProject/Celestia) [Celestia](https://github.com/CelestiaProject/Celestia) - 免费的空间模拟器，让你在三维空间中探索我们的宇宙。
 - [![Open-Source Software][oss icon]](https://github.com/opp11/chemtool/) [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool 是一款在 Linux 上绘制化学结构的小程序。
@@ -602,7 +609,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/Cockatrice/Cockatrice) [Cockatrice](https://cockatrice.github.io/) - Cockatrice 是一个开源的多平台网络桌面卡牌游戏支持程序。
 - [![Open-Source Software][oss icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](https://www.nongnu.org/galois/) - Galois 是方块下落类游戏，它不像大多数同类型游戏那样局限于标准的四方连块。
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gbrainy/) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy) - Gbrainy 是一个脑筋急转弯游戏，获得乐趣并且锻炼你的大脑。
-- [![Open-Source Software][oss icon]](https://gitlab.com/pingus/pingus) [Pingus](https://pingus.seul.org/) - 克隆流行的 Lemmings 的 2D 谜题游戏。你的目标是引导一群企鹅安全穿过地图。
+- [![Open-Source Software][oss icon]](https://github.com/Pingus/pingus) [Pingus](https://pingus.seul.org/) - 克隆流行的 Lemmings 的 2D 谜题游戏。你的目标是引导一群企鹅安全穿过地图。
 - [![Open-Source Software][oss icon]](https://github.com/drwhut/tabletop-club) [Tabletop Club](https://drwhut.itch.io/tabletop-club) - 一款基于物理 3D 环境的桌面游戏平台，在 Windows、macOS、Linux 上游玩，使用 Godot 引擎。
 
 #### 竞速
@@ -1079,7 +1086,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 #### 区域隔离
 
 - [![Open-Source Software][oss icon]](https://github.com/AtomsDevs/Atoms) [Atoms](https://github.com/AtomsDevs/Atoms) - 使用 Atoms 轻松管理 Linux Chroot 和容器。
-- [![Open-Source Software][oss icon]](https://github.com/89luca89/distrobox) [Distrobox](https://distrobox.privatedns.org/) - 在终端里使用任意 Linux 发行版。
+- [![Open-Source Software][oss icon]](https://github.com/89luca89/distrobox) [Distrobox](https://distrobox.it/) - 在终端里使用任意 Linux 发行版。
 - [![Open-Source Software][oss icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail 是一款 SUID 程序，通过使用 [Linux namespaces](https://lwn.net/Articles/531114/) 和 [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/) 限制不可信应用的运行环境，来减少安全缺口的风险。
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gnome-boxes) [GNOME Boxes](https://apps.gnome.org/app/org.gnome.Boxes/) - 让虚拟化更简单。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/kvm/files/) [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM （表示 Kernel-based Virtual Machine，基于内核的虚拟机）是一个支持虚拟化扩展（Intel VT 或 AMD-V）Linux 的完全虚拟化方案。
@@ -1206,6 +1213,8 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 ### 终端
 
 - [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty) [Alacritty](https://alacritty.org/) - 跨平台，支持 GPU 加速的终端模拟器。
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/raggesilver/blackbox) [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) - 漂亮的 GTK 4 终端。
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/console) [Console](https://apps.gnome.org/Console/) - GNOME 桌面下的简单且用户友好的终端。
 - [![Open-Source Software][oss icon]](https://github.com/contour-terminal/contour/) [Contour](https://github.com/contour-terminal/contour/) - Contour 是一款现代、快速、模式化的虚拟终端模拟器，适合日常使用。它面向具有现代功能思维的高级用户。
 - [![Open-Source Software][oss icon]](https://github.com/Swordfish90/cool-retro-term) [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - 模拟老式 CRT 显示器的好看终端。
 - [![Open-Source Software][oss icon]](https://github.com/GitSquared/edex-ui) [eDEX-UI](https://github.com/GitSquared/edex-ui) - eDEX-UI 是一款全屏的跨平台终端模拟器和系统监视器，看起来感觉像科幻电脑界面。
@@ -1362,7 +1371,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/pi-hole/pi-hole) [Pi-Hole](https://pi-hole.net) - 通过你的 Linux 硬件实施网络级广告过滤，使用 DNS 过滤和重定向技术，Pi-Hole 可以过滤整个网络上的广告，所以除了电脑以外，智能手机和游戏主机也能从中受益。
 - [![Open-Source Software][oss icon]](https://gitlab.freedesktop.org/pipewire/pipewire) [PipeWire](https://pipewire.org/) - PipeWire 是一个旨在大大改进 Linux 下音频和视频处理的项目。
 - [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk 支持 Linux 下的多部件工作空间/桌面。
-- [![Open-Source Software][oss icon]](https://github.com/fenrus75/powertop) [Powertop](https://01.org/powertop/downloads) - 能源消耗诊断工具。
+- [![Open-Source Software][oss icon]](https://github.com/fenrus75/powertop) [Powertop](https://github.com/fenrus75/powertop) - 能源消耗诊断工具。
 - [![Open-Source Software][oss icon]](https://github.com/pulseaudio/pulseaudio) [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - 用个性化配置改善 Linux 音频。
 - [![Open-Source Software][oss icon]](https://github.com/FreeRDP/Remmina) [Remmina](https://remmina.org/) - 一款功能丰富的远程桌面应用，支持 Linux 以及其它 Unix。
 - [![Open-Source Software][oss icon]](https://github.com/davatorium/rofi) [rofi](https://github.com/davatorium/rofi) - 窗口切换工具，应用启动器，dmenu 的替代品。
