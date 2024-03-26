@@ -878,8 +878,10 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft Edge 是微软创建和开发的跨平台 web 浏览器。
 - [![Open-Source Software][oss icon]](https://gitlab.com/midori-web/midori-desktop) [Midori](https://astian.org/midori-browser/download/) - 一款轻量级的免费浏览器，在低端机器上可以完美运行。
 - [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - 智能，快速的 web 浏览器。
+- [![Open-Source Software][oss icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/) [Mullvad Browser](https://mullvad.net/en/browser) - The Mullvad 浏览器专注隐私，由 Mullvad VPN 和 Tor Project 合作开发。它的设计目标是最小化追踪和指纹信息。
 - [Opera](https://www.opera.com/) - Opera 浏览器是你畅游网络所需的一切。
 - [![Open-Source Software][oss icon]](https://github.com/qutebrowser/qutebrowser) [QuteBrowser](https://www.qutebrowser.org/) - 键盘驱动的，类 vim 操作的浏览器，基于 PyQt5。
+- [![Open-Source Software][oss icon]](https://gitlab.torproject.org/tpo/core/tor/) [Tor](https://www.torproject.org/) - Tor是免费软件和开放网络，可帮助您防御流量分析（一种威胁个人自由和隐私的网络监视形式）。
 - [![Open-Source Software][oss icon]](https://github.com/Eloston/ungoogled-chromium) [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - ungoogled-chromium 是 Google Chromium，去掉对谷歌 web 服务的依赖。
 - [![Open-Source Software][oss icon]](https://github.com/WaterfoxCo/Waterfox) [Waterfox](https://www.waterfox.net/) - Firefox 的分支。Waterfox 给你一个明智的方法浏览网络。心怀用户构建。
 - [Wavebox](https://wavebox.io) - 功能丰富的 Chromium 浏览器，为高效工作构建，帮助你使用如 Google Workspaces、Microsoft Teams、ClickUp、Monday、Atlassian、Asana、AirTable、Slack 等 web 应用完成工作。
@@ -888,7 +890,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 #### 支持工具
 
 - [Clipgrab](https://clipgrab.org/) - 用于 YouTube 和其他站点，友好的下载工具。
-- [![Open-Source Software][oss icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor 是免费软件和一个开放网络，帮助你对抗流量分析（一种网络检测的方式，威胁个人自由与隐私）。
+- [![Open-Source Software][oss icon]](https://github.com/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) - 下载 web 音视频。
 - [![Open-Source Software][oss icon]](https://github.com/Unrud/video-downloader) [Video Downloader](https://github.com/Unrud/video-downloader) - 从像 YouTube 这样的和其他站点下载视频（基于 yt-dlp）。
 - [![Open-Source Software][oss icon]](https://github.com/jely2002/youtube-dl-gui) [youtube-dl-gui](https://jely2002.github.io/youtube-dl-gui/) - 一款跨平台的 youtube-dl 图形界面，用 Electron 和 node.js 技术构建。
 - [![Open-Source Software][oss icon]](https://github.com/aandrew-me/ytdownloader/) [ytDownloader](https://ytdn.netlify.app/) - yt-dlp 的跨平台图形界面，带有高级选项和现代化界面。
@@ -906,7 +908,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/plasmatube) [PlasmaTube](https://apps.kde.org/plasmatube/) - 基于 Kirigami 的 Youtube 客户端，适用于 Linux 桌面和移动设备，内建广告拦截和隐私特性。
 - [![Open-Source Software][oss icon]](https://github.com/popcorn-official/popcorn-desktop) [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - 直接观看 torrent 电影。
 - [![Open-Source Software][oss icon]](https://github.com/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) - 支持 RSS/ATOM/JSON 以及许多基于 web 的 feed 服务的 feed 阅读器。
-- [![Open-Source Software][oss icon]](https://streamlink.github.io/streamlink-twitch-gui/) [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - [Streamlink](https://github.com/streamlink/streamlink) 的多平台 Twitch.tv 浏览器。
+- [![Open-Source Software][oss icon]](https://github.com/streamlink/streamlink-twitch-gui) [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - [Streamlink](https://github.com/streamlink/streamlink) 的多平台 Twitch.tv 浏览器。
 - [![Open-Source Software][oss icon]](https://github.com/pystardust/ytfzf) [ytfzf](https://github.com/pystardust/ytfzf) - 终端 Youtube/Odysee 客户端，带有略缩图。
 
 ### 办公
@@ -1008,6 +1010,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/dvorka/mindforger) [Mindforger](https://www.mindforger.com/) - 思维笔记以及 Markdown 编辑器。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - EverNote 开源客户端。
 - [![Open-Source Software][oss icon]](https://github.com/nuttyartist/notes) [Notes](https://www.get-notes.com/) - 一款干净又简单的 Linux 笔记应用。
+- [![Open-Source Software][oss icon]](https://github.com/streetwriters/notesnook) [Notesnook](https://notesnook.com/) - 完全开源，支持端到端加密的笔记应用，类似 Evernote。
 - [Obsidian](https://obsidian.md/) - Obsidian 是基于本地 markdown 文件文件夹的强大知识库。
 - [![Open-Source Software][oss icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote。
 - [![Open-Source Software][oss icon]](http://orgmode.org/) [Org mode](https://orgmode.org/) - Org mode 在一个快速且高效的纯文本系统上记录笔记，维护 TODO 列表，规划项目以及创作文档。
@@ -1225,6 +1228,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/gnunn1/tilix) [Tilix](https://gnunn1.github.io/tilix-web/) - 使用 GTK+3 的平铺 Linux 终端模拟器。
 - [![Open-Source Software][oss icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - 快速，轻量的文本模式窗口环境，支持鼠标。在一个 Linux 控制台，终端或 X11 窗口中启用多个终端。它可以将程序脱离（程序在后台运行）和在另一个控制台，终端或 X11 服务器中重新连接它们。可用在 Linux，Mac OS X 和 BSD 上。
 - [![Open-Source Software][oss icon]](https://github.com/saulpw/visidata) [Visidata](http://visidata.org/) - 一款用来发现和整理数据的终端电子表格多功能工具。
+- [![Open-Source Software][oss icon]](https://github.com/wez/wezterm) [WezTerm](https://wezfurlong.org/wezterm/) - 跨平台 GPU 加速的终端模拟器和复用器，@wez 编写，用 Rust 实现。
 - [![Open-Source Software][oss icon]](https://invisible-island.net/xterm/) [Xterm](https://invisible-island.net/xterm/) - Xterm 是一个 X 窗口系统的终端模拟器。它给不直接使用窗口系统的程序提供了 DEC VT102 和 Tektronix 4014 兼容终端。
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/yakuake) [Yakuake](https://apps.kde.org/yakuake/) - 一款基于 KDE Konsole 技术的 Quake 风格的终端模拟器。
 - [![Open-Source Software][oss icon]](https://github.com/zellij-org/zellij) [Zellij](https://zellij.dev/) - 终端工作空间和复用器。让你打开若干面板和标签页运行不同的程序，共同分享一个终端会话，以及还有更多功能。非常用户友好以及直观。
