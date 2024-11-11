@@ -324,6 +324,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/postgres/postgres) [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL 是一款开发超过 15 年的强大，开源的对象-关系型数据库系统。PostgreSQL 不由任何公司或其它私有实体控制，源代码免费提供。
 - [![Open-Source Software][oss icon]](https://www.sqlite.org/src/doc/trunk/README.md) [Sqlite](https://sqlite.org/download.html) - SQLite 是一个进程内的库，实现了自给自足的、无服务器的、零配置的、事务性的 SQL 数据库引擎。
 - [![Open-Source Software][oss icon]](https://github.com/sqlitebrowser/sqlitebrowser) [Sqlite Browser](https://sqlitebrowser.org/) - 可视化创建，管理，以及查看 sqlite 数据库文件。
+- [![Open-Source Software][oss icon]](https://github.com/WebDB-App/app) [WebDB](https://webdb.app/) - 开源且高效的数据库 IDE。轻松连接服务器，现代 ERD（实体关系图），智能数据生成器，AI 助手，NoSQL 结构管理器，时间机器功能以及强大的查询编辑器。
 
 #### 游戏引擎
 
@@ -334,6 +335,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [GameMaker](https://gamemaker.io/en/gamemaker) - 终极 2D 游戏开发环境。
 - [![Open-Source Software][oss icon]](https://github.com/4ian/GDevelop) [GDevelop](https://gdevelop.io/) - 目标是人人可用的开源跨平台游戏引擎。
 - [![Open-Source Software][oss icon]](https://github.com/godotengine) [Godot Engine](https://godotengine.org/) - Godot 提供大量常用工具，你可以专注于制作游戏而不用重复造轮子。
+- [![Open-Source Software][oss icon]](https://github.com/haxeflixel/flixel) [Haxeflixel](https://haxeflixel.com/) - 用 [Haxe](https://github.com/HaxeFoundation/haxe) 编写的 2D 游戏引擎。
 - [![Open-Source Software][oss icon]](https://github.com/HeapsIO/heaps) [Heaps](https://heaps.io/) - Heaps 是为高性能游戏设计的跨平台图形引擎，设计用于充分利用桌面端、移动端、主机上常用的现代 GPU。
 - [![Open-Source Software][oss icon]](https://github.com/o3de/o3de/) [Open 3D Engine](https://www.o3de.org/) - Open 3D Engine (O3DE) 是一款模块化，开源，跨平台的 3D 引擎，构建来驱动任何场景，从 3A 游戏到影院级 3D 世界，再到高保真模拟。
 - [![Open-Source Software][oss icon]](https://github.com/stride3d/stride) [Stride](https://www.stride3d.net/) - Stride 是开源的 C# 游戏引擎，用于现实渲染和 VR。
@@ -431,18 +433,20 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://phabricator.kde.org/source/heaptrack/repository/master/) [Heaptrack](https://phabricator.kde.org/source/heaptrack/repository/master/) - Linux 堆内存分析工具。
 - [![Open-Source Software][oss icon]](https://github.com/WindSoilder/hors) [hors](https://github.com/WindSoilder/hors) - 从命令行立即得到编程答案。
 - [![Open-Source Software][oss icon]](https://github.com/Kong/insomnia) [Insomnia](https://insomnia.rest/) - 一款简单，漂亮且免费的 REST API 客户端。
+- [Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html) - 一款来自英特尔的图形和命令行工具，用 C/C++、C#、Java 等编写，用于寻找和修复性能瓶颈。
 - [![Open-Source Software][oss icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - 开源，交互式数据科学和科学计算，支持超过 40 种编程语言。
 - [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazydocker) [lazydocker](https://github.com/jesseduffield/lazydocker) - docker 和 docker-compose 的简单终端界面，用 Go 和 gocui 库编写。
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/tree/main) [Meld](https://meldmerge.org/) - Meld 是一款可视化 diff 和 merge 工具，帮助你比较文件，目录以及有版本控制的项目。
 - [![Open-Source Software][oss icon]](https://gitlab.com/rmnvgr/metadata-cleaner/) [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - 这个工具允许你查看文件的元信息，并让你尽可能摆脱它（清除）。
 - [Mockingbot](https://mockingbot.com) - Mockingbot 是一款易用的原型工具。
-- [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/okteta) [Okteta](https://apps.kde.org/okteta/) - 查看和编辑文件原始数据的十六进制编辑器。 
+- [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/okteta) [Okteta](https://apps.kde.org/okteta/) - 查看和编辑文件原始数据的十六进制编辑器。
 - [![Open-Source Software][oss icon]](https://github.com/evolus/pencil) [Pencil](https://pencil.evolus.vn/) - 开源图形界面原型工具，在各平台可用。
 - [![Open-Source Software][oss icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](https://kryogenix.org/code/pick/) - 简单的拾色器。
 - [Postman](https://www.getpostman.com) - Postman 允许用户快速开发和测试 API。
 - [![Open-Source Software][oss icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS 是一个图形工具的集合，提供一个与你使用的版本控制系统简单而直接的访问方式。
 - [![Open-Source Software][oss icon]](https://github.com/CoatiSoftware/Sourcetrail) [Sourcetrail](https://www.sourcetrail.com/) - Sourcetrail 是一款免费开源跨平台的源码浏览器，帮助你在不熟悉的源码上提高效率。
 - ![Non Free][money icon] [StarUML](http://staruml.io/) - 一款精致的软件塑造者。
+- [![Open-Source Software][oss icon]](https://github.com/gcla/termshark) [Termshark](https://termshark.io/) - 一款 tshark 的终端界面，收 Wireshark 启发。
 - [![Open-Source Software][oss icon]](https://github.com/uncrustify/uncrustify) [Uncrustify](http://uncrustify.sourceforge.net/) - C/C++、C#、ObjectiveC、D、Java、Pawn、VALA 源代码美化工具。参见下方的 UniversalIndentGUI。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI 提供几乎任何格式化设置的即时预览。
 - [![Open-Source Software][oss icon]](https://sourceware.org/git/?p=valgrind.git) [Valgrind](http://valgrind.org/) - Valgrind 是一款遵守 GPL 的 Linux 程序调试和性能分析工具。
@@ -454,6 +458,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 
 ### 电子书工具
 
+- [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/arianna) [Arianna](https://apps.kde.org/arianna/) - 来自 KDE 的一款用于 `.epub` 文件的电子书阅读器和书库管理应用。
 - [![Open-Source Software][oss icon]](https://github.com/babluboy/bookworm) [Bookworm](https://babluboy.github.io/bookworm/) - 简单，专注的电子书阅读器。
 - [![Open-Source Software][oss icon]](https://github.com/oguzhaninan/Buka) [Buka](https://github.com/oguzhaninan/Buka/) - 电子书管理程序。
 - [![Open-Source Software][oss icon]](https://github.com/kovidgoyal/calibre) [Calibre](https://calibre-ebook.com/) - 难以置信的丑但很强大的电子书管理和转换软件。
@@ -465,6 +470,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [Foxit](https://www.foxitsoftware.com/pdf-reader/) - Foxit Reader 8.0——获得殊荣的 PDF 阅读器。
 - [![Open-Source Software][oss icon]](https://github.com/martahilmar/gnome-books) [GNOME Books](https://github.com/martahilmar/gnome-books) - GNOME Books 用于查看、搜索和阅读电子书。
 - [![Open-Source Software][oss icon]](https://www.willus.com/k2pdfopt/src) [K2pdfopt](https://www.willus.com/k2pdfopt) - K2pdfopt 为移动电子阅读器（如 Kindle）和智能手机优化 PDF/DJVU 文件。
+- [![Open-Source Software][oss icon]](https://codeberg.org/valos/Komikku) [Komikku](https://apps.gnome.org/Komikku/) - 漫画阅读器，支持在线和离线阅读，自动下载，本地存储漫画格式（CBZ 和 CBR），收藏整理等功能。
 - [Lucidor](https://www.lucidor.org/lucidor/) - Lucidor 是一个阅读和处理电子书的电脑软件。Lucidor 支持 EPUB 格式的电子书和 OPDS 格式的目录。
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor 一款方便而智能的 Linux PDF 编辑器。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ 漫画书查看器。
@@ -783,6 +789,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/sweethome3d/) [Sweet Home 3D](http://www.sweethome3d.com/) - 房屋内外部设计工具，带有 3D 预览，免费模型数据库，可视化访问以及实用的插件仓库。
 - [![Open-Source Software][oss icon]](https://github.com/synfig/synfig) [Synfig Studio](https://www.synfig.org/) - 开源 2D 动画软件。
 - [![Open-Source Software][oss icon]](https://github.com/scantailor/scantailor) [Scan Tailor](https://scantailor.org/) - Scan Tailor 是一款交互式扫描件后期处理工具。使用教程可以参见它的[用户指南](https://github.com/scantailor/scantailor/wiki/User-Guide)。
+- [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/skanpage) [Skanpage](https://apps.kde.org/skanpage/) - 简单的多页文档扫描应用。
 - [Vectr](https://vectr.com/) - Vextr 是一款免费的图形软件，用于轻松直观地创建矢量图。它是个简单又强大的 web 及桌面端跨平台工具，将你的设计带入现实。
 - [![Open-Source Software][oss icon]](http://www.xaraxtreme.org/Developers/develeopers-source-code-a-building.html) [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux 是一款强大，通用，适用于 Unix 平台（包括 Linux， FreeBSD）的图形处理程序。
 - [yEd Graph Editor](https://www.yworks.com/products/yed) - yED 是一款用来快速高效地生成高质量图表的强大桌面应用。可以手动创建图表，或导入你的外部数据用于分析。自动布局算法甚至可以在按钮点击时就排布好巨大的数据集。
@@ -1037,6 +1044,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/tomboy-notes/tomboy) [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy 是一款简单易用的桌面笔记应用。
 - [![Open-Source Software][oss icon]](https://github.com/zadam/trilium) [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes 是一款分级的笔记应用，专注于构建大型的个人知识库。
 - [![Open-Source Software][oss icon]](https://github.com/turtl) [Turtl](https://turtlapp.com/) - 安全，协作的笔记本。
+- [Typora](https://typora.io/) - 一款极简的 Markdown 查看器与编辑器。
 - [![Open-Source Software][oss icon]](https://github.com/klaussinani/tusk) [Tusk](https://klaudiosinani.github.io/tusk/) - 精炼的 Evernote 桌面应用。
 - [Typora](https://typora.io/) - 极简 Markdown 查看编辑器。
 - [![Open-Source Software][oss icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) - 一个跨平台云笔记客户端。
@@ -1137,6 +1145,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 #### 逆向工程
 
 - [![Open-Source Software][oss icon]](https://github.com/rizinorg/cutter) [cutter](https://cutter.re/) - Cutter 目标是成为高级的免费开源逆向工程平台，同时有不错的用户体验。
+- [![Open-Source Software][oss icon]](https://github.com/eteran/edb-debugger) [edb-debugger](https://github.com/eteran/edb-debugger) - edb 是一款跨平台的 AArch32/x86/x86-64 调试器。它受到 Ollydbg 的启发。
 - [![Open-Source Software][oss icon]](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git) [GDB](https://www.sourceware.org/gdb/) - GDB，GNU 项目调试器，让你可以在程序运行的时候深入内部。
 - [![Open-Source Software][oss icon]](https://github.com/NationalSecurityAgency/ghidra/releases) [ghidra](https://ghidra-sre.org/) - NSA 研究部门开发的软件逆向工程（SRE）工具套件，用以支持网络安全任务。
 - [![Open-Source Software][oss icon]](https://github.com/radareorg/radare2/releases) [radare2](https://rada.re/n/radare2.html) - 一个免费/自由的工具链，用于简化一些低级任务，如取证、软件逆向工程、利用、调试。
@@ -1559,7 +1568,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/mate-desktop/) [Mate](https://mate-desktop.com/) - Mate 用传统隐喻给 Linux 用户提供一个直观又有吸引力的桌面。MATE 是 GNOME 2 的一个 fork。
 - [![Open-Source Software][oss icon]](https://elementary.io/) [Pantheon](https://elementary.io/) - Pantheon 是最初为发行版 elementary OS 创建的桌面环境，同时也是它的默认桌面环境。
 - [![Open-Source Software][oss icon]](https://github.com/ukui/ukui-desktop-environment) [UKUI](https://www.ukui.org/) - UKUI 是一款 Linux 发行版和其他类 UNIX 操作系统的桌面环境，最初为  Ubuntu Kylin 开发，使用 Qt 框架开发。
-- [![Open-Source Software][oss icon]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) - Unity 是 GNOME 的一个 shell，由 Canonical 为 Ubuntu 设计。 
+- [![Open-Source Software][oss icon]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) - Unity 是 GNOME 的一个 shell，由 Canonical 为 Ubuntu 设计。
 - [![Open-Source Software][oss icon]](https://github.com/xfce-mirror) [Xfce](https://www.xfce.org/) - Xfce 体现了模块化和可重用的传统 UNIX 哲学。
 
 ## 显示管理
